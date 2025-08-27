@@ -12,7 +12,9 @@ function App() {
     <div>
      <Navbar/>
      <main>
+      <div className='logog__img'>
       <img src={logog} alt="SilviaVet" />
+      </div>
      </main>
     </div>
   )

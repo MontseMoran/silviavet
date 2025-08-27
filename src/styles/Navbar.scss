@@ -3,44 +3,85 @@
   align-items: center;
   justify-content: space-between;
   padding: 1rem 2rem;
-  background-color: white;
+  background-color: rgb(31, 188, 94);
 
   &__brand img {
-    height: 60px; // ajusta según tu logo
+    height: 150px; 
+  }
+
+  &__toggle {
+    font-size: 2rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: block; 
+  }
+    img {
+    width: 24px;        
+    height: 24px;
+    object-fit: contain;
   }
 
   &__menu {
-    display: flex;
+    display: none; 
+    flex-direction: column;
     list-style: none;
     margin: 0;
     padding: 0;
+    width: 100%;
+    background-color: white;
+
+    &.open {
+      display: flex; 
+    }
 
     li {
-      margin: 0 1rem;
-    }
+      padding: 0.5rem 1rem;
+      border-bottom: 1px solid #eee;
 
-    .navbar__link {
-      text-decoration: none;
-      color: #333;
-      font-weight: 500;
+      .navbar__link {
+        text-decoration: none;
+        color: #333;
+        font-weight: 500;
 
-      &:hover {
-        color: #3c9d9b; 
+        &:hover {
+          color: #3c9d9b;
+        }
+
+        &--button {
+          background-color: #d1752a;
+          color: white;
+          padding: 0.5rem 1rem;
+          border-radius: 0.5rem;
+          font-weight: 600;
+          display: inline-block;
+
+          &:hover {
+            background-color: #87c529;
+            color: white;
+          }
+        }
       }
     }
+  }
 
-    .navbar__link--button {
-      background-color: #d1752a;
-      color: white;
-      padding: 0.5rem 1rem;
-      border-radius: 0.5rem;
-      font-weight: 600;
+  
+  @media (min-width: 768px) {
+    &__toggle {
+      display: none; 
+    }
 
-      &:hover {
-        background-color: #87c529;
-        color:white;
+    &__menu {
+      display: flex !important;
+      flex-direction: row;
+      align-items: center;
+      width: auto;
+      background: transparent;
+
+      li {
+        border: none;
+        margin: 0 1rem;
       }
     }
   }
 }
-

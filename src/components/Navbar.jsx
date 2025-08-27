@@ -4,6 +4,7 @@ import LanguageSelector from "./LanguageSelector";
 import logo from "/logo.png"
 import { useState } from "react";
 
+
 function Navbar (){
 const {t} = useTranslation();
 const [isOpen, setIsOpen] = useState(false);
@@ -15,7 +16,7 @@ return(
   onClick={() => setIsOpen(!isOpen)}
   aria-label="Abrir menú"
 >
-  ☰
+  <img src="/icons/hamburger.png" alt="Abrir menú" />
 </button>
 
   <div className="navbar__brand">
