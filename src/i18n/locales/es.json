@@ -1,0 +1,11 @@
+{
+  "nav": {
+    "brand": "SilviaVet",
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "lang_es": "ES",
+    "lang_it": "IT"
+  }
+}
