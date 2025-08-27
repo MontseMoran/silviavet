@@ -1,4 +1,5 @@
 import { useTranslation } from "react-i18next";
+import "../styles/LanguageSelector.scss"
 
 function LanguageSelector() {
   const { i18n } = useTranslation();
