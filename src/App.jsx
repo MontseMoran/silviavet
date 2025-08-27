@@ -2,7 +2,7 @@ import { useState } from 'react'
 import logog from "/logog.png"
 
 
-import './App.css'
+import './App.scss'
 
 import Navbar from './components/Navbar'
 

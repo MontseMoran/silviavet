@@ -1,7 +1,7 @@
-import { useTranslation } from "react-i18next"
-import "../styles/Navbar.scss"
+import { useTranslation } from "react-i18next";
+import "../styles/Navbar.scss";
 import LanguageSelector from "./LanguageSelector";
-import logo from "/logo.png"
+import logo from "/logo.png";
 import { useState } from "react";
 
 
@@ -16,11 +16,14 @@ return(
   onClick={() => setIsOpen(!isOpen)}
   aria-label="Abrir menú"
 >
-  <img src="/icons/hamburger.png" alt="Abrir menú" />
+  <img className= "navbar__icon" src="/icons/hamburger.png" alt="Abrir menú" />
 </button>
 
   <div className="navbar__brand">
-   <img src={logo} alt="" />
+    <div className="navbar__logo">
+      <img src={logo} alt="" />
+    </div>
+   
   </div>
 <ul className={`navbar__menu ${isOpen ? "open" : ""}`}>
   <li><a className="navbar__link" href="#sobre">{t("nav.about")}</a></li>
