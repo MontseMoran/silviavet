@@ -29,7 +29,7 @@ return(
   <li><a className="navbar__link" href="#sobre">{t("nav.about")}</a></li>
   <li><a className="navbar__link" href="#servicios">{t("nav.services")}</a></li>
   <li><a className="navbar__link" href="#beneficios">{t("nav.benefits")}</a></li>
-  <li><a className="navbar__link" href="#testimonios">{t("nav.testimonials")}</a></li>
+  <li><a className="navbar__link" href="#blog">{t("nav.blog")}</a></li>
   <li><a className="navbar__link" href="#contacto">{t("nav.contact")}</a></li>
 
 
