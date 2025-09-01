@@ -10,5 +10,10 @@
     "book": "Prenota la tua consulenza",
     "lang_es": "ES",
     "lang_it": "IT"
+  },
+  "footer": {
+    "follow": "Seguimi su",
+    "legal": "© {{year}} Silvia Vet. Tutti i diritti riservati."
   }
 }
+
