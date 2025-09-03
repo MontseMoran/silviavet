@@ -26,11 +26,11 @@ return(
    
   </div>
 <ul className={`navbar__menu ${isOpen ? "open" : ""}`}>
-  <li><a className="navbar__link" href="#sobre">{t("nav.about")}</a></li>
-  <li><a className="navbar__link" href="#servicios">{t("nav.services")}</a></li>
-  <li><a className="navbar__link" href="#beneficios">{t("nav.benefits")}</a></li>
+  <li><a className="navbar__link" href="#about">{t("nav.about")}</a></li>
+  <li><a className="navbar__link" href="#services">{t("nav.services")}</a></li>
+  <li><a className="navbar__link" href="#benefits">{t("nav.benefits")}</a></li>
   <li><a className="navbar__link" href="#blog">{t("nav.blog")}</a></li>
-  <li><a className="navbar__link" href="#contacto">{t("nav.contact")}</a></li>
+  <li><a className="navbar__link" href="#contact">{t("nav.contact")}</a></li>
 
 
   <li>

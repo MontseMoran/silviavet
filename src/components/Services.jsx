@@ -3,7 +3,7 @@ import "../styles/Services.scss"
 
 function Services(){
     return(
-<section className="services">
+<section id="services"className="services">
   <h2>Servicios</h2>
   <p>Contenido de la sección...</p>
 

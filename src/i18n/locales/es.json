@@ -13,7 +13,18 @@
   },
   "footer": {
     "follow": "Sígueme en",
-    "legal": "© {{year}} Silvia Vet. Todos los derechos reservados."
+    "legal": "© {{year}} Silvia Vet. Todos los derechos reservados.",
+    "email": "Escríbeme a",
+    "whatsApp": "Escríbeme por whatsApp"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "paragraphs": [
+      "Desde siempre, la naturaleza y los animales han formado parte de mi vida, por lo que elegir mi profesión fue algo natural. Me licencié en Medicina Veterinaria en la Universidad de Sassari en el año académico 2009-2010 y, tras distintas experiencias formativas en Italia, España y Suiza, en 2013 me trasladé a España, donde vivo y trabajo actualmente.",
+      "Durante años me dediqué a la clínica veterinaria tradicional, pero sentía que faltaba 'algo más'. En 2018 comencé a interesarme por la fitoterapia y la nutrición, descubriendo finalmente el camino que buscaba. Comprendí que la verdadera atención debe considerar al individuo en su totalidad y que la nutrición es una herramienta esencial no solo para la prevención, sino también para la curación.",
+      "Para consolidar mis conocimientos, cursé la Escuela de Nutrición Clínica Sistémica Veterinaria y posteriormente la Accademia Italiana Medici Olistici Veterinari (AIMOV), donde profundicé en disciplinas complementarias como micoterapia, aromaterapia, floriterapia y sales de Schüssler.",
+      "Hoy colaboro con diversas clínicas elaborando planes nutricionales personalizados que tienen en cuenta las necesidades específicas de cada paciente, integrando, cuando es necesario, enfoques naturales y holísticos.",
+      "Creo firmemente que cada animal merece vivir de la mejor manera posible y estoy convencida de que el bienestar comienza siempre con el amor, el cuidado y una correcta alimentación."
+    ]
   }
 }
-

@@ -2,7 +2,10 @@ body{
   font-family: 'Montserrat';
   font-size: 0.9rem;
 }
-
+html {
+  scroll-behavior: smooth;
+}
+section[id] { scroll-margin-top: 84px; } 
 
 .logog__img {
   display: flex;
@@ -18,7 +21,7 @@ body{
 
   @media (min-width: 768px) {
     img {
-      max-width: 70%;
+      max-width: 60%;
     }
   }
 

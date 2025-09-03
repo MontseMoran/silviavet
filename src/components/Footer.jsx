@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 import "../styles/Footer.scss";
 
-export default function Footer() {
+ function Footer() {
   const { t } = useTranslation();
   const year = new Date().getFullYear();
 
@@ -9,10 +9,10 @@ export default function Footer() {
 <footer className="footer footer--diagonals">
   <div className="footer__inner">
 
-    <div className="footer__cards">
+    <div id="contact"className="footer__cards">
      
       <div className="footer__card footer__card--left">
-        <p>Llámame o escríbeme por WhatsApp</p>
+        <p>{t("footer.whatsApp")}:</p>
         <a href="https://wa.me/34613898805" target="_blank" rel="noreferrer">
           <img src="/icons/whatsApp.png" alt="WhatsApp" className="footer__icon"/>
         </a>
@@ -20,14 +20,14 @@ export default function Footer() {
 
      
       <div className="footer__card footer__card--center">
-        <p>Contáctame</p>
-        <a href="tel:+34613898805" className="footer__link">📞 +34 613 898 805</a>
+        <p>{t("footer.email")}:</p>
         <a href="mailto:info@silviavet.com" className="footer__link">📧 info@silviavet.com</a>
       </div>
 
     
       <div className="footer__card footer__card--right">
         <p>{t("footer.follow")}:</p>
+        <div className="footer__card_social-media">
         <a
           href="https://www.facebook.com/SilviaGasperinivet"
           target="_blank"
@@ -36,6 +36,17 @@ export default function Footer() {
         >
           <img src="/icons/facebook.png" alt="Facebook" className="footer__icon"/>
         </a>
+       
+         
+           <a
+          href="https://www.instagram.com/silviavet_/"
+          target="_blank"
+          rel="noreferrer"
+          aria-label="Instagram de Silvia Vet"
+        >
+          <img src="/icons/instagram.jpg" alt="Instagram" className="footer__icon"/>
+        </a>
+         </div>
       </div>
     </div>
 
@@ -46,3 +57,4 @@ export default function Footer() {
 </footer>
   )
 }
+export default Footer;

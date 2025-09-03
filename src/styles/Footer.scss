@@ -15,6 +15,7 @@
   color: #243427;               
   text-align: center;
   position: relative;
+    overflow-x: clip;
 
  
   padding: calc(var(--height1) + 26px) 1rem 2.25rem;
@@ -84,9 +85,10 @@
 }
 
 .footer__link{
-  color: #1e2b24;
+  color: #010e07;
   text-decoration: none;
   transition: opacity .15s ease;
+  font-weight: bold;
 }
 .footer__link:hover{ 
     opacity:.75; 
@@ -100,22 +102,25 @@
   gap:.75rem;
    margin:.6rem 0 0;
   font-size: .95rem;
-   color:#30443a;
+   color:#042011;
 }
 .footer__social a{ 
-    display:inline-flex; 
+    display:flex; 
     align-items:center; 
     justify-content:center; 
+    
 }
 .footer__social img{
   width:26px;
   height:26px; 
   object-fit:contain; 
-  display:inline-block;
+  display:flex;
   transition: transform .15s ease;
 }
 .footer__social img:hover{ 
     transform: scale(1.06); 
+      
+
 }
 .footer__icon {
   width: 32px;
@@ -123,17 +128,28 @@
   cursor: pointer;
   transition: transform 0.2s ease;
 
+
   &:hover {
     transform: scale(1.1);
   }
 }
+.footer__card_social-media{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;               
+}
+.footer__card_social-media a{ 
+  display:inline-flex; 
+}
+
 
 
 
 .footer__legal{
-  margin-top: .5rem;
+  margin-top: 0;
   font-size: .85rem;
-  color: #4a5b54;
+  color: #1c4534;
 }
 .footer__cards {
   position: relative;
@@ -141,20 +157,29 @@
   justify-content: center;
   align-items: flex-start;
   margin: 1.5rem auto;
-  max-width: 720px;
+  width: 220px;
+  min-height: 180px;
 }
 .footer__card {
   background: rgba(244, 229, 229, 0.95);
   backdrop-filter: saturate(120%) blur(2px);  
   border-radius: 16px;
   box-shadow: 0 10px 28px rgba(0,0,0,.10);
-  padding: 1.1rem 1.25rem;
+  padding: 1rem 1.25rem;
   width: 220px;
-  text-align: center;
+   text-align: center;
   position: relative;
   z-index: 1;
   transition: transform 0.3s ease, z-index 0.3s ease;
   font-size: 0.95rem;
+  min-height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.4rem;
+  text-align: center;
+  line-height: 1.25;
   &:hover{
     z-index: 3;
     transform: scale(1.05);
@@ -163,18 +188,21 @@
 }
 .footer__card--center {
   z-index: 2;
+  
+ 
 }
 .footer__card--left {
   position: absolute;
-  left: -160px;
+  left: -220px;
   top: 20px;
   transform: scale(1.05) translate(-10px);
 }
 .footer__card--right {
   position: absolute;
-  right: -160px;
+  right: -220px;
   top: 20px;
  transform: scale(1.05) translate(-10px);
+
 }
 
 
