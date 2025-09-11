@@ -10,6 +10,7 @@ const {t} = useTranslation();
 const [isOpen, setIsOpen] = useState(false);
 
 return(
+  <>
 <nav className="navbar" role="navigation" aria-label="Menú principal">
 <button
   className="navbar__toggle"
@@ -25,7 +26,10 @@ return(
     </div>
    
   </div>
-<ul className={`navbar__menu ${isOpen ? "open" : ""}`}>
+<ul className={`navbar__menu ${isOpen ? "open" : ""}`}
+onClick={(e)=>e.stopPropagation()}>
+
+
   <li><a className="navbar__link" href="#about">{t("nav.about")}</a></li>
   <li><a className="navbar__link" href="#services">{t("nav.services")}</a></li>
   <li><a className="navbar__link" href="#benefits">{t("nav.benefits")}</a></li>
@@ -39,13 +43,19 @@ return(
     </a>
   </li>
 </ul>
-
+  
    <LanguageSelector/>
 </nav>
-
-
+{isOpen && (
+  <div
+    className="nav-overlay"
+    onClick={() => setIsOpen(false)}
+  ></div>
+)}
+</>
 
 );
+
 }
 
 export default Navbar; 

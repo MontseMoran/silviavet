@@ -1,5 +1,12 @@
 
 .nav-spacer { height: 64px; } 
+.nav-overlay {
+  position: fixed;
+  inset: 0; 
+  background: transparent; 
+  z-index: 1005; 
+}
+
 
 .navbar {
   position: fixed;
@@ -35,7 +42,7 @@
     transform-origin: top;
     opacity: 0;
     transition: transform .4s ease-in-out, opacity .3s ease-in-out;
-
+z-index: 1101;
     display: flex;
     flex-direction: column;
     list-style: none;
