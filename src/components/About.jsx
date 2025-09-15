@@ -1,13 +1,13 @@
 import "../styles/About.scss";
 import { useTranslation } from "react-i18next";
-import profile from "../assets/profile.png";
+import profile from "../assets/profile.webp";
 
 export default function About() {
   const { t } = useTranslation();
   const paragraphs = t("about.paragraphs", { returnObjects: true }) || [];
 
-  const side = paragraphs.slice(0, 2);   // 2 primeros al lado de la foto
-  const rest = paragraphs.slice(2);      // el resto debajo
+  const side = paragraphs.slice(0, 2);   
+  const rest = paragraphs.slice(2);      
 
   return (
     <section id="about" className="about">
