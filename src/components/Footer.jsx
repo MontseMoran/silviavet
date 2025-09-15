@@ -34,7 +34,7 @@ import "../styles/Footer.scss";
           rel="noreferrer"
           aria-label="Facebook de Silvia Vet"
         >
-          <img src="/icons/facebook.png" alt="Facebook" className="footer__icon"/>
+          <img src="/icons/facebook.png" alt="Facebook" className="footer__icon__facebook"/>
         </a>
        
          
@@ -44,7 +44,7 @@ import "../styles/Footer.scss";
           rel="noreferrer"
           aria-label="Instagram de Silvia Vet"
         >
-          <img src="/icons/instagram.jpg" alt="Instagram" className="footer__icon"/>
+          <img src="/icons/instagram.jpg" alt="Instagram" className="footer__icon__instagram"/>
         </a>
          </div>
       </div>

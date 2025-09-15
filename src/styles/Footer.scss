@@ -111,8 +111,8 @@
     
 }
 .footer__social img{
-  width:26px;
-  height:26px; 
+  width:32px;
+  height:32px; 
   object-fit:contain; 
   display:flex;
   transition: transform .15s ease;
@@ -127,7 +127,12 @@
   height: 32px;
   cursor: pointer;
   transition: transform 0.2s ease;
-
+&__facebook{
+  width: 28px;
+}
+&__instagram{
+  width: 38px;
+}
 
   &:hover {
     transform: scale(1.1);
@@ -188,6 +193,7 @@
 }
 .footer__card--center {
   z-index: 2;
+  background-color: #f4e5e5;
   
  
 }
