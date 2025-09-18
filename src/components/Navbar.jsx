@@ -22,17 +22,17 @@ return(
 
   <div className="navbar__brand">
     <div className="navbar__logo">
-      <img src={logo} alt="" />
+      <img src={logo} alt="Silvia Vet logo" />
     </div>
    
   </div>
 <ul className={`navbar__menu ${isOpen ? "open" : ""}`}
 onClick={(e)=>e.stopPropagation()}>
 
-
+<li><a className="navbar__link" href="#benefits">{t("nav.benefits")}</a></li>
   <li><a className="navbar__link" href="#about">{t("nav.about")}</a></li>
   <li><a className="navbar__link" href="#services">{t("nav.services")}</a></li>
-  <li><a className="navbar__link" href="#benefits">{t("nav.benefits")}</a></li>
+  
   <li><a className="navbar__link" href="#blog">{t("nav.blog")}</a></li>
   <li><a className="navbar__link" href="#contact">{t("nav.contact")}</a></li>
 
@@ -46,6 +46,7 @@ onClick={(e)=>e.stopPropagation()}>
   
    <LanguageSelector/>
 </nav>
+ <div className="nav-spacer" />
 {isOpen && (
   <div
     className="nav-overlay"

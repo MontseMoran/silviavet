@@ -21,10 +21,31 @@
     "title": "Chi sono",
     "paragraphs": [
       "Da sempre la natura e gli animali hanno fatto parte della mia vita ed è stato semplice capire quale sarebbe stata la mia professione. Mi sono laureata in Medicina Veterinaria presso l’Università degli Studi di Sassari nell'anno accademico 2009 - 2010 e, dopo esperienze formative in Italia, Spagna e Svizzera, nel 2013 mi sono trasferita in Spagna, dove vivo e lavoro tuttora.",
-      "Per anni mi sono dedicata alla clinica tradizionale, sentendo però che mancava un \"qualcosa\". Nel 2018 ho iniziato a interessarmi alla fitoterapia e alla nutrizione, trovando finalmente ciò che cercavo. Ho compreso quanto la cura debba abbracciare l’individuo in toto e come la nutrizione sia uno strumento fondamentale non solo di prevenzione, ma anche di guarigione.Per consolidare le mie competenze ho frequentato la \"Scuola di Nutrizione Clinica Sistemica Veterinaria\" e successivamente l’Accademia Italiana Medici Olistici Veterinari (AIMOV), dove ho approfondito anche discipline complementari come fitoterapia, micoterapia, aromaterapia, floriterapia e sali di Schüssler.",
+      "Per anni mi sono dedicata alla clinica tradizionale, sentendo però che mancava un \"qualcosa\"."," Nel 2018 ho iniziato a interessarmi alla fitoterapia e alla nutrizione, trovando finalmente ciò che cercavo. Ho compreso quanto la cura debba abbracciare l’individuo in toto e come la nutrizione sia uno strumento fondamentale non solo di prevenzione, ma anche di guarigione. Per consolidare le mie competenze ho frequentato la \"Scuola di Nutrizione Clinica Sistemica Veterinaria\" e successivamente l’Accademia Italiana Medici Olistici Veterinari (AIMOV), dove ho approfondito anche discipline complementari come fitoterapia, micoterapia, aromaterapia, floriterapia e sali di Schüssler.",
       "Oggi collaboro con diverse cliniche realizzando piani nutrizionali personalizzati che tengono conto delle necessità specifiche di ogni paziente, integrando quando necessario approcci naturali e olistici.",
       "Credo che ogni animale meriti di vivere al meglio e sono convinta che il benessere inizi sempre dall’amore, dalla cura e da una corretta alimentazione."
     ]
+  },
+  
+  "benefits": {
+    "title": "Investire nella nutrizione significa investire in salute, vitalità e più anni felici insieme al tuo compagno a quattro zampe.",
+    "intro": " Una consulenza nutrizionale ti offre la tranquillità di sapere che il tuo animale riceve ciò di cui ha realmente bisogno in ogni fase della sua vita.",
+   "items": {
+    "fresh": "Ingredienti freschi e sicuri – niente conservanti, coloranti o sottoprodotti.",
+    "digestion": "Facile digestione – meno gonfiore, diarrea e fastidi intestinali.",
+    "taste": "Più appetitoso – ideale per animali inappetenti o anziani.",
+    "allergies": "Meno allergie – riduzione di prurito, dermatiti e intolleranze.",
+    "love": "Un gesto d’amore – rafforza il legame con il tuo pet.",
+    "puppies": "Garantire una crescita sana e prevenire carenze in cuccioli e gattini.",
+    "adults": "Mantenere il tuo compagno adulto forte, attivo e in forma.",
+    "sports": "Soddisfare le esigenze dei cani sportivi, ottimizzando le loro prestazioni.",
+    "stages": "Accompagnare fasi speciali come gestazione, allattamento, svezzamento o vecchiaia.",
+    "weight": "Prevenire e trattare sovrappeso o obesità, aiutando a perdere peso senza perdere massa muscolare.",
+    "chronic": "Supportarlo nutrizionalmente in patologie croniche come malattie renali, epatiche, intestinali, cardiache, endocrine, oncologiche o dermatologiche."
   }
+  },
+  "cloak": "Una buona nutrizione è il miglior regalo che puoi fare al tuo pet: più salute, più energia e più momenti felici insieme."
 }
+
+
 
