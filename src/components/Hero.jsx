@@ -72,7 +72,7 @@ function Hero() {
       grid: { rows: 1 }, 
     },
     1024: {
-      slidesPerView: 6,
+      slidesPerView: 5,
       grid: { rows: 1 }, // desktop
     },
   }}
