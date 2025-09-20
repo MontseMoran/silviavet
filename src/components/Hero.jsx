@@ -39,7 +39,7 @@ function Hero() {
   ];
 
   return (
-    <section className="hero">
+    <section id="benefits" className="hero">
       <div className="hero__content">
         <h2 className="benefits__title">{t("benefits.title")}</h2>
         <p className="benefits__intro">{t("benefits.intro")}</p>
@@ -54,7 +54,7 @@ function Hero() {
             <Swiper
   modules={[Autoplay, Pagination, Grid]}
   spaceBetween={20}
-  autoplay={{ delay: 3000, disableOnInteraction: false }}
+  autoplay={{ delay: 5000, disableOnInteraction: false }}
   loop={true}
    pagination={{ el: ".custom-pagination", clickable: true, 
      renderBullet: (index, className) => {
