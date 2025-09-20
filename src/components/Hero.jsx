@@ -54,7 +54,7 @@ function Hero() {
             <Swiper
   modules={[Autoplay, Pagination, Grid]}
   spaceBetween={20}
-  autoplay={{ delay: 5000, disableOnInteraction: false }}
+  autoplay={{ delay: 7000, disableOnInteraction: false }}
   loop={true}
    pagination={{ el: ".custom-pagination", clickable: true, 
      renderBullet: (index, className) => {
