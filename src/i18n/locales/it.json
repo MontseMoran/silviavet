@@ -44,7 +44,30 @@
     "chronic": "Supportarlo nutrizionalmente in patologie croniche come malattie renali, epatiche, intestinali, cardiache, endocrine, oncologiche o dermatologiche."
   }
   },
-  "cloak": "Una buona nutrizione è il miglior regalo che puoi fare al tuo pet: più salute, più energia e più momenti felici insieme."
+  "cloak": "Una buona nutrizione è il miglior regalo che puoi fare al tuo pet: più salute, più energia e più momenti felici insieme.",
+  "services": {
+  "online": {
+    "name": "Consulenza nutrizionale",
+    "category": "Online",
+    "diet": "Dieta casalinga"
+  },
+  "presencial": {
+    "name": "Consulenza nutrizionale",
+    "category": "In presenza (cliniche convenzionate)",
+    "diet": "Dieta casalinga"
+  },
+  "mixta": {
+    "name": "Consulenza nutrizionale",
+    "category": "Online",
+    "diet": "Dieta mista (crocchette + casalinga)"
+  },
+  "ultraprocesada": {
+    "name": "Consulenza nutrizionale",
+    "category": "Online",
+    "diet": "Cibo industriale adeguato"
+  }
+}
+
 }
 
 
