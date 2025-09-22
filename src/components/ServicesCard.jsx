@@ -8,7 +8,7 @@ function ServiceCard({ image, nameKey, categoryKey, dietKey }) {
       <img src={image} alt={t(nameKey)} />
       <h3>{t(nameKey)} – {t(categoryKey)}</h3>
       <p>{t(dietKey)}</p>
-      <button>Reservar ahora</button>
+      <button>{t("services.button")}</button>
     </article>
   );
 }

@@ -44,9 +44,10 @@
     "chronic": "Apoyarlo nutricionalmente en patologías crónicas como enfermedades renales, hepáticas, intestinales, cardíacas, endocrinas, oncológicas o dermatológicas."
   }
   },
-  "cloak": "Una buena nutrición es el mejor regalo que podrás darle a tu mascota: más salud, más energía y más momentos juntos.",
-
+ 
 "services": {
+   "cloak": "Una buena nutrición es el mejor regalo que podrás darle a tu mascota: más salud, más energía y más momentos juntos.",
+
   "online": {
     "name": "Consulta nutricional",
     "category": "Online",
@@ -66,7 +67,8 @@
     "name": "Consulta nutricional",
     "category": "Online",
     "diet": "Ultraprocesado adecuado"
-  }
+  },
+  "button": "Ver detalles"
 }
 
 
