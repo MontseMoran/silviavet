@@ -70,3 +70,11 @@
     margin: 0 auto 1rem;
   }
 }
+@media (min-width: 2500px){
+  .about{
+    max-width: 1600px;
+     &__text p {
+    font-size: 1.20rem;
+     }
+  }
+}

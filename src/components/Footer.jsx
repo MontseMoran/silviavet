@@ -7,6 +7,7 @@ import "../styles/Footer.scss";
 
   return (
 <footer className="footer footer--diagonals">
+
   <div className="footer__inner">
 
     <div id="contact"className="footer__cards">
