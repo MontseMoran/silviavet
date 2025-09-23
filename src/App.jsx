@@ -5,21 +5,35 @@ import About from "./components/About";
 import "./App.scss";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
+import ServiceDetail from "./components/ServiceDetail"
+import { Routes, Route, BrowserRouter } from "react-router-dom";
+
 
 function App() {
   return (
-    <div>
+    <BrowserRouter>
       <header>
         <Navbar />
       </header>
-      <main>
-        <Hero />
-        <About />
-
-        <Services />
+       <main>
+ <Routes>
+    <Route
+      path="/"
+      element={
+        <>
+          <Hero />
+          <About /> 
+          <Services />
+        </>
+      }
+    />
+    <Route path="/services/:id" element={<ServiceDetail />} />
+  </Routes>
       </main>
-      <Footer />
-    </div>
+      <footer>
+        <Footer />
+      </footer>
+    </BrowserRouter>
   );
 }
 

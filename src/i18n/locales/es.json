@@ -46,31 +46,104 @@
   },
  
 "services": {
-   "cloak": "Una buena nutrición es el mejor regalo que podrás darle a tu mascota: más salud, más energía y más momentos juntos.",
+  "cloak": "Una buena nutrición es el mejor regalo que podrás darle a tu mascota: más salud, más energía y más momentos juntos.",
 
   "online": {
     "name": "Consulta nutricional",
     "category": "Online",
-    "diet": "Dieta casera"
+    "diet": "Dieta casera",
+    "description": "La consulta tiene una duración aproximada de 45 minutos e incluye: evaluación de la dieta actual, creación de una dieta casera (cocida, cruda o BARF), revisión y balance de dietas ya en curso, apoyo nutricional en caso de patologías, análisis de intolerancias o alergias y seguimiento por email.",
+    "includes": [
+      "Evaluación de la dieta actual",
+      "Creación de una dieta casera (cocida, cruda o BARF)",
+      "Revisión y balance de dietas ya en curso",
+      "Apoyo nutricional en caso de patologías",
+      "Análisis de posibles intolerancias o alergias",
+      "Seguimiento por email"
+    ],
+    "steps": [
+      "Formularios e informes previos con datos y analíticas",
+      "Anamnesis completa durante la videollamada",
+      "Elaboración del plan nutricional personalizado (máximo 7 días)",
+      "Videollamada adicional para explicar el plan y resolver dudas"
+    ],
+    "price": "89 €"
   },
+
   "presencial": {
     "name": "Consulta nutricional",
     "category": "Presencial (clínicas colaboradoras)",
-    "diet": "Dieta casera - dieta mixta"
+    "diet": "Dieta casera",
+    "description": "La consulta presencial en clínica colaboradora dura 45 minutos e incluye: exploración física del animal, evaluación de la dieta actual, creación de un plan casero (cocida, cruda o BARF), revisión de dietas ya en curso, apoyo nutricional en patologías y seguimiento por email.",
+    "includes": [
+      "Exploración física del animal.",
+      "Evaluación de la dieta actual.",
+      "Creación de una dieta casera (cocida, cruda o BARF).",
+      "Revisión y balance de dietas ya en curso.",
+      "Apoyo nutricional en caso de patologías.",
+      "Análisis de posibles intolerancias o alergias.",
+      "Seguimiento por email."
+    ],
+    "steps": [
+      "Formularios e informes previos con datos y analíticas.",
+      "Anamnesis completa y exploración física.",
+      "Elaboración del plan nutricional personalizado (máximo 7 días).",
+      "Videollamada adicional para explicar el plan y resolver dudas."
+    ],
+    "price": "99 €"
   },
+
   "mixta": {
     "name": "Consulta nutricional",
     "category": "Online",
-    "diet": "Dieta mixta (pienso + casera)"
+    "diet": "Dieta mixta (pienso + casera)",
+    "description": "La dieta mixta combina comida natural cocida + ultraprocesado, para que tu mascota se adapte gradualmente y tú valores si puedes compaginar cocinar la dieta con tu rutina diaria. La consulta dura 45 minutos e incluye evaluación de la dieta actual, creación de una dieta mixta personalizada, guía de transición paso a paso y seguimiento por email.",
+    "includes": [
+      "Evaluación de la dieta actual y recomendaciones",
+      "Creación de una dieta mixta (casera + pienso) personalizada",
+      "Guía de transición paso a paso",
+      "Seguimiento por email"
+    ],
+    "steps": [
+      "Formularios e informes previos con datos y analíticas",
+      "Anamnesis completa durante la videollamada",
+      "Elaboración del plan nutricional personalizado (máximo 7 días)",
+      "Videollamada adicional para explicar el plan y resolver dudas"
+    ],
+    "price": "89 €"
   },
+
   "ultraprocesada": {
     "name": "Consulta nutricional",
     "category": "Online",
-    "diet": "Ultraprocesado adecuado"
+    "diet": "Ultraprocesado adecuado",
+    "description": "¿Todavía no te animas a la dieta natural? No pasa nada. La consulta de ultraprocesado busca mejorar la calidad del pienso o alimento industrial actual con pequeños ajustes. Se realiza por videollamada de 30 minutos e incluye evaluación de la dieta, listado de suplementos recomendados y envío por email de consejos y productos más adecuados.",
+    "includes": [
+      "Evaluación de la dieta actual",
+      "Sugerencias de mejores opciones si es necesario",
+      "Listado de suplementos adaptados a cada caso",
+      "Envío por email de consejos y productos recomendados",
+      "Seguimiento por email"
+    ],
+    "steps": [
+      "Videollamada de 30 minutos",
+      "Evaluación de la dieta actual",
+      "Sugerencias de mejoras y suplementos",
+      "Seguimiento y resolución de dudas por email"
+    ],
+    "price": "55 €"
   },
-  "button": "Ver detalles"
+
+  "revisiones": {
+    "description": "Seguimiento y revisiones periódicas. En pacientes sanos se aconseja un control a los 3-6 meses y luego anual. En pacientes con patologías la frecuencia depende de la situación específica. En cachorros depende de la edad y talla.",
+    "priceOnline": "41 €",
+    "pricePresencial": "51 €"
+  },
+
+  "button": "Ver detalles",
+  "backButton": "Volver a servicios",
+  "reserveButton": "Reservar consulta",
+  "includesTitle": "Incluye",
+  "stepsTitle": "Cómo funciona"
 }
-
-
 }
-

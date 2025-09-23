@@ -12,6 +12,7 @@ function Services() {
       {services.map((service) => (
         <ServiceCard
           key={service.id}
+          id={service.id}
           image={service.image}
           nameKey={service.nameKey}
           categoryKey={service.categoryKey}

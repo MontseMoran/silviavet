@@ -1,6 +1,9 @@
 import { useTranslation } from "react-i18next";
+import { Link } from "react-router-dom";
 
-function ServiceCard({ image, nameKey, categoryKey, dietKey }) {
+
+
+function ServiceCard({ id, image, nameKey, categoryKey, dietKey }) {
   const { t } = useTranslation();
 
   return (
@@ -8,7 +11,9 @@ function ServiceCard({ image, nameKey, categoryKey, dietKey }) {
       <img src={image} alt={t(nameKey)} />
       <h3>{t(nameKey)} – {t(categoryKey)}</h3>
       <p>{t(dietKey)}</p>
+      <Link to={`/services/${id}`} className="service-card__button">
       <button>{t("services.button")}</button>
+      </Link>
     </article>
   );
 }
