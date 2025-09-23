@@ -11,9 +11,14 @@ function ServiceCard({ id, image, nameKey, categoryKey, dietKey }) {
       <img src={image} alt={t(nameKey)} />
       <h3>{t(nameKey)} – {t(categoryKey)}</h3>
       <p>{t(dietKey)}</p>
-      <Link to={`/services/${id}`} className="service-card__button">
-      <button>{t("services.button")}</button>
-      </Link>
+    <Link
+  to={`/services/${id}`}
+  onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+  className="service-card__button"
+>
+  <button>{t("services.button")}</button>
+</Link>
+
     </article>
   );
 }

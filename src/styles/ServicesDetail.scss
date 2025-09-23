@@ -103,6 +103,51 @@
     }
   }
 }
+.modal {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+
+  &__content {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+    position: relative;
+  }
+
+  &__close {
+    position: absolute;
+    top: 0.5rem; right: 0.5rem;
+    background: transparent;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+
+  &__btn {
+    display: block;
+    margin: 1rem auto;
+    padding: 0.8rem;
+    border-radius: 6px;
+    background: #2e7d32;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+
+    &:hover {
+       background: #f0b248;
+    }
+  }
+}
+
 @media (min-width: 768px){
     .service-detail{
         padding-left: 10%;

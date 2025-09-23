@@ -237,11 +237,17 @@
     --lift2: -10px;
   }
 }
+@media (min-width: 1920px) {
+  .footer {
+    --lift1: -18px;
+    --lift2: 15px;
+  }
+}
 @media (min-width: 2500px) {
   .footer {
      --height1: 80px;
-    --height2: 64px;
+    --height2: 84px;
     --lift1: 10px;  
-    --lift2: 80px;   
+    --lift2: 30px;   
   }
 }

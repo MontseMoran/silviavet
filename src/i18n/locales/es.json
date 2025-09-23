@@ -47,7 +47,9 @@
  
 "services": {
   "cloak": "Una buena nutrición es el mejor regalo que podrás darle a tu mascota: más salud, más energía y más momentos juntos.",
-
+  "chooseContact": "Elige cómo quieres contactar:",
+  "whatsapp": "WhatsApp",
+  "email": "Correo electrónico",
   "online": {
     "name": "Consulta nutricional",
     "category": "Online",

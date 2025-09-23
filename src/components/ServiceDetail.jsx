@@ -1,12 +1,14 @@
 import { useParams, Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import services from "../data/servicesData.js"; 
+import services from "../data/servicesData.js";
 import "../styles/ServicesDetail.scss";
+import { useState } from "react";
+import { HashLink } from "react-router-hash-link";
 
 function ServiceDetail() {
   const { id } = useParams();
   const { t } = useTranslation();
-
+  const [showModal, setShowModal] = useState(false);
   const service = services.find((s) => s.id === id);
 
   if (!service) {
@@ -26,7 +28,6 @@ function ServiceDetail() {
         {t(`services.${service.id}.description`)}
       </p>
 
-      {/* Incluye */}
       <div className="service-detail__includes">
         <h3>{t("services.includesTitle")}</h3>
         <ul>
@@ -38,7 +39,6 @@ function ServiceDetail() {
         </ul>
       </div>
 
-      {/* Pasos */}
       <div className="service-detail__steps">
         <h3>{t("services.stepsTitle")}</h3>
         <ol>
@@ -50,18 +50,46 @@ function ServiceDetail() {
         </ol>
       </div>
 
-      {/* Precio */}
       <p className="service-detail__price">
         {t(`services.${service.id}.price`)}
       </p>
 
-      {/* Botones */}
       <div className="service-detail__buttons">
-        <Link to="/services" className="back">
+        <HashLink smooth to="/#services" className="back">
           {t("services.backButton")}
-        </Link>
-        <button className="reserve">{t("services.reserveButton")}</button>
+        </HashLink>
+
+        <button className="reserve" onClick={() => setShowModal(true)}>
+          {t("services.reserveButton")}
+        </button>
       </div>
+
+      {/* Modal */}
+      {showModal && (
+        <div className="modal">
+          <div className="modal__content">
+            <button
+              className="modal__close"
+              onClick={() => setShowModal(false)}
+            >
+              ✖
+            </button>
+            <h3>{t("services.reserveButton")}</h3>
+
+            <a
+              href="https://wa.me/34613898805"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="modal__btn"
+            >
+              {t("services.whatsapp")}
+            </a>
+            <a href="mailto:info@silviavet.com" className="modal__btn">
+              {t("services.email")}
+            </a>
+          </div>
+        </div>
+      )}
     </section>
   );
 }

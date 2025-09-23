@@ -4,10 +4,10 @@
   text-align: center;
   background: linear-gradient(
     to bottom,
-    #f9faf7 0%,       
-    #ecf7d9 10%,      
-    #e7dcc5 40%, 
-    #f3f7e9 100%    
+    white 0%,       
+    #ddeec0 10%,      
+    #e7d9bc 40%, 
+    white 100%    
   );
 
   &__cloak {
@@ -90,9 +90,29 @@
     margin-bottom: 8rem;
   }
 }
+@media (min-width: 1440px){
+.services{
+padding-left: 7%;
+padding-right: 7%;
+}
+}
+@media (min-width: 1920px){
+  .card{
+  min-height: 420px;
+  }
+   .card img {
+    height: 220px;     
+  }
+}
 @media (min-width:2500px) {
   .services{
     margin-bottom: 12rem;
+  }
+    .card{
+  min-height: 520px;
+  }
+   .card img {
+    height: 320px;     
   }
 }
 

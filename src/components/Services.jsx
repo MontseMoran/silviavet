@@ -6,7 +6,7 @@ import ServiceCard from "./ServicesCard.jsx";
 function Services() {
   const {t} = useTranslation();
   return (
-    <section className="services">
+    <section id="services" className="services">
       <h2 className="services__cloak">{t("services.cloak")}</h2>
   <div className="services__grid">
       {services.map((service) => (

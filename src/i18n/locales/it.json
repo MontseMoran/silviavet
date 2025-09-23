@@ -47,7 +47,9 @@
   
   "services": {
   "cloak": "Una buona alimentazione è il miglior regalo che puoi fare al tuo pet: più salute, più energia e più momenti felici insieme.",
-
+  "chooseContact": "Scegli come vuoi contattarmi:",
+  "whatsapp": "WhatsApp",
+  "email": "Email",
   "online": {
     "name": "Consulenza nutrizionale",
     "category": "Online",
