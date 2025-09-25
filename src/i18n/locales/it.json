@@ -17,135 +17,138 @@
     "email": "Scrivimi a",
     "whatsApp": "Scrivimi su WhatsApp"
   },
- "about": {
+  "about": {
     "title": "Chi sono",
     "paragraphs": [
       "Da sempre la natura e gli animali hanno fatto parte della mia vita ed è stato semplice capire quale sarebbe stata la mia professione. Mi sono laureata in Medicina Veterinaria presso l’Università degli Studi di Sassari nell'anno accademico 2009 - 2010 e, dopo esperienze formative in Italia, Spagna e Svizzera, nel 2013 mi sono trasferita in Spagna, dove vivo e lavoro tuttora.",
-      "Per anni mi sono dedicata alla clinica tradizionale, sentendo però che mancava un \"qualcosa\"."," Nel 2018 ho iniziato a interessarmi alla fitoterapia e alla nutrizione, trovando finalmente ciò che cercavo. Ho compreso quanto la cura debba abbracciare l’individuo in toto e come la nutrizione sia uno strumento fondamentale non solo di prevenzione, ma anche di guarigione. Per consolidare le mie competenze ho frequentato la \"Scuola di Nutrizione Clinica Sistemica Veterinaria\" e successivamente l’Accademia Italiana Medici Olistici Veterinari (AIMOV), dove ho approfondito anche discipline complementari come fitoterapia, micoterapia, aromaterapia, floriterapia e sali di Schüssler.",
+      "Per anni mi sono dedicata alla clinica tradizionale, sentendo però che mancava un \"qualcosa\".",
+      " Nel 2018 ho iniziato a interessarmi alla fitoterapia e alla nutrizione, trovando finalmente ciò che cercavo. Ho compreso quanto la cura debba abbracciare l’individuo in toto e come la nutrizione sia uno strumento fondamentale non solo di prevenzione, ma anche di guarigione. Per consolidare le mie competenze ho frequentato la \"Scuola di Nutrizione Clinica Sistemica Veterinaria\" e successivamente l’Accademia Italiana Medici Olistici Veterinari (AIMOV), dove ho approfondito anche discipline complementari come fitoterapia, micoterapia, aromaterapia, floriterapia e sali di Schüssler.",
       "Oggi collaboro con diverse cliniche realizzando piani nutrizionali personalizzati che tengono conto delle necessità specifiche di ogni paziente, integrando quando necessario approcci naturali e olistici.",
       "Credo che ogni animale meriti di vivere al meglio e sono convinta che il benessere inizi sempre dall’amore, dalla cura e da una corretta alimentazione."
     ]
   },
-  
+
   "benefits": {
     "title": "Investire nella nutrizione significa investire in salute, vitalità e longevità",
     "intro": " Una consulenza nutrizionale ti offre la tranquillità di sapere che il tuo animale riceve ciò di cui ha realmente bisogno in ogni fase della sua vita.",
-   "items": {
-    "fresh": "Ingredienti freschi e sicuri – niente conservanti, coloranti o sottoprodotti.",
-    "digestion": "Facile digestione – meno gonfiore, diarrea e fastidi intestinali.",
-    "taste": "Più appetitoso – ideale per animali inappetenti o anziani.",
-    "allergies": "Meno allergie – riduzione di prurito, dermatiti e intolleranze.",
-    "love": "Un gesto d’amore – rafforza il legame con il tuo pet.",
-    "puppies": "Garantire una crescita sana e prevenire carenze in cuccioli e gattini.",
-    "adults": "Mantenere il tuo compagno adulto forte, attivo e in forma.",
-    "sports": "Soddisfare le esigenze dei cani sportivi, ottimizzando le loro prestazioni.",
-    "stages": "Accompagnare fasi speciali come gestazione, allattamento, svezzamento o vecchiaia.",
-    "weight": "Prevenire e trattare sovrappeso o obesità, aiutando a perdere peso senza perdere massa muscolare.",
-    "chronic": "Supportarlo nutrizionalmente in patologie croniche come malattie renali, epatiche, intestinali, cardiache, endocrine, oncologiche o dermatologiche."
-  }
+    "items": {
+      "fresh": "Ingredienti freschi e sicuri – niente conservanti, coloranti o sottoprodotti.",
+      "digestion": "Facile digestione – meno gonfiore, diarrea e fastidi intestinali.",
+      "taste": "Più appetitoso – ideale per animali inappetenti o anziani.",
+      "allergies": "Meno allergie – riduzione di prurito, dermatiti e intolleranze.",
+      "love": "Un gesto d’amore – rafforza il legame con il tuo pet.",
+      "puppies": "Garantire una crescita sana e prevenire carenze in cuccioli e gattini.",
+      "adults": "Mantenere il tuo compagno adulto forte, attivo e in forma.",
+      "sports": "Soddisfare le esigenze dei cani sportivi, ottimizzando le loro prestazioni.",
+      "stages": "Accompagnare fasi speciali come gestazione, allattamento, svezzamento o vecchiaia.",
+      "weight": "Prevenire e trattare sovrappeso o obesità, aiutando a perdere peso senza perdere massa muscolare.",
+      "chronic": "Supportarlo nutrizionalmente in patologie croniche come malattie renali, epatiche, intestinali, cardiache, endocrine, oncologiche o dermatologiche."
+    }
   },
-  
+
   "services": {
-  "cloak": "Una buona alimentazione è il miglior regalo che puoi fare al tuo pet: più salute, più energia e più momenti felici insieme.",
-  "chooseContact": "Scegli come vuoi contattarmi:",
-  "whatsapp": "WhatsApp",
-  "email": "Email",
-  "online": {
-    "name": "Consulenza nutrizionale",
-    "category": "Online",
-    "diet": "Dieta casalinga",
-    "description": "L’incontro in videochiamata dura circa 45 minuti e include: valutazione della dieta attuale, creazione di un piano casalingo (cotto, crudo o BARF), revisione e bilanciamento di diete già in corso, supporto nutrizionale in caso di patologie, analisi di possibili intolleranze o allergie e assistenza via email.",
-    "includes": [
-      "Valutazione della dieta attuale",
-      "Creazione di un piano casalingo (cotto, crudo o BARF)",
-      "Revisione e bilanciamento di diete già in corso",
-      "Supporto nutrizionale in caso di patologie",
-      "Analisi di possibili intolleranze o allergie",
-      "Assistenza via email"
-    ],
-    "steps": [
-      "Formulario e documentazione preliminare",
-      "Anamnesi completa durante la videocall",
-      "Elaborazione del piano nutrizionale personalizzato (entro 7 giorni)",
-      "Videoconferenza extra per spiegare il piano e rispondere alle domande"
-    ],
-    "price": "89 €"
-  },
+    "cloak": "Una buona alimentazione è il miglior regalo che puoi fare al tuo pet: più salute, più energia e più momenti felici insieme.",
+    "chooseContact": "Scegli come vuoi contattarmi:",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "online": {
+      "name": "Consulenza nutrizionale",
+      "category": "Online",
+      "diet": "Dieta casalinga",
+      "description": "L’incontro in videochiamata dura circa 45 minuti e include: valutazione della dieta attuale, creazione di un piano casalingo (cotto, crudo o BARF), revisione e bilanciamento di diete già in corso, supporto nutrizionale in caso di patologie, analisi di possibili intolleranze o allergie e assistenza via email.",
+      "includes": [
+        "Valutazione della dieta attuale",
+        "Creazione di un piano casalingo (cotto, crudo o BARF)",
+        "Revisione e bilanciamento di diete già in corso",
+        "Supporto nutrizionale in caso di patologie",
+        "Analisi di possibili intolleranze o allergie",
+        "Assistenza via email"
+      ],
+      "steps": [
+        "Formulario e documentazione preliminare",
+        "Anamnesi completa durante la videocall",
+        "Elaborazione del piano nutrizionale personalizzato (entro 7 giorni)",
+        "Videoconferenza extra per spiegare il piano e rispondere alle domande"
+      ],
+      "price": "89 €"
+    },
 
-  "presencial": {
-    "name": "Consulenza nutrizionale",
-    "category": "Presenziale (cliniche convenzionate)",
-    "diet": "Dieta casalinga",
-    "description": "La consulenza in presenza in una clinica convenzionata dura circa 45 minuti e include: esame fisico dell’animale, valutazione della dieta attuale, creazione di un piano casalingo (cotto, crudo o BARF), revisione e bilanciamento di diete già in corso, supporto nutrizionale in caso di patologie e assistenza via email.",
-    "includes": [
-      "Esame fisico dell’animale",
-      "Valutazione della dieta attuale",
-      "Creazione di un piano casalingo (cotto, crudo o BARF)",
-      "Revisione e bilanciamento di diete già in corso",
-      "Supporto nutrizionale in caso di patologie",
-      "Analisi di possibili intolleranze o allergie",
-      "Assistenza via email"
-    ],
-    "steps": [
-      "Formulario e documentazione preliminare",
-      "Anamnesi completa ed esame fisico",
-      "Elaborazione del piano nutrizionale personalizzato (entro 7 giorni)",
-      "Videoconferenza extra per spiegare il piano e rispondere alle domande"
-    ],
-    "price": "99 €"
-  },
+    "presencial": {
+      "name": "Consulenza nutrizionale",
+      "category": "Presenziale (cliniche convenzionate)",
+      "diet": "Dieta casalinga",
+      "description": "La consulenza in presenza in una clinica convenzionata dura circa 45 minuti e include: esame fisico dell’animale, valutazione della dieta attuale, creazione di un piano casalingo (cotto, crudo o BARF), revisione e bilanciamento di diete già in corso, supporto nutrizionale in caso di patologie e assistenza via email.",
+      "includes": [
+        "Esame fisico dell’animale",
+        "Valutazione della dieta attuale",
+        "Creazione di un piano casalingo (cotto, crudo o BARF)",
+        "Revisione e bilanciamento di diete già in corso",
+        "Supporto nutrizionale in caso di patologie",
+        "Analisi di possibili intolleranze o allergie",
+        "Assistenza via email"
+      ],
+      "steps": [
+        "Formulario e documentazione preliminare",
+        "Anamnesi completa ed esame fisico",
+        "Elaborazione del piano nutrizionale personalizzato (entro 7 giorni)",
+        "Videoconferenza extra per spiegare il piano e rispondere alle domande"
+      ],
+      "price": "99 €"
+    },
 
-  "mixta": {
-    "name": "Consulenza nutrizionale",
-    "category": "Online",
-    "diet": "Dieta mista (crocchette + casalinga)",
-    "description": "La dieta mista combina cibo naturale cotto + cibo industriale, così il tuo animale si adatta gradualmente e tu puoi valutare se integrare la cucina casalinga nella tua routine. La consulenza dura 45 minuti e include valutazione della dieta attuale, creazione di una dieta mista personalizzata, guida passo a passo per la transizione e assistenza via email.",
-    "includes": [
-      "Valutazione della dieta attuale e suggerimenti",
-      "Creazione di una dieta mista (casalinga + crocchette) personalizzata",
-      "Guida passo a passo per la transizione",
-      "Assistenza via email"
-    ],
-    "steps": [
-      "Formulario e documentazione preliminare",
-      "Anamnesi completa durante la videocall",
-      "Elaborazione del piano nutrizionale personalizzato (entro 7 giorni)",
-      "Videoconferenza extra per spiegare il piano e rispondere alle domande"
-    ],
-    "price": "89 €"
-  },
+    "mixta": {
+      "name": "Consulenza nutrizionale",
+      "category": "Online",
+      "diet": "Dieta mista (crocchette + casalinga)",
+      "description": "La dieta mista combina cibo naturale cotto + cibo industriale, così il tuo animale si adatta gradualmente e tu puoi valutare se integrare la cucina casalinga nella tua routine. La consulenza dura 45 minuti e include valutazione della dieta attuale, creazione di una dieta mista personalizzata, guida passo a passo per la transizione e assistenza via email.",
+      "includes": [
+        "Valutazione della dieta attuale e suggerimenti",
+        "Creazione di una dieta mista (casalinga + crocchette) personalizzata",
+        "Guida passo a passo per la transizione",
+        "Assistenza via email"
+      ],
+      "steps": [
+        "Formulario e documentazione preliminare",
+        "Anamnesi completa durante la videocall",
+        "Elaborazione del piano nutrizionale personalizzato (entro 7 giorni)",
+        "Videoconferenza extra per spiegare il piano e rispondere alle domande"
+      ],
+      "price": "89 €"
+    },
 
-  "ultraprocesada": {
-    "name": "Consulenza nutrizionale",
-    "category": "Online",
-    "diet": "Cibo industriale adeguato",
-    "description": "Non ti sei ancora deciso a passare alla dieta naturale? Nessun problema! La consulenza per cibo industriale mira a migliorare la qualità del mangime attuale con piccoli aggiustamenti. Si svolge tramite una videoconferenza di circa 30 minuti e include valutazione della dieta, elenco di integratori raccomandati e invio via email di consigli e prodotti più adatti.",
-    "includes": [
-      "Valutazione della dieta attuale",
-      "Suggerimenti di opzioni migliori se necessario",
-      "Elenco di integratori specifici adattati a ogni caso",
-      "Invio via email di consigli e prodotti consigliati",
-      "Assistenza via email"
-    ],
-    "steps": [
-      "Videocall di 30 minuti",
-      "Valutazione della dieta attuale",
-      "Suggerimenti di miglioramenti e integratori",
-      "Assistenza via email per rispondere alle domande"
-    ],
-    "price": "55 €"
-  },
+    "ultraprocesada": {
+      "name": "Consulenza nutrizionale",
+      "category": "Online",
+      "diet": "Cibo industriale adeguato",
+      "description": "Non ti sei ancora deciso a passare alla dieta naturale? Nessun problema! La consulenza per cibo industriale mira a migliorare la qualità del mangime attuale con piccoli aggiustamenti. Si svolge tramite una videoconferenza di circa 30 minuti e include valutazione della dieta, elenco di integratori raccomandati e invio via email di consigli e prodotti più adatti.",
+      "includes": [
+        "Valutazione della dieta attuale",
+        "Suggerimenti di opzioni migliori se necessario",
+        "Elenco di integratori specifici adattati a ogni caso",
+        "Invio via email di consigli e prodotti consigliati",
+        "Assistenza via email"
+      ],
+      "steps": [
+        "Videocall di 30 minuti",
+        "Valutazione della dieta attuale",
+        "Suggerimenti di miglioramenti e integratori",
+        "Assistenza via email per rispondere alle domande"
+      ],
+      "price": "55 €"
+    },
 
-  "revisiones": {
-    "description": "Follow-up e revisioni periodiche. In condizioni normali: controllo dopo 3-6 mesi e poi annuale. Nei pazienti con patologie la frequenza dipende dalla situazione specifica. Nei cuccioli dipende dall’età e dalla taglia.",
-    "priceOnline": "41 €",
-    "pricePresencial": "51 €"
-  },
+    "revisiones": {
+      "revisionsTitle": "Controlli successivi",
+      "description": "Follow-up e revisioni periodiche. In condizioni normali: controllo dopo 3-6 mesi e poi annuale. Nei pazienti con patologie la frequenza dipende dalla situazione specifica. Nei cuccioli dipende dall’età e dalla taglia.",
+      "priceOnline": "45 €",
+      "pricePresencial": "55 €",
+      "ultraprocesada": "41 €"
+    },
 
-  "button": "Vedi dettagli",
-  "backButton": "Torna ai servizi",
-  "reserveButton": "Prenota consulenza",
-  "includesTitle": "Include",
-  "stepsTitle": "Come funziona"
-}
+    "button": "Vedi dettagli",
+    "backButton": "Torna ai servizi",
+    "reserveButton": "Prenota consulenza",
+    "includesTitle": "Include",
+    "stepsTitle": "Come funziona"
+  }
 }

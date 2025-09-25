@@ -14,6 +14,20 @@ function ServiceDetail() {
   if (!service) {
     return <p>Servicio no encontrado</p>;
   }
+  function getRevisionPrice(id, t) {
+  switch (id) {
+    case "online":
+    case "mixta":
+      return t("services.revisiones.priceOnline");
+    case "presencial":
+      return t("services.revisiones.pricePresencial");
+    case "ultraprocesada":
+      return t("services.revisiones.priceUltraprocesada");
+    default:
+      return null;
+  }
+}
+
 
   return (
     <section className="service-detail">
@@ -23,7 +37,7 @@ function ServiceDetail() {
         className="service-detail__image"
       />
 
-      <h2 className="service-detail__title">{t(service.nameKey)}</h2>
+      <h2 className="service-detail__title">{t(service.nameKey)} {t(`services.${service.id}.category`)}</h2>
       <p className="service-detail__description">
         {t(`services.${service.id}.description`)}
       </p>
@@ -53,7 +67,17 @@ function ServiceDetail() {
       <p className="service-detail__price">
         {t(`services.${service.id}.price`)}
       </p>
-
+      <div className="service-detail__revisions-block">
+<h3 className="service-detail__revisions">
+  {t(`services.revisiones.revisionsTitle`)}
+</h3>
+<p className="service-detail__description">
+  {t(`services.revisiones.description`)}
+</p>
+<p className="service-detail__price-revision">
+{getRevisionPrice(service.id, t)}
+</p>
+</div>
       <div className="service-detail__buttons">
         <HashLink smooth to="/#services" className="back">
           {t("services.backButton")}

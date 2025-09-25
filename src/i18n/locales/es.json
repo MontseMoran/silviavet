@@ -74,7 +74,7 @@
 
   "presencial": {
     "name": "Consulta nutricional",
-    "category": "Presencial (clínicas colaboradoras)",
+    "category": "Presencial",
     "diet": "Dieta casera",
     "description": "La consulta presencial en clínica colaboradora dura 45 minutos e incluye: exploración física del animal, evaluación de la dieta actual, creación de un plan casero (cocida, cruda o BARF), revisión de dietas ya en curso, apoyo nutricional en patologías y seguimiento por email.",
     "includes": [
@@ -137,9 +137,11 @@
   },
 
   "revisiones": {
+      "revisionsTitle": "Revisiones posteriores",
     "description": "Seguimiento y revisiones periódicas. En pacientes sanos se aconseja un control a los 3-6 meses y luego anual. En pacientes con patologías la frecuencia depende de la situación específica. En cachorros depende de la edad y talla.",
-    "priceOnline": "41 €",
-    "pricePresencial": "51 €"
+    "priceOnline": "45 €",
+    "pricePresencial": "55 €",
+    "priceUltraprocesada": "41€"
   },
 
   "button": "Ver detalles",
