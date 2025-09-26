@@ -17,15 +17,19 @@
     "email": "Escríbeme a",
     "whatsApp": "Escríbeme por whatsApp"
   },
-  "about": {
-    "title": "Sobre mí",
-    "paragraphs": [
-      "Desde siempre, la naturaleza y los animales han formado parte de mi vida, por lo que elegir mi profesión fue algo natural. Me licencié en Medicina Veterinaria en la Universidad de Sassari en el año académico 2009-2010 y, tras distintas experiencias formativas en Italia, España y Suiza, en 2013 me trasladé a España, donde vivo y trabajo actualmente.",
-      "Durante años me dediqué a la clínica veterinaria tradicional, pero sentía que faltaba 'algo más'.", "En 2018 comencé a interesarme por la fitoterapia y la nutrición, descubriendo finalmente el camino que buscaba. Comprendí que la verdadera atención debe considerar al individuo en su totalidad y que la nutrición es una herramienta esencial no solo para la prevención, sino también para la curación. Para consolidar mis conocimientos, cursé la Escuela de Nutrición Clínica Sistémica Veterinaria y posteriormente la Accademia Italiana Medici Olistici Veterinari (AIMOV), donde profundicé en disciplinas complementarias como fitoterapia, micoterapia, aromaterapia, floriterapia y sales de Schüssler.",
-      "Hoy colaboro con diversas clínicas elaborando planes nutricionales personalizados que tienen en cuenta las necesidades específicas de cada paciente, integrando, cuando es necesario, enfoques naturales y holísticos.",
-      "Creo firmemente que cada animal merece vivir de la mejor manera posible y estoy convencida de que el bienestar comienza siempre con el amor, el cuidado y una correcta alimentación."
-    ]
-  },
+"about": {
+  "title": "Sobre mí",
+  "intro": [
+    "Desde siempre, la naturaleza y los animales han formado parte de mi vida, por lo que elegir mi profesión fue algo natural. Me licencié en Medicina Veterinaria en la Universidad de Sassari en el año académico 2009-2010 y, tras distintas experiencias formativas en Italia, España y Suiza, en 2013 me trasladé a España, donde vivo y trabajo actualmente.",
+    "Durante años me dediqué a la clínica veterinaria tradicional, pero sentía que faltaba 'algo más'."
+  ],
+  "more": [
+    "En 2018 comencé a interesarme por la fitoterapia y la nutrición, descubriendo finalmente el camino que buscaba. Comprendí que la verdadera atención debe considerar al individuo en su totalidad y que la nutrición es una herramienta esencial no solo para la prevención, sino también para la curación. Para consolidar mis conocimientos, cursé la Escuela de Nutrición Clínica Sistémica Veterinaria y posteriormente la Accademia Italiana Medici Olistici Veterinari (AIMOV), donde profundicé en disciplinas complementarias como fitoterapia, micoterapia, aromaterapia, floriterapia y sales de Schüssler.",
+    "Hoy colaboro con diversas clínicas elaborando planes nutricionales personalizados que tienen en cuenta las necesidades específicas de cada paciente, integrando, cuando es necesario, enfoques naturales y holísticos.",
+    "Creo firmemente que cada animal merece vivir de la mejor manera posible y estoy convencida de que el bienestar comienza siempre con el amor, el cuidado y una correcta alimentación."
+  ]
+},
+
   
   "benefits": {
     "title": "Invertir en nutrición es invertir en salud, vitalidad y más años felices a su lado.",
@@ -54,7 +58,7 @@
     "name": "Consulta nutricional",
     "category": "Online",
     "diet": "Dieta casera",
-    "description": "La consulta tiene una duración aproximada de 45 minutos e incluye: evaluación de la dieta actual, creación de una dieta casera (cocida, cruda o BARF), revisión y balance de dietas ya en curso, apoyo nutricional en caso de patologías, análisis de intolerancias o alergias y seguimiento por email.",
+    "description": "La consulta tiene una duración aproximada de 45 minutos online." ,
     "includes": [
       "Evaluación de la dieta actual",
       "Creación de una dieta casera (cocida, cruda o BARF)",
@@ -76,7 +80,7 @@
     "name": "Consulta nutricional",
     "category": "Presencial",
     "diet": "Dieta casera",
-    "description": "La consulta presencial en clínica colaboradora dura 45 minutos e incluye: exploración física del animal, evaluación de la dieta actual, creación de un plan casero (cocida, cruda o BARF), revisión de dietas ya en curso, apoyo nutricional en patologías y seguimiento por email.",
+    "description": "La consulta se realiza de forma presencial en una de las clínicas colaboradoras en el Baix Llobregat y tiene una duración aproximada de 45 minutos.",
     "includes": [
       "Exploración física del animal.",
       "Evaluación de la dieta actual.",
@@ -121,17 +125,17 @@
     "diet": "Ultraprocesado adecuado",
     "description": "¿Todavía no te animas a la dieta natural? No pasa nada. La consulta de ultraprocesado busca mejorar la calidad del pienso o alimento industrial actual con pequeños ajustes. Se realiza por videollamada de 30 minutos e incluye evaluación de la dieta, listado de suplementos recomendados y envío por email de consejos y productos más adecuados.",
     "includes": [
-      "Evaluación de la dieta actual",
-      "Sugerencias de mejores opciones si es necesario",
-      "Listado de suplementos adaptados a cada caso",
-      "Envío por email de consejos y productos recomendados",
-      "Seguimiento por email"
+      "Evaluación de la dieta actual.",
+      "Sugerencias de mejores opciones si es necesario.",
+      "Listado de suplementos adaptados a cada caso.",
+      "Envío por email de consejos y productos recomendados.",
+      "Seguimiento por email."
     ],
     "steps": [
-      "Videollamada de 30 minutos",
-      "Evaluación de la dieta actual",
-      "Sugerencias de mejoras y suplementos",
-      "Seguimiento y resolución de dudas por email"
+      "Videollamada de 30 minutos.",
+      "Evaluación de la dieta actual.",
+      "Sugerencias de mejoras y suplementos.",
+      "Seguimiento y resolución de dudas por email."
     ],
     "price": "55 €"
   },

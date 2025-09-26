@@ -22,8 +22,8 @@
   }
 
   &__badge {
-    float: left;
-    width: 300px;             
+    float: none;
+    width: 100%;             
     margin: 0 1.5rem 1rem 0;   
     position: relative;
     z-index: 0;
@@ -55,6 +55,20 @@
     color: #333;
     margin: 0 0 1.15rem;
   }
+&__btn {
+  display: inline-block;
+  margin-top: 1rem;
+  background: none;
+  border: none;
+  color: #2a7b4f;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 1rem;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
 }
 
 .footer__card_social-media {
@@ -62,13 +76,39 @@
   flex-direction: row;
   justify-content: center;
 }
+.about__more-desktop {
+  display: none; 
+}
+.about__more[open] summary {
+  display: none;
+}
 
-@media (max-width: 767px) {
-  .about__badge {
-    float: none;
-    width: 100%;
-    margin: 0 auto 1rem;
+@media (min-width: 768px) {
+   .about__more {
+    display: none; 
   }
+  .about__btn{
+    display: none;
+  }
+  .about__more-desktop {
+    display: block; 
+  }
+  .about__badge {
+    float: left;          
+    width: 280px;         
+    margin: 0 1.5rem 1rem 0;
+
+    &::before {
+      border: 30px solid #fbcb94; 
+      transform: rotate(-4deg);
+      filter: drop-shadow(0 8px 20px rgba(0,0,0,.12));
+    }
+      .about__btn {
+    display: none; 
+  }
+  }
+
+ 
 }
 @media (min-width: 2500px){
   .about{
