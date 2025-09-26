@@ -46,7 +46,7 @@ function ServiceDetail() {
       <p className="service-detail__description">
         {t(`services.${service.id}.description`)}
       </p>
-
+<div className="service-detail__info">
       <div className="service-detail__includes">
         <h3>{t("services.includesTitle")}</h3>
         <ul>
@@ -68,7 +68,7 @@ function ServiceDetail() {
           )}
         </ol>
       </div>
-
+</div>
       <p className="service-detail__price">
         {t(`services.${service.id}.price`)}
       </p>
