@@ -3,11 +3,14 @@ import "../styles/Navbar.scss";
 import LanguageSelector from "./LanguageSelector";
 import logo from "/logo.png";
 import { useState } from "react";
+import { HashLink } from "react-router-hash-link";
+import Modal from "./Modal";
 
 
 function Navbar (){
 const {t} = useTranslation();
 const [isOpen, setIsOpen] = useState(false);
+const [showModal, setShowModal] = useState(false);
 
 return(
   <>
@@ -29,21 +32,44 @@ return(
 <ul className={`navbar__menu ${isOpen ? "open" : ""}`}
 onClick={(e)=>e.stopPropagation()}>
 
-<li><a className="navbar__link" href="#benefits">{t("nav.benefits")}</a></li>
-  <li><a className="navbar__link" href="#about">{t("nav.about")}</a></li>
-  <li><a className="navbar__link" href="#services">{t("nav.services")}</a></li>
+<li><HashLink smooth to="/#benefits"  className="navbar__link" >{t("nav.benefits")}</HashLink></li>
+  <li><HashLink className="navbar__link" smooth to="/#about">{t("nav.about")}</HashLink></li>
+  <li><HashLink className="navbar__link" smooth to="/#services">{t("nav.services")}</HashLink></li>
   
-  <li><a className="navbar__link" href="#blog">{t("nav.blog")}</a></li>
-  <li><a className="navbar__link" href="#contact">{t("nav.contact")}</a></li>
+  <li><HashLink className="navbar__link" smooth to="/#blog">{t("nav.blog")}</HashLink></li>
+  <li><HashLink className="navbar__link" smooth to="/#contact">{t("nav.contact")}</HashLink></li>
 
 
-  <li>
-    <a className="navbar__link navbar__link--button" href="#reserva">
-      {t("nav.book")}
-    </a>
-  </li>
+ <li>
+  <button
+    className="navbar__link navbar__link--button"
+    onClick={() => setShowModal(true)}
+  >
+    {t("nav.book")}
+  </button>
+</li>
+
 </ul>
-  
+ {showModal && (
+  <Modal
+    isOpen={showModal}
+    onClose={() => setShowModal(false)}
+    title={t("nav.book")}
+  >
+    <a
+      href="https://wa.me/34613898805"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="modal__btn"
+    >
+      {t("services.whatsapp")}
+    </a>
+    <a href="mailto:info@silviavet.com" className="modal__btn">
+      {t("services.email")}
+    </a>
+  </Modal>
+)}
+
    <LanguageSelector/>
 </nav>
  <div className="nav-spacer" />

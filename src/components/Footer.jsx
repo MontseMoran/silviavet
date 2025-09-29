@@ -6,9 +6,9 @@ function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="footer footer--diagonals">
+    <footer id="contact" className="footer footer--diagonals">
       <div className="footer__inner">
-        <div id="contact" className="footer__cards">
+        <div  className="footer__cards">
           <div className="footer__card footer__card--left">
             <p>{t("footer.whatsApp")}:</p>
             <a

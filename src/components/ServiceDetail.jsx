@@ -1,9 +1,10 @@
-import { useParams, Link } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import services from "../data/servicesData.js";
 import "../styles/ServicesDetail.scss";
 import { useState } from "react";
 import { HashLink } from "react-router-hash-link";
+import Modal from "./Modal.jsx";
 
 function ServiceDetail() {
   const { id } = useParams();
@@ -93,32 +94,25 @@ function ServiceDetail() {
         </button>
       </div>
 
-      {/* Modal */}
-      {showModal && (
-        <div className="modal">
-          <div className="modal__content">
-            <button
-              className="modal__close"
-              onClick={() => setShowModal(false)}
-            >
-              ✖
-            </button>
-            <h3>{t("services.reserveButton")}</h3>
+     <Modal
+  isOpen={showModal}
+  onClose={() => setShowModal(false)}
+  title={t("services.reserveButton")}
+>
+  <a
+    href="https://wa.me/34613898805"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="modal__btn"
+  >
+    {t("services.whatsapp")}
+  </a>
+  <a href="mailto:info@silviavet.com" className="modal__btn">
+    {t("services.email")}
+  </a>
+</Modal>
 
-            <a
-              href="https://wa.me/34613898805"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="modal__btn"
-            >
-              {t("services.whatsapp")}
-            </a>
-            <a href="mailto:info@silviavet.com" className="modal__btn">
-              {t("services.email")}
-            </a>
-          </div>
-        </div>
-      )}
+      
     </section>
   );
 }
