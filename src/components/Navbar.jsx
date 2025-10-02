@@ -36,7 +36,7 @@ onClick={(e)=>e.stopPropagation()}>
   <li><HashLink className="navbar__link" smooth to="/#about">{t("nav.about")}</HashLink></li>
   <li><HashLink className="navbar__link" smooth to="/#services">{t("nav.services")}</HashLink></li>
   
-  <li><HashLink className="navbar__link" smooth to="/#blog">{t("nav.blog")}</HashLink></li>
+  <li><HashLink className="navbar__link" smooth to="#blog">{t("nav.blog")}</HashLink></li>
   <li><HashLink className="navbar__link" smooth to="/#contact">{t("nav.contact")}</HashLink></li>
 
 

@@ -153,5 +153,17 @@
   "reserveButton": "Reservar consulta",
   "includesTitle": "Incluye",
   "stepsTitle": "Cómo funciona"
-}
+},
+ "blog": {
+    "articles": [
+      {
+        "id": "bcs-mcs",
+        "title": "BCS y MCS: herramientas para controlar la salud de tu mascota",
+        "summary": "Descubre qué son el Body Condition Score (BCS) y el Muscle Condition Score (MCS)...",
+        "content": "Aquí va todo el artículo largo...",
+        "image": "/images/blog/bcs-mcs.jpg",
+        "date": "2025-09-29"
+      }
+    ]
+  }
 }

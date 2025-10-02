@@ -7,6 +7,7 @@ import Navbar from "./components/Navbar";
 import Services from "./components/Services";
 import ServiceDetail from "./components/ServiceDetail"
 import { Routes, Route, BrowserRouter } from "react-router-dom";
+import BlogAccordion from "./components/BlogList";
 
 
 function App() {
@@ -24,11 +25,15 @@ function App() {
           <Hero />
           <About /> 
           <Services />
+            
         </>
       }
     />
     <Route path="/services/:id" element={<ServiceDetail />} />
   </Routes>
+<Route path="/blog" element={<BlogList />} />
+<Route path="/blog/:id" element={<BlogDetail />} />
+
       </main>
       <footer>
         <Footer />
