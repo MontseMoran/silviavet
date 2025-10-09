@@ -61,6 +61,6 @@ Evaluados juntos, permiten detectar precozmente problemas como **obesidad, malnu
 ---
 
 ## Referencias
-- Freeman, L. M., & Cache, M. (2019). *Assessment of the canine and feline muscle condition score*. Journal of Animal Physiology and Animal Nutrition, 103(5), 1575–1583. [doi.org/10.1111/jpn.13148](https://doi.org/10.1111/jpn.13148)  
+- Freeman, L. M., & Cache, M. (2019). *Assessment of the canine and feline muscle condition score*. Journal of Animal Physiology and Animal Nutrition, 103(5), 1575–1583.
 - Laflamme, D. P. (1997). *Development and validation of a body condition score system for dogs*. Canine Practice, 22(4), 10–15.  
 - WSAVA – *Muscle condition score chart for cats*. [wsava.org](https://wsava.org/wp-content/uploads/2020/01/Muscle-Condition-Score-Chart-for-Cats.pdf)
