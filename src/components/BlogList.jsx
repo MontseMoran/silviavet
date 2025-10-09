@@ -1,31 +1,80 @@
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import blogArticles, { pickLang } from "../data/blogData";
 import "../styles/BlogList.scss";
+import blogArticles, { pickLang } from "../data/blogData";
 
+
+function formatDate(dateStr, lang) {
+  
+  try {
+    const d = new Date(dateStr);
+    const fmt = new Intl.DateTimeFormat(
+      lang === "it" ? "it-IT" : "es-ES",
+      { day: "2-digit", month: "long", year: "numeric" }
+    );
+    return fmt.format(d);
+  } catch {
+    return dateStr || "";
+  }
+}
 
 function BlogList() {
   const { i18n, t } = useTranslation();
   const lang = (i18n.resolvedLanguage || i18n.language || "es").slice(0, 2);
 
+ 
+  const sorted = [...blogArticles].sort(
+    (a, b) => new Date(b.date) - new Date(a.date)
+  );
+
   return (
     <section id="blog" className="blog-list">
-      <h2>{t("nav.blog")}</h2>
+    
 
       <div className="blog-list__grid">
-        {blogArticles.map((article) => (
-          <div key={article.id} className="blog-list__card">
-            <img src={article.image} alt={pickLang(article.title, lang)} />
-            <h3>{pickLang(article.title, lang)}</h3>
-            <p>{pickLang(article.summary, lang)}</p>
-            <Link to={`/blog/${article.id}`} className="blog-list__btn">
-              {t("common.readMore", { defaultValue: "Leer más" })}
-            </Link>
-          </div>
-        ))}
+        {sorted.map((article) => {
+          const title = pickLang(article.title, lang);
+          const summary = pickLang(article.summary, lang);
+          const humanDate = formatDate(article.date, lang);
+
+          return (
+            <article key={article.id} className="blog-list__card">
+              <img 
+              src={pickLang(article.image, lang)} 
+              alt={pickLang(article.title, lang)} 
+              className="blog-list__image"
+              />
+
+              <div className="blog-list__content">
+                <h3 className="blog-list__title">{title}</h3>
+
+                {article.date && (
+                  <time
+                    className="blog-list__date"
+                    dateTime={article.date}
+                    aria-label={humanDate}
+                  >
+                    {humanDate}
+                  </time>
+                )}
+
+                <p className="blog-list__summary">{summary}</p>
+
+                <Link
+                  to={`/blog/${article.id}`}
+                  className="blog-list__btn"
+                  aria-label={`${t("common.readMore", { defaultValue: "Leer más" })}: ${title}`}
+                >
+                  {t("common.readMore", { defaultValue: "Leer más" })}
+                </Link>
+              </div>
+            </article>
+          );
+        })}
       </div>
     </section>
   );
 }
 
 export default BlogList;
+

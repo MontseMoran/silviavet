@@ -1,0 +1,94 @@
+.blog-list{
+padding-bottom: 15rem;
+padding-top: 2rem;
+
+}
+.blog-list__grid {
+  display: grid;
+  grid-template-columns: 1fr; 
+  gap: 1.5rem; 
+  padding: 1rem;
+  max-width: 1200px;
+  justify-items: center;
+}
+.blog-list__card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+  max-width: 320px;
+}
+
+.blog-list__card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0,0,0,.12);
+}
+
+
+.blog-list__image {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.blog-list__content {
+  padding: 1rem;
+}
+
+.blog-list__title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: .5rem;
+  color: #333;
+}
+
+.blog-list__date {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-bottom: .75rem;
+}
+
+.blog-list__summary {
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.blog-list__btn {
+  align-self: flex-start;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #6b4caf; /* un tono que combine con tu web */
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.blog-list__btn:hover {
+  color: #4a2f9f;
+}
+@media (min-width: 600px) {
+  .blog-list__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+  .blog-list__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (min-width: 1440px){
+    .blog-list{
+       padding-top: 5rem;
+    }
+}

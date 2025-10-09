@@ -5,9 +5,10 @@ import About from "./components/About";
 import "./App.scss";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
-import ServiceDetail from "./components/ServiceDetail"
+import ServiceDetail from "./components/ServiceDetail";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
-import BlogAccordion from "./components/BlogList";
+import BlogList from "./components/BlogList";
+import BlogDetail from "./components/BlogDetail";
 
 
 function App() {
@@ -16,24 +17,23 @@ function App() {
       <header>
         <Navbar />
       </header>
-       <main>
- <Routes>
-    <Route
-      path="/"
-      element={
-        <>
-          <Hero />
-          <About /> 
-          <Services />
-            
-        </>
-      }
-    />
-    <Route path="/services/:id" element={<ServiceDetail />} />
-  </Routes>
-<Route path="/blog" element={<BlogList />} />
-<Route path="/blog/:id" element={<BlogDetail />} />
-
+      <main>
+        <Routes>
+          <Route
+            path="/"
+            element={
+              <>
+                <Hero />
+                <About />
+                <Services />
+              </>
+            }
+          />
+          <Route path="/services/:id" element={<ServiceDetail />} />
+      
+        <Route path="/blog" element={<BlogList />} />
+        <Route path="/blog/:id" element={<BlogDetail />} /> 
+         </Routes>
       </main>
       <footer>
         <Footer />
