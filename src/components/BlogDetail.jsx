@@ -53,8 +53,9 @@ function BlogDetail() {
                 style={{ maxWidth: "100%", height: "auto" }}
               />
             ),
-            table: (props) => (
-              <table className="md-table" {...props} />
+            table: (props) => <table className="md-table" {...props} />,
+            a: (props) => (
+              <a {...props} target="_blank" rel="noopener noreferrer" />
             ),
           }}
         >
