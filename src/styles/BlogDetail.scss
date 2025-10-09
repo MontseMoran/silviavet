@@ -1,11 +1,11 @@
 .blog-detail {
-  padding: 2rem 1rem 12rem;
+  padding: 2rem 1rem 6rem;
   display: flex;
   justify-content: center;
   background: #fffaf9;
 
   &__content {
-    max-width: 800px;
+    max-width: 300px;
     line-height: 1.7;
     color: #333;
     font-size: 1.05rem;
@@ -75,4 +75,28 @@
       margin: 2rem 0;
     }
   }
+}
+@media (min-width: 768px) {
+.blog-detail{
+    padding-bottom: 10rem;
+    &__content{
+        max-width: 600px;
+    }
+}
+}
+@media (min-width: 1440px){
+   .blog-detail{
+    padding-bottom: 14rem;
+
+&__content{
+    max-width: 1100px;
+}}
+}
+@media (min-width: 1920px){
+    .blog-detail{
+        padding-top: 5rem;
+    }
+    .blog-detail__content{
+       max-width: 1600px;  
+    }
 }

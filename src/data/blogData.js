@@ -6,8 +6,8 @@ const blogArticles = [
       it: "BCS e MCS: strumenti per monitorare la salute del tuo animale",
     },
     summary: {
-      es: "El Body Condition Score (BCS) y el Muscle Condition Score (MCS) son métodos sencillos pero potentes para evaluar el estado nutricional real de tu mascota.",
-      it: "Il Body Condition Score (BCS) e il Muscle Condition Score (MCS) sono strumenti semplici ma potenti per valutare lo stato nutrizionale reale del tuo animale.",
+      es: "Aprende a descubrir si tu perro o tu gato está en su peso ideal 🐾 con dos sencillas herramientas que usan los veterinarios: el BCS y el MCS.",
+      it: "Scopri se il tuo cane o gatto sta nel suo peso ideale 🐾 con due semplici strumenti usati dai veterinari: il BCS e l’MCS",
     },
     mdPath: {
       es: "/blog/es/bcs-mcs.md",

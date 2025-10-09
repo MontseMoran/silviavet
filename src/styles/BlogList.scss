@@ -21,6 +21,8 @@ padding-top: 2rem;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   cursor: pointer;
   max-width: 320px;
+  text-decoration: none;
+  text-align: center;
 }
 
 .blog-list__card:hover {
@@ -53,28 +55,26 @@ padding-top: 2rem;
 }
 
 .blog-list__summary {
-  font-size: 0.95rem;
-  color: #444;
-  margin-bottom: 1rem;
+  margin: 0.5rem 0 1.2rem;
   line-height: 1.4;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  color: #444;
+  font-size: 0.95rem;
+  display: block; 
+  overflow: visible; 
 }
+
 
 .blog-list__btn {
   align-self: flex-start;
   font-size: 0.9rem;
   font-weight: 500;
-  color: #6b4caf; /* un tono que combine con tu web */
+  color: #2bce38; 
   text-decoration: none;
   transition: color 0.2s;
 }
 
 .blog-list__btn:hover {
-  color: #4a2f9f;
+  color: #58ca49;
 }
 @media (min-width: 600px) {
   .blog-list__grid {
