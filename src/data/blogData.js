@@ -10,14 +10,36 @@ const blogArticles = [
       it: "Scopri se il tuo cane o gatto sta nel suo peso ideale 🐾 con due semplici strumenti usati dai veterinari: il BCS e l’MCS",
     },
     mdPath: {
-      es: "/blog/es/bcs-mcs.md",
-      it: "/blog/it/bcs-mcs.md",
+      es: "/blog/es/bcs-mcs-es.md",
+      it: "/blog/it/bcs-mcs-it.md",
     },
    image: {
   es: "/blog/images/BCS-es.jpg",
   it: "/blog/images/BCS-it.jpg",
 },
-  }
+ date: "2025-09-10",
+  },
+  {
+  id: "microbiota",
+  title: {
+    es: "Microbiota intestinal en perros y gatos ancianos",
+    it: "Microbiota intestinale nei cani e gatti anziani",
+  },
+  summary: {
+    es: "La microbiota intestinal cambia con la edad y afecta la digestión, el sistema inmune y la salud general de perros y gatos mayores. Descubre cómo mantenerlo equilibrado 🦠.",
+    it: "Il microbiota intestinale cambia con l’età e influenza la digestione, il sistema immunitario e la salute generale di cani e gatti anziani. Scopri come mantenerlo in equilibrio 🦠.",
+  },
+  mdPath: {
+    es: "/blog/es/microbiota-es.md",
+    it: "/blog/it/microbiota-it.md",
+  },
+  image: {
+    es: "/blog/images/microbiota-es.png",
+    it: "/blog/images/microbiota-it.png",
+  },
+  date: "2025-10-10",
+},
+
 ];
 
 export default blogArticles;
