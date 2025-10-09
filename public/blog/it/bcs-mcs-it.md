@@ -61,6 +61,6 @@ Valutati insieme, permettono di individuare precocemente problemi come **obesit�
 ---
 
 ## Riferimenti
-- Freeman, L. M., & Cache, M. (2019). *Valutazione del punteggio della condizione muscolare nei cani e nei gatti*. Journal of Animal Physiology and Animal Nutrition, 103(5), 1575–1583. [doi.org/10.1111/jpn.13148](https://doi.org/10.1111/jpn.13148)  
+- Freeman, L. M., & Cache, M. (2019). *Valutazione del punteggio della condizione muscolare nei cani e nei gatti*. Journal of Animal Physiology and Animal Nutrition, 103(5), 1575–1583.
 - Laflamme, D. P. (1997). *Sviluppo e validazione di un sistema di punteggio della condizione corporea per i cani*. Canine Practice, 22(4), 10–15.  
-- WSAVA – *Tabella del punteggio della condizione muscolare per i gatti*. [wsava.org](https://wsava.org/wp-content/uploads/2020/01/Muscle-Condition-Score-Chart-for-Cats.pdf)
+- WSAVA – *Tabella del punteggio della condizione muscolare per i gatti*. 

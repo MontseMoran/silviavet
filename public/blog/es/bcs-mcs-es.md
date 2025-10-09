@@ -57,10 +57,15 @@ El BCS y el MCS son **herramientas complementarias esenciales** para conocer el 
 Evaluados juntos, permiten detectar precozmente problemas como **obesidad, malnutrición o sarcopenia**, y guiar planes de manejo que mejoren la calidad y la expectativa de vida de perros y gatos.  
 
 **Revisar periódicamente BCS y MCS**, junto con controles veterinarios regulares, es una estrategia sencilla y eficaz para mantener a tu mascota sana y en forma.  
+> 🐾 **Consejo de SilviaVet:** revisa la condición corporal de tu mascota cada 3 meses.  
+> 🍃 Si tu perro o gato necesita ajustes en su dieta por edad o patologías,  
+> [rellena nuestro formulario para empezar ya un plan personalizado](https://form.jotform.com/252726382736363).
+
+
 
 ---
 
 ## Referencias
 - Freeman, L. M., & Cache, M. (2019). *Assessment of the canine and feline muscle condition score*. Journal of Animal Physiology and Animal Nutrition, 103(5), 1575–1583.
 - Laflamme, D. P. (1997). *Development and validation of a body condition score system for dogs*. Canine Practice, 22(4), 10–15.  
-- WSAVA – *Muscle condition score chart for cats*. [wsava.org](https://wsava.org/wp-content/uploads/2020/01/Muscle-Condition-Score-Chart-for-Cats.pdf)
+- WSAVA – *Muscle condition score chart for cats*. 
