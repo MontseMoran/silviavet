@@ -58,8 +58,8 @@ Evaluados juntos, permiten detectar precozmente problemas como **obesidad, malnu
 
 **Revisar periódicamente BCS y MCS**, junto con controles veterinarios regulares, es una estrategia sencilla y eficaz para mantener a tu mascota sana y en forma.  
 > 🐾 **Consejo de SilviaVet:** revisa la condición corporal de tu mascota cada 3 meses.  
-> 🍃 Si tu perro o gato necesita ajustes en su dieta por edad o patologías,  
-> [rellena nuestro formulario para empezar ya un plan personalizado](https://form.jotform.com/252726382736363).
+🌿 Si tu perro o gato necesita ajustes en su dieta por edad o patologías, rellena [este formulario 📝➡️](https://form.jotform.com/252726382736363) para empezar ya un plan personalizado.
+
 
 
 

@@ -57,6 +57,9 @@ BCS e MCS sono **strumenti complementari essenziali** per conoscere il reale sta
 Valutati insieme, permettono di individuare precocemente problemi come **obesità, malnutrizione o sarcopenia**, e guidare piani di gestione che migliorano la qualità e l’aspettativa di vita.  
 
 **Controllare regolarmente BCS e MCS**, insieme a visite veterinarie periodiche, è una strategia semplice ed efficace per mantenere il tuo pet sano e in forma.  
+> 🐾 **Consiglio di SilviaVet:** controlla la condizione corporea del tuo animale ogni 3 mesi.  
+🌿 Se il tuo cane o gatto ha bisogno di adattamenti nella dieta per età o patologie, compila [questo modulo 📝➡️](https://form.jotform.com/252726382736363) per iniziare subito un piano personalizzato.
+
 
 ---
 
