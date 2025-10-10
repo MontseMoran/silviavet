@@ -7,6 +7,8 @@
 
 
 ## Introducción
+**Microbiota fuerte y sana** – **Microbiota débil con pérdida de diversidad**
+
 
 La microbiota intestinal es el conjunto de microorganismos (bacterias, virus, hongos, protozoos) que habitan en el aparato digestivo.  
 Tanto en el ser humano como en los animales desempeña un papel crucial: ayuda en la digestión, produce metabolitos beneficiosos (como los ácidos grasos de cadena corta, SCFA), protege frente a microorganismos patógenos y regula la respuesta inmunitaria.  
@@ -82,6 +84,11 @@ Los postbióticos (metabolitos producidos por bacterias beneficiosas) representa
 La microbiota intestinal es un indicador clave del estado de salud en animales ancianos.  
 Los cambios relacionados con la edad — reducción de la diversidad microbiana, disminución de metabolitos protectores y aumento de bacterias oportunistas — contribuyen al desarrollo de enfermedades crónicas como obesidad, diabetes, insuficiencia renal y deterioro cognitivo.  
 Con una dieta adecuada, el uso de probióticos y un seguimiento veterinario regular, es posible mantener una microbiota más equilibrada y mejorar la calidad y la esperanza de vida de nuestros compañeros de cuatro patas.
+
+---
+
+> 🐾 **Consejo de SilviaVet:** cuida la microbiota intestinal de tu mascota con revisiones periódicas y una alimentación equilibrada.  
+🌿 Si notas digestiones lentas, cambios en las heces o pérdida de vitalidad, rellena [este formulario 📝➡️](https://form.jotform.com/252726382736363) para empezar ya un plan personalizado.
 
 ---
 

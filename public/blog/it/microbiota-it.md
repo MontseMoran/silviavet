@@ -67,12 +67,17 @@ I postbiotici (metaboliti prodotti dai batteri benefici) rappresentano un campo 
 - Monitoraggio periodico della salute intestinale.  
 - Uso dell’indice di disbiosi come strumento di valutazione nei soggetti con enteropatie croniche [2].
 
----
 
+---
 ## Conclusioni
 Il microbiota intestinale è un indicatore chiave dello stato di salute negli animali anziani.  
 I cambiamenti legati all’età — riduzione della diversità microbica, calo dei metaboliti protettivi, aumento dei batteri opportunisti — possono contribuire a patologie croniche come obesità, diabete, insufficienza renale e declino cognitivo.  
 Con una dieta mirata, l’uso di probiotici e un monitoraggio veterinario regolare, è possibile mantenere un microbiota più equilibrato e migliorare la qualità e la durata della vita dei nostri amici a quattro zampe.
+
+---
+
+> 🐾 **Consiglio di SilviaVet:** prenditi cura del microbiota intestinale del tuo animale con controlli periodici e un’alimentazione equilibrata.  
+🌿 Se noti digestione lenta, cambiamenti nelle feci o perdita di vitalità, compila [questo modulo 📝➡️](https://form.jotform.com/252726382736363) per iniziare subito un piano personalizzato.
 
 ---
 
