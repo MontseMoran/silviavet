@@ -2,7 +2,7 @@
 
 | ![Microbiota forte e sana](/blog/images/microbiota-sano.png) | ![Microbiota debole con perdita di diversità](/blog/images/microbiota-viejo.png) |
 |:--:|:--:|
-| Microbiota forte e sana | Microbiota debole e invecchiata |
+| Microbiota forte e sana | Microbiota debole e invecchiato |
 
 ## Introduzione
 **Microbiota forte e sano** – **Microbiota debole con perdita di diversificazione**

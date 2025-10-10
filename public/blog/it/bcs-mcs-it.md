@@ -1,4 +1,4 @@
-# BCS e MCS: gli strumenti per controllare la salue del tuo pet.
+# BCS e MCS: gli strumenti per controllare la salute del tuo pet.
 
 ## Introduzione
 Si sa che la prevenzione è sempre la scelta migliore, sia per la nostra salute che per quella dei nostri cari, animali inclusi.  
@@ -14,7 +14,7 @@ Esistono due scale:
 - Una da **1 a 5**  
 - Un’altra più dettagliata e maggiormente utilizzata, da **1 a 9**  
 
-La valutazione combina **osservazione visiva e palpazione** di coste, colonna vertebrale e girovita.  
+La valutazione combina **osservazione visiva e palpazione** di costole, colonna vertebrale e girovita.  
 Un punteggio di **4–5/9 corrisponde al peso ideale**; valori più bassi indicano magrezza, mentre valori più alti indicano sovrappeso o obesità.  
 
 ### Scala semplificata (1–9)
