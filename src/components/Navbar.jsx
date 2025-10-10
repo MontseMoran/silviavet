@@ -53,24 +53,27 @@ function Navbar() {
           </li>
 
           <li>
-            <Link className="navbar__link" to="/blog">
+            <Link
+              className="navbar__link"
+              to="/blog"
+              onClick={() => window.scrollTo(0, 0)}
+            >
               {t("nav.blog")}
             </Link>
           </li>
 
-        <li>
-  <a
-    href="#contact"
-    className="navbar__link"
-    onClick={(e) => {
-      e.preventDefault();
-      setShowModal(true);
-    }}
-  >
-    {t("nav.contact")}
-  </a>
-</li>
-
+          <li>
+            <a
+              href="#contact"
+              className="navbar__link"
+              onClick={(e) => {
+                e.preventDefault();
+                setShowModal(true);
+              }}
+            >
+              {t("nav.contact")}
+            </a>
+          </li>
 
           <li>
             <a
