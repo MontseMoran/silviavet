@@ -34,8 +34,8 @@ const blogArticles = [
     it: "/blog/it/microbiota-it.md",
   },
   image: {
-    es: "/blog/images/2-es.png",
-    it: "/blog/images/2-it.png",
+    es: "/blog/images/2-es.jpg",
+    it: "/blog/images/2-it.jpg",
   },
   date: "2025-10-10",
 },
