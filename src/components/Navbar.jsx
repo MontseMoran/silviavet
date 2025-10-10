@@ -58,19 +58,29 @@ function Navbar() {
             </Link>
           </li>
 
-          <li>
-            <HashLink className="navbar__link" smooth to="/#contact">
-              {t("nav.contact")}
-            </HashLink>
-          </li>
+        <li>
+  <a
+    href="#contact"
+    className="navbar__link"
+    onClick={(e) => {
+      e.preventDefault();
+      setShowModal(true);
+    }}
+  >
+    {t("nav.contact")}
+  </a>
+</li>
+
 
           <li>
-            <button
+            <a
+              href="https://form.jotform.com/252726382736363"
+              target="_blank"
+              rel="noopener noreferrer"
               className="navbar__link navbar__link--button"
-              onClick={() => setShowModal(true)}
             >
-              {t("nav.book")}
-            </button>
+              {t("nav.start")}
+            </a>
           </li>
         </ul>
         {showModal && (
