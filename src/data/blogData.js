@@ -39,6 +39,26 @@ const blogArticles = [
   },
   date: "2025-10-10",
 },
+{
+  id: "aburrimiento-obesidad",
+  title: {
+    es: "Aburrimiento y obesidad en perros y gatos",
+    it: "Noia e obesità nei cani e nei gatti",
+  },
+  summary: {
+    es: "El aburrimiento puede llevar al sobrepeso en nuestras mascotas 🐶🐱. Descubre cómo mantenerlos activos y mentalmente estimulados con la ayuda de Silvia Vet.",
+    it: "La noia può portare al sovrappeso nei nostri animali 🐶🐱. Scopri come mantenerli attivi e mentalmente stimolati con l’aiuto di Silvia Vet.",
+  },
+  mdPath: {
+    es: "/blog/es/aburrimiento-obesidad-es.md",
+    it: "/blog/it/aburrimiento-obesidad-it.md",
+  },
+  image: {
+    es: "/blog/images/art-3-es.png",
+    it: "/blog/images/art-3-it.png",
+  },
+  date: "2025-10-15",
+},
 
 ];
 
