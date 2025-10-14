@@ -76,7 +76,7 @@
 
     "presencial": {
       "name": "Consulenza nutrizionale",
-      "category": "Presenziale (cliniche convenzionate)",
+      "category": "Presenziale",
       "diet": "Dieta casalinga",
       "description": "La consulenza si svolge in presenza presso una delle cliniche partner nel Baix Llobregat e ha una durata di circa 45 minuti.",
       "includes": [
