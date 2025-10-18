@@ -31,10 +31,10 @@ Puedes configurar tu navegador para rechazar o eliminar las cookies instaladas p
 Ten en cuenta que, si lo haces, algunas funciones podrían dejar de estar disponibles.  
 
 Consulta las guías oficiales según tu navegador:  
-- [Google Chrome](https://support.google.com/chrome/answer/95647?hl=es)  
-- [Mozilla Firefox](https://support.mozilla.org/es/kb/Borrar%20cookies)  
-- [Safari](https://support.apple.com/es-es/guide/safari/sfri11471/mac)  
-- [Microsoft Edge](https://support.microsoft.com/es-es/microsoft-edge/eliminar-cookies-en-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09)
+- <a href="https://support.google.com/chrome/answer/95647?hl=es" target="_blank" rel="noopener noreferrer">Google Chrome</a>  
+- <a href="https://support.mozilla.org/es/kb/Borrar%20cookies" target="_blank" rel="noopener noreferrer">Mozilla Firefox</a>  
+- <a href="https://support.apple.com/es-es/guide/safari/sfri11471/mac" target="_blank" rel="noopener noreferrer">Safari</a>  
+- <a href="https://support.microsoft.com/es-es/microsoft-edge/eliminar-cookies-en-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09" target="_blank" rel="noopener noreferrer">Microsoft Edge</a>
 
 ---
 
@@ -75,10 +75,10 @@ Puoi configurare il tuo browser per rifiutare o eliminare i cookie installati da
 Tieni presente che, in tal caso, alcune funzioni potrebbero non essere più disponibili.  
 
 Consulta le guide ufficiali:  
-- [Google Chrome](https://support.google.com/chrome/answer/95647?hl=it)  
-- [Mozilla Firefox](https://support.mozilla.org/it/kb/Eliminare%20i%20cookie)  
-- [Safari](https://support.apple.com/it-it/guide/safari/sfri11471/mac)  
-- [Microsoft Edge](https://support.microsoft.com/it-it/microsoft-edge/eliminare-i-cookie-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09)
+- <a href="https://support.google.com/chrome/answer/95647?hl=it" target="_blank" rel="noopener noreferrer">Google Chrome</a>  
+- <a href="https://support.mozilla.org/it/kb/Eliminare%20i%20cookie" target="_blank" rel="noopener noreferrer">Mozilla Firefox</a>  
+- <a href="https://support.apple.com/it-it/guide/safari/sfri11471/mac" target="_blank" rel="noopener noreferrer">Safari</a>  
+- <a href="https://support.microsoft.com/it-it/microsoft-edge/eliminare-i-cookie-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09" target="_blank" rel="noopener noreferrer">Microsoft Edge</a>
 
 ---
 
