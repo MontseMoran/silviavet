@@ -74,8 +74,8 @@ const blogArticles = [
     it: "/blog/it/carne-cruda-it.md",
   },
   image: {
-    es: "/blog/images/stomaco-carne-cruda.png",
-    it: "/blog/images/stomaco-carne-cruda.png",
+    es: "/blog/images/ph.png",
+    it: "/blog/images/ph.png",
   },
   date: "2025-10-17",
 },
