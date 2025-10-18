@@ -9,6 +9,7 @@ import ServiceDetail from "./components/ServiceDetail";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import BlogList from "./components/BlogList";
 import BlogDetail from "./components/BlogDetail";
+import Cookies from "./components/Cookies";
 
 
 function App() {
@@ -33,10 +34,12 @@ function App() {
       
         <Route path="/blog" element={<BlogList />} />
         <Route path="/blog/:id" element={<BlogDetail />} /> 
+          <Route path="/cookies" element={<Cookies />} />
          </Routes>
       </main>
       <footer>
         <Footer />
+      
       </footer>
     </BrowserRouter>
   );

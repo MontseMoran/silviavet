@@ -64,6 +64,8 @@ function Footer() {
         </div>
 
         <div className="footer__legal">{t("footer.legal", { year })}</div>
+        <a href="/cookies">Política de Cookies</a>
+
       </div>
     </footer>
   );
