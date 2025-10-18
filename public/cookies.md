@@ -4,7 +4,7 @@
 
 **Última actualización:** octubre 2025  
 
-En **SilviaVet.com** utilizamos cookies y tecnologías similares para mejorar tu experiencia de navegación, ofrecerte contenidos adaptados y recordar tus preferencias, como el idioma.
+En **silviavet.com** utilizamos cookies y tecnologías similares para mejorar tu experiencia de navegación, ofrecerte contenidos adaptados y recordar tus preferencias, como el idioma.
 
 ---
 
@@ -31,6 +31,7 @@ Puedes configurar tu navegador para rechazar o eliminar las cookies instaladas p
 Ten en cuenta que, si lo haces, algunas funciones podrían dejar de estar disponibles.  
 
 Consulta las guías oficiales según tu navegador:  
+
 - <a href="https://support.google.com/chrome/answer/95647?hl=es" target="_blank" rel="noopener noreferrer">Google Chrome</a>  
 - <a href="https://support.mozilla.org/es/kb/Borrar%20cookies" target="_blank" rel="noopener noreferrer">Mozilla Firefox</a>  
 - <a href="https://support.apple.com/es-es/guide/safari/sfri11471/mac" target="_blank" rel="noopener noreferrer">Safari</a>  
@@ -39,7 +40,7 @@ Consulta las guías oficiales según tu navegador:
 ---
 
 ### 4. Aceptación de la política
-Al continuar navegando por **SilviaVet.com**, se considera que aceptas el uso de cookies en los términos descritos.  
+Al continuar navegando por **silviavet.com**, se considera que aceptas el uso de cookies en los términos descritos.  
 Puedes obtener más información sobre cómo tratamos tus datos en nuestra **[Política de Privacidad](/privacy)**.
 
 ---
@@ -48,7 +49,7 @@ Puedes obtener más información sobre cómo tratamos tus datos en nuestra **[Po
 
 **Ultimo aggiornamento:** ottobre 2025  
 
-In **SilviaVet.com** utilizziamo cookie e tecnologie simili per migliorare la tua esperienza di navigazione, offrire contenuti personalizzati e ricordare le tue preferenze, come la lingua.
+In **silviavet.com** utilizziamo cookie e tecnologie simili per migliorare la tua esperienza di navigazione, offrire contenuti personalizzati e ricordare le tue preferenze, come la lingua.
 
 ---
 
@@ -75,6 +76,7 @@ Puoi configurare il tuo browser per rifiutare o eliminare i cookie installati da
 Tieni presente che, in tal caso, alcune funzioni potrebbero non essere più disponibili.  
 
 Consulta le guide ufficiali:  
+
 - <a href="https://support.google.com/chrome/answer/95647?hl=it" target="_blank" rel="noopener noreferrer">Google Chrome</a>  
 - <a href="https://support.mozilla.org/it/kb/Eliminare%20i%20cookie" target="_blank" rel="noopener noreferrer">Mozilla Firefox</a>  
 - <a href="https://support.apple.com/it-it/guide/safari/sfri11471/mac" target="_blank" rel="noopener noreferrer">Safari</a>  
@@ -83,5 +85,5 @@ Consulta le guide ufficiali:
 ---
 
 ### 4. Accettazione della politica
-Continuando a navigare su **SilviaVet.com**, accetti l’uso dei cookie secondo quanto descritto nella presente informativa.  
+Continuando a navigare su **silviavet.com**, accetti l’uso dei cookie secondo quanto descritto nella presente informativa.  
 Puoi trovare maggiori dettagli sul trattamento dei dati personali nella nostra **[Informativa sulla Privacy](/privacy)**.
