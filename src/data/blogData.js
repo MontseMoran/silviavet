@@ -60,7 +60,7 @@ const blogArticles = [
   date: "2025-10-15",
 },
 {
-  id: "carne-cruda",
+  id: "cruda",
   title: {
     es: "¿El estómago mata todos los microorganismos de la carne cruda?",
     it: "Lo stomaco uccide tutti i microrganismi della carne cruda?",
@@ -70,8 +70,8 @@ const blogArticles = [
     it: "Miti, evidenze scientifiche e gestione sicura della dieta a crudo per cani e gatti 🥩🐾. Il pH gastrico non sterilizza completamente gli alimenti e alcuni patogeni possono sopravvivere.",
   },
   mdPath: {
-    es: "/blog/es/carne-cruda-es.md",
-    it: "/blog/it/carne-cruda-it.md",
+    es: "/blog/es/cruda-es.md",
+    it: "/blog/it/cruda-it.md",
   },
   image: {
     es: "/blog/images/ph.png",
