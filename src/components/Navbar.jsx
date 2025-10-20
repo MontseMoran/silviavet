@@ -11,6 +11,10 @@ function Navbar() {
   const { t } = useTranslation();
   const [isOpen, setIsOpen] = useState(false);
   const [showModal, setShowModal] = useState(false);
+const handleMenuClick = (action) => {
+  setIsOpen(false); // cierra el menú
+  if (action) action(); // ejecuta una acción extra si la hay (por ejemplo, abrir el modal)
+};
 
   return (
     <>
@@ -37,17 +41,27 @@ function Navbar() {
           onClick={(e) => e.stopPropagation()}
         >
           <li>
-            <HashLink smooth to="/#benefits" className="navbar__link">
+            <HashLink 
+            smooth to="/#benefits" 
+            className="navbar__link"
+             onClick={() => handleMenuClick()}
+            >
               {t("nav.benefits")}
             </HashLink>
           </li>
           <li>
-            <HashLink className="navbar__link" smooth to="/#about">
+            <HashLink 
+            className="navbar__link" 
+            smooth to="/#about" 
+            onClick={() => handleMenuClick()}>
               {t("nav.about")}
             </HashLink>
           </li>
           <li>
-            <HashLink className="navbar__link" smooth to="/#services">
+            <HashLink 
+            className="navbar__link" 
+            smooth to="/#services"
+            onClick={() => handleMenuClick()}>
               {t("nav.services")}
             </HashLink>
           </li>
@@ -56,7 +70,7 @@ function Navbar() {
             <Link
               className="navbar__link"
               to="/blog"
-              onClick={() => window.scrollTo(0, 0)}
+              onClick={() => handleMenuClick(() => window.scrollTo(0, 0))}
             >
               {t("nav.blog")}
             </Link>
@@ -68,7 +82,7 @@ function Navbar() {
               className="navbar__link"
               onClick={(e) => {
                 e.preventDefault();
-                setShowModal(true);
+                handleMenuClick(()=>setShowModal(true));
               }}
             >
               {t("nav.contact")}

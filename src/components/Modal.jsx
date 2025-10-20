@@ -5,8 +5,14 @@ function Modal({ isOpen, onClose, title, children }) {
   if (!isOpen) return null;
 
   return ReactDOM.createPortal(
-    <div className="modal">
-      <div className="modal__content">
+    <div 
+    className="modal"
+    onClick={onClose}
+    >
+      <div 
+      className="modal__content"
+      onClick={(e) => e.stopPropagation()} 
+      >
         <button className="modal__close" onClick={onClose}>
           ✖
         </button>
