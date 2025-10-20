@@ -81,7 +81,8 @@
     "name": "Consulta nutricional",
     "category": "Presencial",
     "diet": "Dieta casera",
-    "description": "La consulta se realiza de forma presencial en una de las clínicas colaboradoras en el Baix Llobregat y tiene una duración aproximada de 45 minutos.",
+"description": "La consulta presencial permite una valoración completa del animal en persona. Además de revisar su dieta y hábitos, se evalúa la condición muscular (MCS), el peso y otros parámetros que ayudan a diseñar un plan nutricional preciso y adaptado. Es la opción más adecuada cuando se requiere una observación directa o un seguimiento más detallado. La consulta se realiza en una de las clínicas colaboradoras en el Baix Llobregat y tiene una duración aproximada de 45 minutos.",
+
     "includes": [
       "Exploración física del animal.",
       "Evaluación de la dieta actual.",
