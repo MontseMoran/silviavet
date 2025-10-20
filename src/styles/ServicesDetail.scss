@@ -254,7 +254,7 @@
     }
 
     &__description {
-      font-size: 1.1rem;
+      font-size: 1.3rem;
     }
    &__buttons{
     gap:2rem;
@@ -265,9 +265,16 @@
     grid-template-columns: 1fr 1fr;
     gap:3rem;
     align-items:start;
+    font-size: 1.55rem;
   }
   &__image{
     max-width: 500px;
+  }
+  &__includes{
+    font-size: 1.3rem;
+  }
+  &__steps{
+    font-size: 1.3rem;
   }
   }
 }
@@ -279,7 +286,7 @@ padding-top: 5rem;
   max-width: 1200px;
 }
 &__image{
-  max-width: 800px;
+  max-width: 600px;
 }
 &__description{
    max-width: 1400px;  
