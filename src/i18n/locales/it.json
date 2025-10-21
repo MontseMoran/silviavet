@@ -56,8 +56,7 @@
       "name": "Consulenza nutrizionale",
       "category": "Online",
       "diet": "Dieta casalinga",
-   "description": "La consulenza in presenza permette una valutazione completa dell’animale dal vivo. Oltre a rivedere la dieta e le abitudini, viene valutata la condizione muscolare (MCS), insieme al peso e ad altri parametri utili per elaborare un piano nutrizionale preciso e personalizzato. È l’opzione più indicata quando è necessario un esame diretto o un monitoraggio più approfondito. La consulenza si svolge in una delle cliniche partner nel Baix Llobregat e ha una durata di circa 45 minuti.",
-
+      "description": "La consulenza online ti permette di prenderti cura dell’alimentazione del tuo cane o gatto senza spostarti, senza attese e senza stress per loro. È ideale per gli animali che si agitano durante i viaggi o le visite in clinica. Attraverso una videochiamata personalizzata, valuterò la loro dieta, le abitudini e lo stato generale per preparare un piano alimentare su misura. È un’opzione comoda, flessibile e sicura per migliorare il loro benessere direttamente da casa. La consulenza ha una durata di circa 45 minuti",
       "includes": [
         "Valutazione della dieta attuale.",
         "Creazione di un piano casalingo (cotto, crudo o BARF).",
@@ -79,7 +78,7 @@
       "name": "Consulenza nutrizionale",
       "category": "Presenziale",
       "diet": "Dieta casalinga",
-      "description": "La consulenza si svolge in presenza presso una delle cliniche partner nel Baix Llobregat e ha una durata di circa 45 minuti.",
+        "description": "La consulenza in presenza permette una valutazione completa dell’animale dal vivo. Oltre a rivedere la dieta e le abitudini, viene valutata la condizione muscolare (MCS), insieme al peso e ad altri parametri utili per elaborare un piano nutrizionale preciso e personalizzato. È l’opzione più indicata quando è necessario un esame diretto o un monitoraggio più approfondito. La consulenza si svolge in una delle cliniche partner nel Baix Llobregat e ha una durata di circa 45 minuti.",
       "includes": [
         "Esame fisico dell’animale.",
         "Valutazione della dieta attuale.",

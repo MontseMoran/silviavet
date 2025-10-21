@@ -28,8 +28,6 @@ function ServiceDetail() {
       return null;
   }
 }
-
-
   return (
     <section className="service-detail">
       <img
@@ -37,11 +35,11 @@ function ServiceDetail() {
         alt={t(service.nameKey)}
         className="service-detail__image"
       />
-      <img 
+      {/* <img 
       src="/images/services/barf.png" 
       alt="Foto adicional" 
         className="service-detail__image--extra"
-      />
+      /> */}
 
       <h2 className="service-detail__title">{t(service.nameKey)} {t(`services.${service.id}.category`)}</h2>
       <p className="service-detail__description">
