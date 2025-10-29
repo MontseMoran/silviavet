@@ -79,6 +79,26 @@ const blogArticles = [
   },
   date: "2025-10-17",
 },
+{
+  id: "multipatologico",
+  title: {
+    es: "Paciente multipatológico: cuando la dieta personalizada es la única vía disponible",
+    it: "Paziente multipatologico: quando la dieta personalizzata è l’unica via disponibile",
+  },
+  summary: {
+    es: "Cómo una dieta formulada a medida puede mejorar la calidad de vida de perros y gatos con varias enfermedades. Ejemplos, pautas y bases científicas para un enfoque nutricional integral.",
+    it: "Come una dieta formulata su misura può migliorare la qualità della vita di cani e gatti con più patologie. Esempi, linee guida e basi scientifiche per un approccio nutrizionale integrato.",
+  },
+  mdPath: {
+    es: "/blog/es/multipatologico-es.md",
+    it: "/blog/it/multipatologico-it.md",
+  },
+  image: {
+    es: "/blog/images/patologies.png",
+    it: "/blog/images/patologies.png",
+  },
+  date: "2025-10-29",
+},
 
 ];
 

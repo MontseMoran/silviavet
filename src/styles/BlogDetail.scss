@@ -24,6 +24,7 @@
     h1 {
       font-size: 2rem;
     }
+
     h2 {
       border-left: 6px solid #b8e1b1;
       background: #f6fbf5;
@@ -32,6 +33,7 @@
       border-radius: 8px;
       color: #1b5508;
     }
+
     h3 {
       color: #387d3b;
       font-weight: 600;
@@ -47,10 +49,10 @@
     }
 
     strong {
-        color: #b26400; 
-  background: #fff3d9;
-  padding: 0.1rem 0.3rem;
-  border-radius: 4px;
+      color: #b26400;
+      background: #fff3d9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 4px;
     }
 
     img {
@@ -61,6 +63,7 @@
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
     }
 
+  
     table {
       width: 100%;
       border-collapse: collapse;
@@ -79,34 +82,121 @@
 
     th {
       background-color: #e8f8e6;
-  color: #204a20;
-  font-weight: 700;
+      color: #204a20;
+      font-weight: 700;
     }
 
     tr:nth-child(even) {
       background-color: #faf4ed;
     }
 
-   
+
+    h3:has(+ table),
+    h2:has(+ table) {
+      position: relative;
+      padding-left: 1.8rem;
+    }
+
+    h3:has(+ table)::before,
+    h2:has(+ table)::before {
+      content: "🧪";
+      position: absolute;
+      left: 0.6rem;
+      top: 0.4rem;
+      font-size: 1.1rem;
+    }
+
+ 
+    h3:has(+ table),
+    h2:has(+ table) + table {
+      border: none;
+    }
+
+    h3:has(+ table) + table,
+    h2:has(+ table) + table {
+      box-shadow: 0 0 10px rgba(27, 85, 8, 0.1);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    h3:has(+ table) + table th,
+    h2:has(+ table) + table th {
+      background-color: #eaf8e9;
+      color: #1b5508;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    h3:has(+ table) + table td,
+    h2:has(+ table) + table td {
+      background-color: #fff;
+      border-bottom: 1px solid #edf3ed;
+    }
+
+    h3:has(+ table) + table tr:nth-child(even) td,
+    h2:has(+ table) + table tr:nth-child(even) td {
+      background-color: #f9fff8;
+    }
+
+    h3:has(+ table) + table tr:hover td,
+    h2:has(+ table) + table tr:hover td {
+      background-color: #f3faef;
+      transition: background 0.2s ease-in;
+    }
+
+    
+    blockquote {
+      background: #f5faf5;
+      border-left: 5px solid #a4dca6;
+      padding: 1rem 1.5rem;
+      margin: 2rem 0;
+      color: #2d2d2d;
+      font-style: italic;
+      border-radius: 10px;
+    }
 
     hr {
       border: none;
       border-top: 2px solid #e0e0e0;
       margin: 2rem 0;
     }
-     blockquote {
-  background: #f5faf5;
-  border-left: 5px solid #a4dca6;
-  padding: 1rem 1.5rem;
-  margin: 2rem 0;
-  color: #2d2d2d;
-  font-style: italic;
-  border-radius: 10px;
-}
   }
-
-
 }
+
+.blog-detail__content div[style*="--w: clamp"] {
+  background: transparent !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.blog-detail__content figure {
+  background-color: transparent !important;
+}
+.blog-detail {
+  background: linear-gradient(to bottom, #fffaf9, #f9fff8);
+}
+
+.blog-detail__content {
+  background: transparent !important;
+}
+
+.blog-detail__content div[style*="--w"] figure {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+
+.blog-detail__content div[style*="--w"] {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+
 @media (min-width: 768px) {
   .blog-detail {
     padding-bottom: 10rem;
@@ -115,19 +205,21 @@
     }
   }
 }
+
 @media (min-width: 1440px) {
   .blog-detail {
     padding-bottom: 14rem;
-
     &__content {
       max-width: 1100px;
     }
   }
 }
+
 @media (min-width: 1920px) {
   .blog-detail {
     padding-top: 5rem;
   }
+
   .blog-detail__content {
     max-width: 1600px;
   }
