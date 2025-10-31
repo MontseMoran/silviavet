@@ -12,7 +12,9 @@ import fresh from "../assets/fresh.svg";
 import digestion from "../assets/digestion.svg";
 import taste from "../assets/taste.svg";
 import allergies from "../assets/allergies.svg";
-//import love from "../assets/love.svg"
+// eslint-disable-next-line no-unused-vars
+import { motion } from "framer-motion";
+
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination, Grid } from "swiper/modules";
 import "swiper/css";
@@ -63,113 +65,97 @@ function Hero() {
 
   return (
     <section id="benefits" className="hero">
-      <div className="hero__content">
-        <h2 className="benefits__title">{t("benefits.title")}</h2>
-        <p className="benefits__intro">{t("benefits.intro")}</p>
-        <div className="hero__logo">
+      <motion.div
+        className="hero__content"
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8, ease: "easeOut" }}
+      >
+        <motion.h2
+          className="benefits__title"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.2 }}
+        >
+          {t("benefits.title")}
+        </motion.h2>
+
+        <motion.p
+          className="benefits__intro"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.4 }}
+        >
+          {t("benefits.intro")}
+        </motion.p>
+
+        <motion.div
+          className="hero__logo"
+          initial={{ opacity: 0, scale: 0.9 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.7, delay: 0.6, ease: "easeOut" }}
+        >
           <img src={logog} alt="Silvia Vet logo" />
+        </motion.div>
+      </motion.div>
+
+      <div className="benefits-wrapper">
+        <div className="benefits-slider">
+          <div className="custom-pagination"></div>
+         <Swiper
+  modules={[Autoplay, Pagination, Grid]}
+  loop={false}
+  rewind={true}
+  observer={true}
+  observeParents={true}
+  autoplay={{ delay: 5000, disableOnInteraction: false }}
+  onSlideChange={(swiper) => swiper.pagination.update()}
+  pagination={{
+    el: ".custom-pagination",
+    clickable: true,
+    dynamicBullets: false,
+   
+    renderBullet: (index, className) => {
+      return `<span class="${className}">
+        <img src="${huella}" alt="huella" style="width:16px;height:16px;" />
+      </span>`;
+    },
+  }}
+  breakpoints={{
+    0: { slidesPerView: 2 },
+    768: { slidesPerView: 3 },
+    1024: { slidesPerView: 4 },
+    1440: { slidesPerView: 5 },
+    1920: { spaceBetween: 100, slidesPerView: 5 },
+  }}
+>
+  {benefits.map((b, i) => (
+    <SwiperSlide key={i}>
+      <motion.li
+        initial={{ opacity: 0, y: 30 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6, delay: i * 0.1 }}
+        viewport={{ once: true }}
+      >
+        <img className="benefit_icon" src={b.icon} alt={b.alt} />
+        <p>{b.text}</p>
+      </motion.li>
+    </SwiperSlide>
+  ))}
+</Swiper>
+
         </div>
 
-        <div className="benefits-wrapper">
-          <div className="benefits-slider">
-            <div className="custom-pagination"></div>
-            <Swiper
-              modules={[Autoplay, Pagination, Grid]}
-              loop={true}
-              autoplay={{ delay: 5000, disableOnInteraction: false }} // autoplay global
-              breakpoints={{
-                0: {
-                  slidesPerView: 2,
-                  autoplay: { delay: 6000, disableOnInteraction: false },
-                  pagination: {
-                    el: ".custom-pagination",
-                    clickable: true,
-                    renderBullet: (index, className) => {
-                      return `<span class="${className}">
-                    <img src="${huella}" alt="huella" style="width:16px;height:16px;" />
-                  </span>`;
-                    },
-                  },
-                },
-                768: {
-                  slidesPerView: 3,
-                  autoplay: { delay: 5000, disableOnInteraction: false },
-                  pagination: {
-                    el: ".custom-pagination",
-                    clickable: true,
-                    renderBullet: (index, className) => {
-                      return `<span class="${className}">
-                    <img src="${huella}" alt="huella" style="width:16px;height:16px;" />
-                  </span>`;
-                    },
-                  },
-                },
-                1024: {
-                  slidesPerView: 4,
-                  autoplay: { delay: 3000, disableOnInteraction: false },
-                  pagination: {
-                    el: ".custom-pagination",
-                    clickable: true,
-                    renderBullet: (index, className) => {
-                      if (index >= 5) return ""; // en desktop mostramos solo 5 huellas
-                      return `<span class="${className}">
-                    <img src="${huella}" alt="huella" style="width:16px;height:16px;" />
-                  </span>`;
-                    },
-                  },
-                },
-                1440: {
-                  slidesPerView: 5,
-                  autoplay: { delay: 3000, disableOnInteraction: false },
-                  pagination: {
-                    el: ".custom-pagination",
-                    clickable: true,
-                    renderBullet: (index, className) => {
-                      if (index >= 5) return "";
-                      return `<span class="${className}">
-                    <img src="${huella}" alt="huella" style="width:16px;height:16px;" />
-                  </span>`;
-                    },
-                  },
-                },
-                1920:{
-                  spaceBetween:100,
-                  slidesPerView: 5,
-                  pagination: {
-                    el: ".custom-pagination",
-                    clickable: true,
-                    renderBullet: (index, className) => {
-                      if (index >= 5) return "";
-                      return `<span class="${className}">
-                    <img src="${huella}" alt="huella" style="width:16px;height:16px;" />
-                  </span>`;
-                    },
-                  },
-                }
-              }}
-            >
-              {benefits.map((b, i) => (
-                <SwiperSlide key={i}>
-                  <li>
-                    <img className="benefit_icon" src={b.icon} alt={b.alt} />
-                    <p>{b.text}</p>
-                  </li>
-                </SwiperSlide>
-              ))}
-            </Swiper>
-          </div>
-
-          <ul className="benefits-grid">
-            {benefits.map((b, i) => (
-              <li key={i}>
-                <img className="benefit_icon" src={b.icon} alt={b.alt} />
-                <p>{b.text}</p>
-              </li>
-            ))}
-          </ul>
-          <div className="section-separator">
-            <img src={pawsline} alt="camino de huellas" />
-          </div>
+        <ul className="benefits-grid">
+          {benefits.map((b, i) => (
+            <li key={i}>
+              <img className="benefit_icon" src={b.icon} alt={b.alt} />
+              <p>{b.text}</p>
+            </li>
+          ))}
+        </ul>
+        <div className="section-separator">
+          <img src={pawsline} alt="camino de huellas" />
         </div>
       </div>
     </section>
