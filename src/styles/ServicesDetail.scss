@@ -165,14 +165,16 @@
     }
 
     .service-detail__price-revision {
-      display: inline-block;
-      padding: 0.5rem 1.4rem;
-      border-radius: 8px;
-      background: #e0f3d6;
-      color: #1b5e20;
-      font-weight: 700;
-      font-size: 1.25rem;
-      box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+         justify-self: center;
+    margin: 0.8rem auto 0;
+    padding: 0.7rem 1.4rem;
+    border-radius: 10px;
+    background: #dff3e0;
+    color: #1b5e20;
+    font-weight: 700;
+    font-size: 1.25rem;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+    text-align: center;
     }
   }
 
@@ -276,7 +278,7 @@
   }
 }
 
-.service-detail--presencial {
+.service-detail--presencial,.service-detail--online  {
   position: relative;
   overflow: hidden;
 
@@ -311,10 +313,37 @@
 
 
 
-.service-detail--barf {
-  background: linear-gradient(180deg, #f7e8cc 0%, #f4d2a2 100%);
-  background-attachment: fixed;
-  color: #333;
+.service-detail--mixta {
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: url("/images/services/fondoMixta.png") center/cover no-repeat;
+    z-index: -2;
+    will-change: transform;
+    pointer-events: none;
+  }
+
+  &::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+
+ 
+    background: radial-gradient(
+      circle at center,
+      rgba(255, 255, 255, 0.8) 0%,      // centro totalmente transparente
+      rgba(255, 255, 255, 0.7) 45%,   // transición suave
+      rgba(221, 196, 159, 0.3) 100%   // bordes cálidos difuminados
+    );
+
+    backdrop-filter: blur(3px); 
+  }
 }
 
 @media (min-width: 768px) {
@@ -335,7 +364,11 @@
 
   .service-detail__revisions-block {
     margin-top: 5rem;
+    
   }
+   .service-detail__revisions{
+    font-size: 1.3rem;
+   }
 }
 
 @media (min-width: 1200px) {
@@ -412,7 +445,7 @@
 .service-detail__revisions h3 {
   font-size: 1.6rem;
 }
-     
+   
 }
 @media (min-width: 1920px) {
   .service-detail {
