@@ -26,7 +26,8 @@ const services = [
     nameKey: "services.ultraprocesada.name",
     categoryKey: "services.ultraprocesada.category",
     dietKey: "services.ultraprocesada.diet"
-  }
+  }, 
+  
 ];
 
 export default services;

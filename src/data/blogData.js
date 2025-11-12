@@ -99,6 +99,26 @@ const blogArticles = [
   },
   date: "2025-10-29",
 },
+{
+    id: "dieta-gato",
+  title: {
+    es: "Por qué los gatos no pueden seguir una dieta vegetariana o vegana",
+    it: "Perché i gatti non possono seguire una dieta vegetariana o vegana",
+  },
+  summary: {
+    es: "Por qué los gatos no pueden seguir una dieta vegetariana o vegana: necesidades de taurina, ácido araquidónico, vitamina A activa y B12, riesgos de carencias y evidencia científica.",
+    it: "Perché i gatti non possono seguire una dieta vegetariana o vegana: necessità di taurina, acido arachidonico, vitamina A attiva e B12, rischi di carenze ed evidenze scientifiche.",
+  },
+  mdPath: {
+    es: "/blog/es/dieta-gato-es.md",
+    it: "/blog/it/dieta-gato-it.md",
+  },
+  image: {
+    es: "/blog/images/art6-gato.jpg",
+    it: "/blog/images/art6-gato.jpg",
+  },
+  date: "2025-11-12",
+},
 
 ];
 
