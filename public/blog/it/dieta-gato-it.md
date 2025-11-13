@@ -124,7 +124,7 @@ E rispettare la sua natura vuol dire offrirgli ciò di cui ha realmente bisogno 
 
 ---
 
-## Bibliografia (stile Vancouver)
+## Bibliografia 
 
 - MacDonald ML, Rogers QR, Morris JG. *Nutrition of the domestic cat, a mammalian carnivore.* J Am Vet Med Assoc. 1984;184(11):1245–1251.  
 - Verbrugghe A, Hesta M. *Cats and carbohydrates: The carnivore fantasy?* Vet Sci. 2017;4(4):55.  
