@@ -39,11 +39,14 @@ function BlogList() {
               key={article.id}
               to={`/blog/${article.id}`}
               className="blog-list__card"
+              style={{ '--delay': `${Math.random() * 0.5 + 0.2}s` }}
+
             >
               <img
                 src={pickLang(article.image, lang)}
                 alt={pickLang(article.title, lang)}
                 className="blog-list__image"
+                loading="lazy"
               />
 
               <div className="blog-list__content">

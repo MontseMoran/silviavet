@@ -27,9 +27,28 @@
   text-decoration: none;
   text-align: center;
 
+  /* Animación de entrada en cascada */
+  opacity: 0;
+  animation: cardEnter 0.5s ease forwards;
+  animation-delay: var(--delay);
+
+
   &:hover {
-    transform: translateY(-4px);
+    transform: translateY(-4px);   /* Mantengo tu hover original */
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    filter: brightness(1.05);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+   
+     transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);  // Asegura que el hover funcione bien
   }
 }
 
@@ -73,6 +92,17 @@
 
   &:hover {
     color: #58ca49;
+  }
+}
+
+@keyframes cardEnter {
+  0% {
+    opacity: 0;
+    transform: scale(0.95) translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
   }
 }
 
