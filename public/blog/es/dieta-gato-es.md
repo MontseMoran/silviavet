@@ -8,22 +8,86 @@ A lo largo de su evolución, el gato ha obtenido todos los nutrientes necesarios
 A diferencia de especies omnívoras como el ser humano o el cerdo, **el gato no posee la flexibilidad metabólica** necesaria para aprovechar los nutrientes de las plantas. Su organismo carece de ciertas enzimas esenciales para convertir compuestos vegetales –como carotenoides, ácidos grasos o aminoácidos– en sus formas biológicamente activas.  
 Por ello, el gato necesita **ingerir directamente los nutrientes ya disponibles en los tejidos animales** para mantener sus funciones fisiológicas normales, su visión, su corazón y su sistema inmunitario.
 
+
+
+<div style="
+  display: flex;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  padding: 10px 0;
+">
+
+  <div style="
+    width: 300px;
+    max-width: 450px;
+    width: 100%;
+    border-radius: 16px;
+    flex: 1 1 300px;
+  ">
+    <img src="/blog/images/art6gato1-es.png" 
+         alt="Comparativa entre el gato salvaje y el gato doméstico"
+         style="width: 100%; height: auto; object-fit: contain; border-radius: 16px;" />
+  </div>
+
+ 
+</div>
+
 ---
 
 ## 2. Necesidades nutricionales específicas
+
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 24px 0;
+">
+
+<div style="flex: 1 1 400px; min-width: 280px;">
 
 Los gatos tienen requerimientos nutricionales más estrictos que otros animales domésticos. Algunos de estos nutrientes no pueden obtenerse de fuentes vegetales.
 
 ### a) Proteínas y aminoácidos esenciales
 
-El gato necesita una **alta cantidad de proteínas.** Las proteínas de origen animal aportan un perfil completo de aminoácidos esenciales —como arginina, metionina, cisteína, tirosina y taurina— fundamentales para el metabolismo, la función hepática, la pigmentación y la inmunidad.  
+El gato necesita una **alta cantidad de proteínas.**  
+Las proteínas de origen animal aportan un perfil completo de aminoácidos esenciales —como arginina, metionina, cisteína, tirosina y taurina— fundamentales para el metabolismo, la función hepática, la pigmentación y la inmunidad.
 Las proteínas vegetales, en cambio, presentan menor biodisponibilidad y un perfil de aminoácidos incompleto.
-
 ### b) Taurina
 
 La **taurina** es un aminoácido esencial para los gatos: es vital para el buen funcionamiento del corazón, la vista y el sistema inmunitario.  
 El gato apenas puede sintetizarla y, además, la pierde continuamente a través de la bilis, por lo que debe obtenerla exclusivamente de la carne, las vísceras o el pescado.  
 Su deficiencia puede provocar **degeneración retiniana central (ceguera irreversible)**, **cardiomiopatía dilatada**, **problemas reproductivos y neurológicos.**
+</div>
+
+<div style="
+  flex: 1 1 300px;
+  max-width: 380px;
+  margin-left: auto;
+  margin-right: auto;
+">
+  <div style="
+    border-radius: 16px;
+    overflow: hidden;
+  ">
+    <img src="/blog/images/art6-gato2-es.png"
+      alt="Por qué los gatos no pueden seguir una dieta vegetariana o vegana"
+      style="width: 100%; height: auto; display: block;" />
+  </div>
+</div>
+
+</div>
+
+
+
+
+
 
 ### c) Ácido araquidónico
 
@@ -64,12 +128,12 @@ Los vegetales carecen de ella, y su deficiencia produce **letargo, pérdida de p
 
 Una dieta sin ingredientes animales, si no está formulada con precisión e incluye suplementos específicos, puede causar graves deficiencias nutricionales:
 
-| Nutriente | Consecuencias de la carencia | Principales fuentes naturales |
-|------------|------------------------------|-------------------------------|
-| **Taurina** | Degeneración retiniana, cardiomiopatía, infertilidad | Carne, pescado |
-| **Ácido araquidónico** | Problemas cutáneos, reproductivos y de crecimiento | Grasas animales, hígado |
-| **Vitamina A (retinol)** | Ceguera nocturna, problemas inmunitarios y dermatológicos | Hígado, huevos, pescado |
-| **Vitamina B12** | Anemia, trastornos neurológicos y digestivos | Carne, hígado, productos animales |
+| Nutriente                | Consecuencias de la carencia                              | Principales fuentes naturales     |
+| ------------------------ | --------------------------------------------------------- | --------------------------------- |
+| **Taurina**              | Degeneración retiniana, cardiomiopatía, infertilidad      | Carne, pescado                    |
+| **Ácido araquidónico**   | Problemas cutáneos, reproductivos y de crecimiento        | Grasas animales, hígado           |
+| **Vitamina A (retinol)** | Ceguera nocturna, problemas inmunitarios y dermatológicos | Hígado, huevos, pescado           |
+| **Vitamina B12**         | Anemia, trastornos neurológicos y digestivos              | Carne, hígado, productos animales |
 
 Además, un **exceso de carbohidratos o fibra vegetal** en dietas con bajo contenido en proteínas y grasas animales puede reducir la digestibilidad, alterar la absorción de nutrientes y modificar el microbiota intestinal.
 
@@ -92,7 +156,7 @@ Finalmente, la **Royal Canin Academy** advierte que, aunque teóricamente es pos
 Los gatos dependen de nutrientes que solo los alimentos de origen animal pueden proporcionar de forma completa y segura.  
 Al diseñar una dieta felina, es esencial respetar su naturaleza biológica de **carnívoro obligado.**  
 Sustancias como la taurina, el ácido araquidónico y la vitamina A activa no pueden obtenerse en cantidades suficientes a partir de las plantas, y su suplementación requiere un control veterinario estricto.  
-Por ello, las dietas vegetarianas o veganas **no son una opción recomendada, ni desde el punto de vista nutricional ni ético**, ya que no respetan la fisiología natural del gato.  
+Por ello, las dietas vegetarianas o veganas **no son una opción recomendada, ni desde el punto de vista nutricional ni ético**, ya que no respetan la fisiología natural del gato.
 
 **Amar a un gato significa respetar su naturaleza.**  
 Y respetar su naturaleza implica ofrecerle lo que realmente necesita para vivir sano, no lo que el propietario desea para sí mismo.
@@ -107,11 +171,11 @@ Y respetar su naturaleza implica ofrecerle lo que realmente necesita para vivir 
 
 ---
 
-## Bibliografía 
+## Bibliografía
 
-- MacDonald ML, Rogers QR, Morris JG. *Nutrition of the domestic cat, a mammalian carnivore.* J Am Vet Med Assoc. 1984;184(11):1245–1251.  
-- Verbrugghe A, Hesta M. *Cats and carbohydrates: The carnivore fantasy?* Vet Sci. 2017;4(4):55.  
-- Case LP, Daristotle L, Hayek MG, Raasch MF. *Canine and Feline Nutrition: A Resource for Companion Animal Professionals.* 3rd ed. St. Louis: Elsevier; 2011.  
-- National Research Council (NRC). *Nutrient Requirements of Dogs and Cats.* Washington, DC: National Academies Press; 2006.  
-- *The cat as a carnivore: proteins, carbohydrates and beyond.* *Veterinary Practice.* 2021.  
-- Royal Canin Academy. *FAQs about cat nutrition.
+- MacDonald ML, Rogers QR, Morris JG. _Nutrition of the domestic cat, a mammalian carnivore._ J Am Vet Med Assoc. 1984;184(11):1245–1251.
+- Verbrugghe A, Hesta M. _Cats and carbohydrates: The carnivore fantasy?_ Vet Sci. 2017;4(4):55.
+- Case LP, Daristotle L, Hayek MG, Raasch MF. _Canine and Feline Nutrition: A Resource for Companion Animal Professionals._ 3rd ed. St. Louis: Elsevier; 2011.
+- National Research Council (NRC). _Nutrient Requirements of Dogs and Cats._ Washington, DC: National Academies Press; 2006.
+- _The cat as a carnivore: proteins, carbohydrates and beyond._ _Veterinary Practice._ 2021.
+- Royal Canin Academy. \*FAQs about cat nutrition.

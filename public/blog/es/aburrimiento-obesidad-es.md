@@ -57,7 +57,6 @@ En estas condiciones, la comida se convierte en el evento más interesante del d
     aspect-ratio: 4 / 3;
     overflow: hidden;
     border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     flex: 1 1 300px;
   ">
     <img src="/blog/images/ab-ob-es.png" 
@@ -70,7 +69,6 @@ En estas condiciones, la comida se convierte en el evento más interesante del d
     aspect-ratio: 4 / 3;
     overflow: hidden;
     border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     flex: 1 1 300px;
   ">
     <img src="/blog/images/ab-ob1.png" 
@@ -83,7 +81,6 @@ En estas condiciones, la comida se convierte en el evento más interesante del d
     aspect-ratio: 4 / 3;
     overflow: hidden;
     border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     flex: 1 1 300px;
   ">
     <img src="/blog/images/ab-ob.png" 
