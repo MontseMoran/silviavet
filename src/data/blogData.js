@@ -119,6 +119,27 @@ const blogArticles = [
   },
   date: "2025-11-12",
 },
+{
+  id: "gato-renal",
+  title: {
+    es: "Guía sencilla sobre alimentación y manejo del gato con enfermedad renal (IRIS 1–4)",
+    it: "Guida semplice per l’alimentazione e la gestione del gatto con malattia renale (IRIS 1–4)",
+  },
+  summary: {
+    es: "Cómo alimentar y manejar a un gato con Enfermedad Renal Crónica (IRIS 1–4): qué hacer en cada etapa, hidratación, proteínas, fósforo, suplementos y señales importantes a vigilar.",
+    it: "Come alimentare e gestire un gatto con Malattia Renale Cronica (IRIS 1–4): cosa fare in ogni fase, idratazione, proteine, fosforo, integratori e segnali importanti da osservare.",
+  },
+  mdPath: {
+    es: "/blog/es/gato-renal-es.md",
+    it: "/blog/it/gato-renal-it.md",
+  },
+  image: {
+    es: "/blog/images/gato-renal.png",
+    it: "/blog/images/gato-renal.png",
+  },
+  date: "2025-11-20",
+}
+
 
 ];
 

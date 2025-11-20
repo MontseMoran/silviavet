@@ -8,9 +8,47 @@ A differenza di specie onnivore come l’uomo o il maiale, il gatto non ha mai s
 
 Questo significa che deve assumere **direttamente dai tessuti animali** i nutrienti già pronti per l’uso, indispensabili per mantenere le funzioni vitali, la vista, il cuore, il sistema immunitario e la salute generale.
 
+
+<div style="
+  display: flex;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  padding: 10px 0;
+">
+
+  <div style="
+    width: 300px;
+    max-width: 450px;
+    width: 100%;
+    border-radius: 16px;
+    flex: 1 1 300px;
+  ">
+    <img src="/blog/images/art6gato1-es.png" 
+         alt="Comparativa entre el gato salvaje y el gato doméstico"
+         style="width: 100%; height: auto; object-fit: contain; border-radius: 16px;" />
+  </div>
+
+ 
+</div>
+
 ---
 
 ## 2. Le necessità nutrizionali specifiche del gatto
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 24px 0;
+">
+
+<div style="flex: 1 1 400px; min-width: 280px;">
 
 I fabbisogni nutrizionali del gatto sono più stringenti rispetto a quelli di altri animali domestici. Alcuni nutrienti fondamentali non possono essere sostituiti da alternative vegetali.
 
@@ -28,9 +66,29 @@ Il gatto ne sintetizza pochissima e la perde costantemente attraverso la bile, q
 
 La sua carenza può causare **degenerazione retinica (cecità irreversibile)**, **cardiomiopatia dilatata** e **problemi riproduttivi e neurologici.**
 
+</div>
+
+<div style="
+  flex: 1 1 300px;
+  max-width: 380px;
+  margin-left: auto;
+  margin-right: auto;
+">
+  <div style="
+    border-radius: 16px;
+    overflow: hidden;
+  ">
+    <img src="/blog/images/art6-gato2-it.png"
+      alt="Por qué los gatos no pueden seguir una dieta vegetariana o vegana"
+      style="width: 100%; height: auto; display: block;" />
+  </div>
+</div>
+
+</div>
+
 ### c) Acido arachidonico
 
-L’**acido arachidonico** è un acido grasso della serie ω-6 indispensabile per la salute cutanea, la riproduzione e la risposta infiammatoria.
+**L’acido arachidonico** è un acido grasso della serie ω-6 indispensabile per la salute cutanea, la riproduzione e la risposta infiammatoria.
 
 Il gatto non può sintetizzarlo a partire dall’acido linoleico (di origine vegetale) perché l’enzima Δ6-desaturasi è quasi inattivo.
 

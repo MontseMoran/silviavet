@@ -59,6 +59,7 @@ Los gatos tienen requerimientos nutricionales más estrictos que otros animales 
 El gato necesita una **alta cantidad de proteínas.**  
 Las proteínas de origen animal aportan un perfil completo de aminoácidos esenciales —como arginina, metionina, cisteína, tirosina y taurina— fundamentales para el metabolismo, la función hepática, la pigmentación y la inmunidad.
 Las proteínas vegetales, en cambio, presentan menor biodisponibilidad y un perfil de aminoácidos incompleto.
+
 ### b) Taurina
 
 La **taurina** es un aminoácido esencial para los gatos: es vital para el buen funcionamiento del corazón, la vista y el sistema inmunitario.  
@@ -83,10 +84,6 @@ Su deficiencia puede provocar **degeneración retiniana central (ceguera irrever
 </div>
 
 </div>
-
-
-
-
 
 
 ### c) Ácido araquidónico
