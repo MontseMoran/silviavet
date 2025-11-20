@@ -97,13 +97,13 @@ La parole chiave è : rallentare il processo!!
 - Lascia **più ciotole d’acqua** in casa. 
 - Usa una **fontanella** (i gatti spesso bevono di più).
 - Aggiungi un po' d’acqua al cibo umido.  
-→ La disidratazione peggiora la funzione renale.
+➡️  La disidratazione peggiora la funzione renale.
 
 ### 3. Dai il cibo giusto per lo stadio IRIS
 - IRIS 1–2: proteine di buona qualità, fosforo moderato.
 - IRIS 3–4: dieta renale con fosforo basso, proteine ridotte e facile da digerire.
 - Se il gatto è in IRIS 3–4 ed è inappetente, scegliere cibi **più calorici.**  
-→ Ogni stadio ha bisogni diversi.
+➡️  Ogni stadio ha bisogni diversi.
 
 ### 4. Osserva quotidianamente il suo comportamento
 - è attivo o più abbattuto?
@@ -111,13 +111,13 @@ La parole chiave è : rallentare il processo!!
 - ha nausea (lecca le labbra, annusa il cibo ma non mangia)?
 - ha alito più forte del normale?
 - vomita o ha diarrea?  
-→ I piccoli cambiamenti indicano che qualcosa va aggiustato.
+➡️  I piccoli cambiamenti indicano che qualcosa va aggiustato.
 
 ### 5. Controlla il peso “a occhio”
 Non serve una bilancia ogni giorno, ma:
 - guarda se i fianchi diventano più magri;
 - passa la mano sulla schiena e sulle costole: senti più ossa?  
-→ La MRC fa perdere massa muscolare molto rapidamente.
+➡️  La MRC fa perdere massa muscolare molto rapidamente.
 
 ### 6. Dai gli integratori prescritti
 Non tutti i gatti ne hanno bisogno, ma se il veterinario li ha consigliati:
@@ -163,7 +163,7 @@ Non tutti i gatti ne hanno bisogno, ma se il veterinario li ha consigliati:
 - Orari dei pasti regolari.
 - Ambiente calmo.
 - Evita stress e cambi bruschi di dieta (a meno che il gatto non mangi).  
-→ I gatti con MRC sono ancora più sensibili allo stress e mangiano meno.
+➡️ I gatti con MRC sono ancora più sensibili allo stress e mangiano meno.
 
 ### 8. Annota ciò che succede (1 minuto!)
 Una micro–checklist giornaliera:
@@ -172,7 +172,8 @@ Una micro–checklist giornaliera:
 - Ha vomitato?
 - Ha fatto pipì normalmente?
 - È attivo?  
-→ Soprattutto nella 3 e 4 fase; sono informazioni importanti per aggiustare la terapia.
+
+➡️  Soprattutto nella 3 e 4 fase; sono informazioni importanti per aggiustare la terapia.
 
 ---
 
@@ -185,6 +186,14 @@ Una micro–checklist giornaliera:
 - Controllo di sangue e urine.
 - Aggiornamento della dieta se cambia lo stadio IRIS.
 - Revisione di integratori e farmaci.
+
+---
+### 🩺 **Consiglio di Silvia Vet**
+
+> I gatti con malattia renale hanno bisogno di una **alimentazione molto specifica**, adattata allo stadio IRIS e ai risultati degli esami.  
+> Ogni gatto evolve in modo diverso, e una dieta inadeguata può accelerare il danno ai reni.  
+> Se vuoi essere sicura/o che il tuo gatto riceva **il piano nutrizionale più sicuro ed efficace**, ti consiglio una consulenza personalizzata:  
+> compila [questo modulo 📝➡️](https://form.jotform.com/252726382736363) e preparerò un piano adattato al suo stadio renale, appetito e bisogni reali.
 
 ---
 

@@ -45,7 +45,7 @@
 
     p {
       margin: 1rem 0;
-      text-align: justify;
+      text-align: left;
     }
 
     strong {
@@ -202,8 +202,10 @@
     padding-bottom: 10rem;
     &__content {
       max-width: 600px;
+      
     }
   }
+ 
 }
 
 @media (min-width: 1440px) {

@@ -149,6 +149,7 @@ No todos los gatos los necesitan, pero a veces son necesarios:
 </div>
 
 </div>
+
 ---
 
 ## 🟩 Resumen rápido para propietarios
@@ -178,7 +179,8 @@ Pequeña checklist diaria:
 - ¿Ha bebido?
 - ¿Ha vomitado?
 - ¿Orina normalmente?
-- ¿Está activo?  
+- ¿Está activo? 
+
 ➡️  Sobretodo en fases 3 y 4, esta información es clave para ajustar el tratamiento. 
 
 ---
@@ -192,6 +194,14 @@ Pequeña checklist diaria:
 - Control de sangre y orina.
 - Ajuste de la dieta si cambia la etapa IRIS.
 - Revisión de suplementos y medicación. 
+
+---
+### 🩺 **Consejo de Silvia Vet**
+
+> Los gatos con enfermedad renal necesitan una **alimentación muy específica**, ajustada a su etapa IRIS y a los resultados de sus análisis.  
+> Cada gato evoluciona de manera distinta, y una dieta no adecuada puede acelerar el daño renal.  
+> Si quieres asegurarte de que tu gato recibe **el plan nutricional más seguro y eficaz**, te recomiendo una consulta personalizada:  
+> completa [este formulario 📝➡️](https://form.jotform.com/252726382736363) y prepararé una pauta adaptada a su estado renal, apetito y necesidades reales.
 
 ---
 
