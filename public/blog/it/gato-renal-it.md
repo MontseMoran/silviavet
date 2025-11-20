@@ -8,7 +8,7 @@ La parole chiave è : rallentare il processo!!
 
 <div style="display:flex; flex-wrap:wrap; gap:30px; margin-bottom:40px;">
 
-<div style="background:#f1faee; padding:1.4rem 1.8rem; border-radius:12px; flex:1 1 300px; max-width:48%;">
+<div style="background:#f1faee; padding:1.4rem 1.8rem; border-radius:12px; flex:1 1 300px; max-width:100%;">
 
 ## IRIS Fase 1
 **Cosa succede** : I reni sono quasi normali, ma iniziano i primi segnali di problema.
@@ -22,7 +22,7 @@ La parole chiave è : rallentare il processo!!
 **Perché** : Serve a proteggere i reni fin da subito e a mantenere i muscoli. 
 </div>
 
-<div style="background:#fff7e6; padding:1.4rem 1.8rem; border-radius:12px; flex:1 1 300px; max-width:48%;">
+<div style="background:#fff7e6; padding:1.4rem 1.8rem; border-radius:12px; flex:1 1 300px; max-width:100%;">
 
 ## IRIS Fase 2
 **Cosa succede** : I valori del sangue iniziano a cambiare. I reni lavorano meno bene.
@@ -36,7 +36,7 @@ La parole chiave è : rallentare il processo!!
 **Perché** : Riduce lo sforzo dei reni e aiuta il gatto a mantenere energia e muscoli. 
 </div>
 
-<div style="background:#f4f0ff; padding:1.4rem 1.8rem; border-radius:12px; flex:1 1 300px; max-width:48%;">
+<div style="background:#f4f0ff; padding:1.4rem 1.8rem; border-radius:12px; flex:1 1 300px; max-width:100%;">
 
 ## IRIS Fase 3
 **Cosa succede** : La malattia è più evidente, può esserci perdita di peso o di appetito.
@@ -50,7 +50,7 @@ La parole chiave è : rallentare il processo!!
 **Perché** : Aiuta a ridurre le tossine e mantiene il gatto più forte e attivo.
 
 </div>
-<div style="background:#e8f6ff; padding:1.4rem 1.8rem; border-radius:12px; flex:1 1 300px; max-width:48%;">
+<div style="background:#e8f6ff; padding:1.4rem 1.8rem; border-radius:12px; flex:1 1 300px; max-width:100%;">
 
 ## IRIS Fase 4
 **Cosa succede** : La malattia è avanzata e il gatto può avere sintomi importanti.
