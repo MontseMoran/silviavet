@@ -35,7 +35,7 @@ function About() {
             className="about__btn"
             onClick={() => setExpanded(!expanded)}
           >
-            {expanded ? "Leer menos" : "Leer más"}
+            {expanded ? t("about.readLess") : t("about.readMore")}
           </button>
 
         

@@ -125,12 +125,15 @@ Los vegetales carecen de ella, y su deficiencia produce **letargo, pérdida de p
 
 Una dieta sin ingredientes animales, si no está formulada con precisión e incluye suplementos específicos, puede causar graves deficiencias nutricionales:
 
+
+
 | Nutriente                | Consecuencias de la carencia                              | Principales fuentes naturales     |
 | ------------------------ | --------------------------------------------------------- | --------------------------------- |
 | **Taurina**              | Degeneración retiniana, cardiomiopatía, infertilidad      | Carne, pescado                    |
 | **Ácido araquidónico**   | Problemas cutáneos, reproductivos y de crecimiento        | Grasas animales, hígado           |
 | **Vitamina A (retinol)** | Ceguera nocturna, problemas inmunitarios y dermatológicos | Hígado, huevos, pescado           |
 | **Vitamina B12**         | Anemia, trastornos neurológicos y digestivos              | Carne, hígado, productos animales |
+
 
 Además, un **exceso de carbohidratos o fibra vegetal** en dietas con bajo contenido en proteínas y grasas animales puede reducir la digestibilidad, alterar la absorción de nutrientes y modificar el microbiota intestinal.
 

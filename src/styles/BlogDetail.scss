@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   background: linear-gradient(to bottom, #fffaf9, #f9fff8);
-
+overflow-x: visible;
   &__content {
     max-width: 300px;
     line-height: 1.7;
@@ -180,6 +180,7 @@
 
 .blog-detail__content {
   background: transparent !important;
+ 
     ul,
   ol {
     margin: 1rem 0 1.2rem 1.5rem;
@@ -226,7 +227,55 @@
   margin: 2rem 0 !important;
   width: 100% !important;
 }
+.blog-detail__content table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+    margin-left: -1rem;
+  margin-right: -1rem;
+}
 
+.blog-detail__content table th,
+.blog-detail__content table td {
+  white-space: normal; 
+  word-break: break-word;
+   min-width: 150px;
+}
+
+.responsive-table table,
+.responsive-table tbody,
+.responsive-table tr,
+.responsive-table td,
+.responsive-table th {
+  display: block;
+  width: 100%;
+}
+
+/* Tarjetas */
+.responsive-table tr {
+  background: #ffffff;
+  margin-bottom: 1.6rem;
+  padding: 1rem 1.2rem;
+  border-radius: 12px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.05);
+}
+
+/* Ajuste de celdas */
+.responsive-table td,
+.responsive-table th {
+  padding: 0.4rem 0;
+}
+
+/* Etiquetas de cada fila */
+.responsive-table td::before {
+  content: attr(data-label);
+  font-weight: 700;
+  display: block;
+  margin-bottom: 0.4rem;
+  color: #1b5508;
+}
 
 @media (min-width: 768px) {
   .blog-detail {
@@ -235,8 +284,12 @@
       max-width: 600px;
       
     }
+    .blog-detail__content table {
+    margin-left: 0;
+    margin-right: 0;
   }
- 
+  }
+  
 }
 @media (min-width: 900px) {
   .blog-detail__content {

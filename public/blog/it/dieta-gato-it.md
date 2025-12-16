@@ -131,12 +131,16 @@ La sua assenza provoca **letargia, perdita di peso, problemi digestivi e danni n
 
 Una dieta priva di ingredienti animali, se non formulata con estrema precisione e monitoraggio veterinario, può portare a gravi carenze nutrizionali:
 
+
+
 | Nutriente | Conseguenze della carenza | Principali fonti naturali |
 |------------|---------------------------|----------------------------|
 | **Taurina** | Cecità, cardiomiopatia dilatata, infertilità | Carne, pesce |
 | **Acido arachidonico** | Problemi cutanei, riproduttivi e di crescita | Grassi animali, fegato |
 | **Vitamina A (retinolo)** | Cecità notturna, problemi immunitari e dermatologici | Fegato, uova, pesce |
 | **Vitamina B12** | Anemia, disturbi neurologici e digestivi | Carne, fegato, prodotti animali |
+
+
 
 Inoltre, un **eccesso di carboidrati o fibre vegetali** può compromettere la digestione, l’assorbimento dei nutrienti e alterare il microbiota intestinale.
 
