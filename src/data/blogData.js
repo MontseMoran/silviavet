@@ -138,6 +138,26 @@ const blogArticles = [
     it: "/blog/images/gato-renal.png",
   },
   date: "2025-11-20",
+},
+{
+  id: "toxicos1",
+  title: {
+    es: "Alimentos tóxicos para perros y gatos. Parte 1",
+    it: "Alimenti tossici per cani e gatti. Parte 1",
+  },
+  summary: {
+    es: "Chocolate, cacao, uvas y pasas pueden ser peligrosos para perros y gatos incluso en pequeñas cantidades. Te explicamos por qué son tóxicos, qué síntomas pueden causar y cómo actuar ante una posible ingestión.",
+    it: "Cioccolato, cacao, uva e uvetta possono essere pericolosi per cani e gatti anche in piccole quantità. Spieghiamo perché sono tossici, quali sintomi possono causare e come intervenire in caso di ingestione.",
+  },
+  mdPath: {
+    es: "/blog/es/toxicos1-es.md",
+    it: "/blog/it/toxicos1-it.md",
+  },
+  image: {
+    es: "/blog/images/toxicos1.png",
+    it: "/blog/images/toxicos1.png",
+  },
+  date: "2025-12-20",
 }
 
 

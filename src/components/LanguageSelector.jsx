@@ -9,16 +9,16 @@ function LanguageSelector() {
   return (
     <div className="Language-Select__btn">
       <button
-        className={i18n.language === "es" ? "active" : ""}
-        aria-pressed={i18n.language === "es"}
+        className={isES ? "active" : ""}
+        aria-pressed={isES}
         onClick={() => i18n.changeLanguage("es")}
       >
         ES
       </button>
 
       <button
-        className={i18n.language === "it" ? "active" : ""}
-        aria-pressed={i18n.language === "it"}
+        className={isIT ? "active" : ""}
+        aria-pressed={ isIT}
         onClick={() => i18n.changeLanguage("it")}
       >
         IT
