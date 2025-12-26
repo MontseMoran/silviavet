@@ -215,6 +215,7 @@ Insorgenza: 6–12 ore dopo l’ingestione
 </div>
 
 </div>
+
 ---
 
 ### 5. Cosa fare

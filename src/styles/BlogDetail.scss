@@ -5,10 +5,12 @@
   background: linear-gradient(to bottom, #fffaf9, #f9fff8);
 overflow-x: visible;
   &__content {
-    max-width: 300px;
+    max-width: 100%;
     line-height: 1.7;
     color: #333;
     font-size: 1.05rem;
+     padding-left: 0.5rem;
+  padding-right: 0.5rem;
 
     h1,
     h2,
