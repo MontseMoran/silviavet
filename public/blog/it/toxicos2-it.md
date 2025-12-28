@@ -1,196 +1,255 @@
----
-title: "Alimenti pericolosi per cani e gatti: rischi frequenti e “zone grigie” (Parte 2)"
-description: "Avocado, ossa cotte, macadamia, latticini, cibi salati, carni crude non controllate e pesce crudo: cosa evitare e perché."
-slug: alimenti-pericolosi-cani-gatti-parte-2
-date: 2025-12-23
-tags: ["cani", "gatti", "alimentazione", "sicurezza", "tossicità"]
----
+# Alimenti pericolosi per cani e gatti – Parte 2
 
-# Alimenti pericolosi per cani e gatti (Parte 2)
-In questa seconda parte trovi alimenti e situazioni molto comuni: alcuni sono **tossici**, altri sono “solo” **pericolosi** per rischio meccanico o per disturbi metabolici e gastrointestinali.
+In questa seconda parte continuiamo a esaminare alimenti e sostanze di uso quotidiano che, pur essendo comuni in casa, possono risultare **pericolosi o tossici per cani e gatti**. Conoscerne i rischi aiuta a **prevenire esposizioni accidentali**, intervenire tempestivamente e fare scelte più sicure per la loro alimentazione e il loro ambiente.
 
-> ⚠️ Ricorda: in caso di ingestione significativa o comparsa di sintomi, **contatta il veterinario**.
 
----
+## Scheda: Tossicità di **Aglio** e **Cipolla**
 
-## Scheda: Tossicità dell’avocado
+## 1. Sostanze tossiche
+Gli Allium (aglio, cipolla, scalogno, porro) contengono **composti organosulfurati ossidanti**, tra cui:
 
-### 1) Perché l’avocado è considerato tossico
-L’avocado contiene **persina**, una sostanza fungicida naturale della pianta (Persea americana).  
-Tossicità specie-specifica:
-- Altamente tossica: uccelli, bovini, capre, cavalli, alpaca
-- Moderata: conigli, roditori
-- Bassa: cani e gatti
+- N-propile disolfuro
+- Tiosolfati
+- S-allilcisteina solfossido (allil-ossido di cisteina)
+- S-metilcisteina solfossido
 
-➡️ Nella pratica clinica, cani e gatti raramente sviluppano avvelenamento grave, ma possono avere disturbi GI e, in rari casi, pancreatite per l’alto contenuto di grassi.
+Questi composti provocano **stress ossidativo ai globuli rossi**;  
+l’**emoglobina** contenuta nei globuli rossi si danneggia e si va accumulando rendendo questi globuli rossi (**corpi di Heinz**) molto più suscettibili alla **lisi** → conseguente **anemia emolitica**.
 
-### 2) Parti più pericolose
-- Foglie, corteccia, semi (nocciolo), buccia → più persina
-- Polpa → meno persina, ma più grassi
+**I gatti sono più sensibili** dei cani.
 
-### 3) Rischi principali (cani/gatti)
-1. Vomito/diarrea/dolore addominale  
-2. Pancreatite (per grassi)  
-3. Rischio meccanico: nocciolo → soffocamento/occlusione  
-
-### 4) Cosa fare
-- Se ha ingerito polpa in piccola quantità: monitorare 24 h
-- Se ha ingerito nocciolo: contattare subito il veterinario
+**Importante:**  
+La **cottura non distrugge i composti ossidanti**.  
+Anche cipolle disidratate, polveri, omogeneizzati e cibi pronti possono essere tossici.
 
 ---
 
-## Scheda: Pericolosità delle ossa cotte (rischio meccanico)
+## 2. Dose tossica indicativa
 
-### 1) Perché sono sempre pericolose
-La cottura distrugge il collagene: l’osso diventa secco, fragile e tagliente → si scheggia e può perforare.
+### Cani
+- **Tossicità:** ≈ **15–30 g di cipolla/kg** di peso vivo (cruda o cotta)
+- **Aglio:** più concentrato → **tossico già a ≈ 5 g/kg**
 
-### 2) Pericoli principali
-- Soffocamento (trachea/esofago)
-- Lacerazioni interne (bocca, esofago, stomaco, intestino) → peritonite
-- Ostruzioni gastrointestinali (endoscopia/chirurgia)
-- Stipsi severa e fecaloma
-- Infezioni e complicazioni respiratorie se aspirazione
+### Gatti
+- **Molto più sensibili:** tossicità riportata anche a **5 g/kg di cipolla**
+- **Aglio ancora più pericoloso → evitare totalmente**
 
-### 3) Sintomi (entro 0–72 h)
-Vomito, salivazione eccessiva, dolore addominale, inappetenza, letargia, sangue nelle feci, costipazione, difficoltà a defecare, tosse o conati.
-
-### 4) Cosa fare
-1. NON indurre il vomito.
-2. Non dare pane/olio/latte “per far passare” (mito).
-3. Contattare il veterinario, soprattutto se non si conosce la quantità o compaiono sintomi.
-
-### 5) Ossa crude: sono sicure?
-Ossa cotte = **sempre pericolose**.  
-Ossa crude = meno rischiose ma **non prive di pericoli** (dipende da taglia, tipo, dimensione, abitudini). Valutazione caso per caso con veterinario esperto in nutrizione.
+\* Le quantità sono orientative: alcuni animali reagiscono con dosi più basse.
 
 ---
 
-## Scheda: Tossicità delle noci di macadamia
+## 3. Sintomi tipici
+I sintomi possono comparire dopo **6–24 ore**, ma spesso i segni dell’anemia emergono dopo **2–5 giorni**.
 
-### 1) Perché sono tossiche
-Nel cane possono causare **Macadamia Nut Toxicosis**.  
-Il tossico non è ancora identificato; si pensa sia liposolubile e termostabile e causi depressione neuromuscolare transitoria.
+### Disturbi gastrointestinali (precoce)
+- Vomito
+- Diarrea
+- Ipersalivazione
+- Dolore addominale
 
-### 2) Dose tossica indicativa (cane)
-- 2 g/kg → già sintomi
-- 5–10 g/kg → moderati-gravi
-- >20 g/kg → rischio elevato  
-➡️ 1 noce pesa ~2,5–3 g: un cane di 10 kg può avere sintomi già con 6–7 noci.
-
-### 3) Sintomi (3–12 h)
-Debolezza improvvisa (soprattutto arti posteriori), tremori, atassia, depressione, vomito, ipertermia, dolore addominale, rigidità.
-
-### 4) Cosa fare
-1. Contattare subito il veterinario.
-2. Non indurre il vomito senza indicazioni.
-Prognosi generalmente ottima con cure tempestive (24–48 h).
+### Segni di anemia emolitica (tardivi)
+- Debolezza, letargia
+- Tachicardia, tachipnea
+- Mucose pallide o giallastre (ittero)
+- Urine scure (emoglobinuria)
+- Collasso nei casi gravi
 
 ---
 
-## Scheda: Latte e latticini (intolleranza)
-
-### 1) Non è una tossicità, ma un’intolleranza
-Il problema è il **lattosio**: molti cani e soprattutto gatti perdono l’enzima lattasi dopo lo svezzamento → fermentazione nel colon → gas e diarrea osmotica.
-
-### 2) Alimenti coinvolti
-Latte (fresco/UHT), gelato, formaggi freschi, panna, burro (poco lattosio ma molto grasso), formaggi stagionati (meno lattosio ma salati/grassi), yogurt (variabile).
-
-### 3) Sintomi
-Meteorismo, borborigmi, diarrea acquosa, vomito, crampi addominali.
-
-### 4) Cosa fare
-- Osservare 12–24 ore, offrire acqua
-- Dieta leggera 24 ore se diarrea
-- Veterinario se: sangue, vomito ripetuto, letargia, cucciolo/anziano
+## 4. Cosa fare in caso di ingestione
+- **Non indurre il vomito da soli.**
+- **Contattare subito il veterinario** → è un’emergenza  
+- Indicare:
+   - Quantità ingerita
+   - Peso dell’animale
+   - Tempo dall’ingestione
 
 ---
 
-## Scheda: Cibi molto salati (patatine, snack, salumi)
+# Scheda: Tossicità dell’**Alcol**
 
-### 1) Perché sono pericolosi
-Eccesso di sodio, grassi, spezie e conservanti (nei salumi spesso anche aglio/cipolla in polvere). Rischi:
-- disturbi GI
-- avvelenamento da sale (ipernatriemia)
-- pancreatite
+## 1. Perché l’alcol è tossico
+L’**etanolo (alcol etilico)** è estremamente pericoloso per cani e gatti perché:
 
-### 2) Avvelenamento da sale (ipernatriemia)
-Sintomi entro 1–8 ore:
-- Vomito, diarrea, sete intensa
-- Letargia, tremori, convulsioni, atassia; nei casi gravi coma/morte
+- Viene assorbito molto rapidamente
+- Ha un forte effetto depressivo sul sistema nervoso centrale
+- Può causare **ipoglicemia, ipotermia, acidosi metabolica e collasso respiratorio**
 
-Dose pericolosa indicativa:
-- 4 g di sale/kg → rischio
-- >6–12 g/kg → potenzialmente letale  
-(1 cucchiaino raso ≈ 5 g di sale)
-
-⚠️ Non forzare mai a bere grandi quantità: rischio edema cerebrale.
-
-### 3) Cosa fare
-1. Non indurre vomito da soli.
-2. Allontanare la fonte.
-3. Offrire acqua fresca in piccole quantità.
-4. Veterinario se ingestione significativa o sintomi.
+Gli animali sono **molto più sensibili** degli esseri umani.
 
 ---
 
-## Scheda: Carni crude non controllate (rischio infettivo/tossine)
+## 2. Fonti comuni di alcol
+L’alcol etilico lo possiamo trovare in:
 
-### 1) Perché sono rischiose
-Per “carni crude non controllate” si intendono carni di provenienza ignota, macellazione non certificata, vecchie o mal conservate, potenzialmente contaminate da:
-- batteri (Salmonella, Campylobacter, Listeria, E. coli…)
-- parassiti (Toxoplasma, Neospora, tenie, Trichinella…)
-- tossine preformate (es. enterotossine stafilococciche, tossina botulinica…)
-- contaminanti chimici (residui, metalli pesanti, pesticidi, ecc.) in contesti irregolari
-
-### 2) Chi è più a rischio
-Cuccioli/gattini, anziani, animali con malattie croniche o immunodepressi.
-
-### 3) Cosa fare
-- Se ingerita e compaiono sintomi GI: contattare il veterinario
-- Se carne avariata/odore forte + sintomi: visita immediata
-
-### 4) Prevenzione
-Se si segue una dieta cruda (BARF), usare solo carni certificate per consumo umano e gestite igienicamente.
+- Bevande come vino, birra e superalcolici
+- Impasti crudi lievitati (producono etanolo durante la fermentazione)
+- Sciroppi ed estratti (es. vaniglia)
+- Disinfettanti e gel idroalcolici
+- Profumi e prodotti cosmetici
+- Farmaci e tinture
+- Prodotti fermentati accidentalmente (frutta avariata)
 
 ---
 
-## Scheda: Tonno o pesce crudo in eccesso
+## 3. Dose tossica indicativa
+- Tossicità clinica: **3–6 ml/kg** di alcol al 100%
+- Potenzialmente letale: **8–10 ml/kg** di alcol al 100%
 
-### 1) Carenza di tiamina (vitamina B1)
-Molti pesci crudi (tonno, acciughe, sardine, sgombro) contengono **tiaminasi** → distruzione B1 se consumo frequente/eccessivo.  
-Sintomi: debolezza, atassia, tremori, convulsioni, cecità temporanea, coma.
+Riferimenti per comuni bevande
+- Birra (5%) → tossica da **60–120 ml/kg**
+- Vino (12%)** → tossico da **25–50 ml/kg**
+- Superalcolici (40%) → tossici da **7–15 ml/kg**
 
-### 2) Mercurio (soprattutto nel tonno)
-Possibile neurotossicità e danni renali (rischio maggiore nei cuccioli).
-
-### 3) Istamina (scombrotossina) nel pesce mal conservato
-Intossicazione rapida (15 min – 2 h): arrossamento, prurito, vomito/diarrea, tachicardia, ansimo, tremori, collasso.
-
-### 4) Batteri e parassiti
-Pesce crudo non controllato può contenere Anisakis, Salmonella, Listeria, Vibrio spp., ecc.
-
-### 5) Squilibrio nutrizionale
-Il tonno non è un alimento completo: troppo fosforo, vitamine sbilanciate, stress ossidativo.
-
-### 6) Prevenzione
-- Pesce destinato al consumo umano e conservato correttamente
-- Preferire pesci più piccoli e/o cotti
-- Mai lasciare pesce a temperatura ambiente
-- Evitare pesce con odore forte o aspetto alterato
+Anche **piccole quantità** possono essere molto pericolose, specialmente nei **gatti** e nei **cani piccoli**.
 
 ---
 
-## In sintesi: cosa tenere sempre fuori portata
-- Ossa cotte, impasti crudi, snack salati, dolci “senza zucchero”
-- Uva/uvetta, macadamia, cioccolato, caffeina e alcol
-- Carni e pesce crudi non controllati
+## 4. Sintomi
+Insorgenza rapida: **30–60 minuti**
+
+ Sintomi lievi/moderati
+- Vomito**
+- Disorientamento**
+- Andatura instabile (atassia)
+- Letargia o agitazione
+- Ipersalivazione
+
+ Sintomi gravi
+- Ipotermia
+- Ipoglicemia (molto comune nei cuccioli)
+- Depressione respiratoria
+- Convulsioni
+- Coma
+- Arresto respiratori
+- Morte
 
 ---
 
-## Hai dubbi su cosa offrire al tuo pet?
-Se vuoi una dieta sicura e bilanciata (snack inclusi) o stai valutando BARF/casalingo, posso aiutarti a impostare un piano su misura.
+## 5. Cosa fare in caso di ingestione
+⚠️ **È sempre un’emergenza veterinaria.**
 
-**Prenota una consulenza nutrizionale veterinaria.**
+1. **Contattare immediatamente il veterinario**
+2. **Non indurre il vomito autonomamente** (rischio di aspirazione)
+3. Tenere l’animale al caldo e monitorarlo
+
+---
+
+## 6. Prodotti da tenere lontano
+- Bevande alcoliche
+- Impasto di pane crudo
+- Torte o dolci con liquori
+- Frutta fermentata
+- Gel igienizzanti mani
+- Profumi e deodoranti
+- Pulitori ed estratti alcolici
+
+---
+
+# Scheda: Tossicità di **Caffè, Tè ed Energy Drink**
+
+## 1. Perché sono tossici
+La tossicità deriva principalmente da due tipi di **metilxantine**:
+
+- Caffeina
+- Teobromina (in minor misura nel tè)
+
+Le metilxantine sono sostanze che **cani e gatti metabolizzano molto più lentamente** di noi.
+
+ Cosa fanno
+- Stimolano eccessivamente cuore e sistema nervoso centrale
+- Aumentano la pressione arteriosa
+- Possono provocare aritmie, convulsioni e collasso
+
+---
+
+## 2. Fonti comuni
+
+### Caffè
+- Chicchi di caffè
+- Caffè macinato
+- Caffè liquido / espresso
+- Capsule o cialde (anche usate)
+
+### Tè
+- Tè nero
+- Tè verde
+- Tè matcha
+- Tè oolong
+- Tisane contenenti caffeina (yerba mate, guaranà)
+
+### Energy drink
+Contengono:
+- Caffeina ad alto dosaggio
+- Taurina (non tossica di per sé ma può potenziare effetti cardiaci)
+- Guaranà
+- Zuccheri o dolcificanti (alcuni contengono **xilitolo**, pericolosissimo)
+
+---
+
+## 3. Contenuto medio di caffeina
+- Chicchi/macinato: **10–20 mg per chicco/grammo**
+- Espresso: **60–80 mg**
+- Tè nero: **20–60 mg**
+- Tè verde: **15–40 mg**
+- Energy drink: **30–150 mg per lattina**
+- Guaranà: **fino a 40 mg/g**
+
+---
+
+## 4. Dose tossica per cani e gatti (caffeina mg/kg)
+- **20 mg/kg** → sintomi lievi/moderati
+- **40–50 mg/kg** → sintomi gravi
+- **>80–100 mg/kg** → potenzialmente letale
+
+**Esempio:**  
+Un cane di **10 kg** può avere sintomi con soli **200 mg di caffeina**  
+(2–3 espressi / pochi chicchi di caffè).
+
+---
+
+## 5. Sintomi
+Inizio:** **30 minuti – 2 ore**
+
+### Sintomi neurologici
+- Iperattività
+- Tremori
+- Irritabilità
+- Convulsioni
+
+### Sintomi cardiaci
+- Tachicardia
+- Aritmie
+- Pressione elevata
+- Collasso
+
+### Altri sintomi
+- Vomito / diarrea
+- Aumento della temperatura corporea
+- Minzione frequente
+- Sete intensa
+
+---
+
+## 6. Cosa fare in caso di ingestione
+⚠️**È SEMPRE un’emergenza veterinaria.**
+
+- Contattare immediatamente il veterinario
+- Non indurre il vomito a casa se non espressamente indicato
+- Conservare eventuali chicchi/capsule per mostrarli al medico
+
+---
+
+## 7. Prodotti pericolosi da evitare
+- Chicchi di caffè in ciotole decorative
+- Capsule o cialde lasciate a terra
+- Tè in bustina o sfuso
+- Bibite energetiche
+- Integratori “pre-workout”
+- Cioccolato fondente
+- Bevande con guaranà o yerba mate
+- Dolci con caffè (tiramisù)
+
 
 ### 🩺 **Consiglio di Silvia Vet**
 

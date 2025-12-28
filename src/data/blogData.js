@@ -158,6 +158,27 @@ const blogArticles = [
     it: "/blog/images/toxicos1.png",
   },
   date: "2025-12-20",
+},
+{
+  id: "toxicos2",
+title: {
+  es: "Alimentos tóxicos para perros y gatos. Parte 2",
+  it: "Alimenti tossici per cani e gatti. Parte 2",
+},
+summary: {
+  es: "Ajo, cebolla, alcohol, café, té y bebidas energéticas son productos comunes en el hogar que pueden resultar muy peligrosos para perros y gatos. Te explicamos por qué son tóxicos, qué síntomas pueden provocar y cómo actuar ante una posible ingestión.",
+  it: "Aglio, cipolla, alcol, caffè, tè e bevande energetiche sono prodotti comuni in casa che possono essere molto pericolosi per cani e gatti. Spieghiamo perché sono tossici, quali sintomi possono causare e come intervenire in caso di ingestione.",
+},
+mdPath: {
+  es: "/blog/es/toxicos2-es.md",
+  it: "/blog/it/toxicos2-it.md",
+},
+image: {
+  es: "/blog/images/toxicos2.png",
+  it: "/blog/images/toxicos2.png",
+},
+date: "2025-12-27",
+
 }
 
 
