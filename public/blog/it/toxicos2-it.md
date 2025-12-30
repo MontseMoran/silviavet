@@ -2,8 +2,9 @@
 
 In questa seconda parte continuiamo a esaminare alimenti e sostanze di uso quotidiano che, pur essendo comuni in casa, possono risultare **pericolosi o tossici per cani e gatti**. Conoscerne i rischi aiuta a **prevenire esposizioni accidentali**, intervenire tempestivamente e fare scelte più sicure per la loro alimentazione e il loro ambiente.
 
+---
 
-## Scheda: Tossicità di **Aglio** e **Cipolla**
+# Scheda: Tossicità di Aglio e Cipolla
 
 ## 1. Sostanze tossiche
 Gli Allium (aglio, cipolla, scalogno, porro) contengono **composti organosulfurati ossidanti**, tra cui:
@@ -41,6 +42,17 @@ Anche cipolle disidratate, polveri, omogeneizzati e cibi pronti possono essere t
 ## 3. Sintomi tipici
 I sintomi possono comparire dopo **6–24 ore**, ma spesso i segni dell’anemia emergono dopo **2–5 giorni**.
 
+
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 24px 0;
+">
+
+<div style="flex: 1 1 400px; min-width: 280px;">
+
 ### Disturbi gastrointestinali (precoce)
 - Vomito
 - Diarrea
@@ -53,6 +65,24 @@ I sintomi possono comparire dopo **6–24 ore**, ma spesso i segni dell’anemia
 - Mucose pallide o giallastre (ittero)
 - Urine scure (emoglobinuria)
 - Collasso nei casi gravi
+
+</div>
+<div style="
+  flex: 1 1 300px;
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+">
+  <div style="
+    border-radius: 16px;
+    overflow: hidden;margin-top:50px;
+  ">
+    <img src="/blog/images/ajo.png"
+      alt="chocolates"
+      style="width: 100%; height: auto; display: block;" />
+  </div>
+</div>
+</div>
 
 ---
 
@@ -108,7 +138,17 @@ Anche **piccole quantità** possono essere molto pericolose, specialmente nei **
 ## 4. Sintomi
 Insorgenza rapida: **30–60 minuti**
 
- Sintomi lievi/moderati
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 24px 0;
+">
+
+<div style="flex: 1 1 400px; min-width: 280px;">
+
+ ## Sintomi lievi/moderati
 - Vomito**
 - Disorientamento**
 - Andatura instabile (atassia)
@@ -124,6 +164,23 @@ Insorgenza rapida: **30–60 minuti**
 - Arresto respiratori
 - Morte
 
+</div>
+<div style="
+  flex: 1 1 300px;
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+">
+  <div style="
+    border-radius: 16px;
+    overflow: hidden;margin-top:50px;
+  ">
+    <img src="/blog/images/alcohol.png"
+      alt="chocolates"
+      style="width: 100%; height: auto; display: block;" />
+  </div>
+</div>
+</div>
 ---
 
 ## 5. Cosa fare in caso di ingestione
@@ -146,7 +203,7 @@ Insorgenza rapida: **30–60 minuti**
 
 ---
 
-# Scheda: Tossicità di **Caffè, Tè ed Energy Drink**
+# Scheda: Tossicità di Caffè, Tè ed Energy Drink
 
 ## 1. Perché sono tossici
 La tossicità deriva principalmente da due tipi di **metilxantine**:
@@ -211,6 +268,16 @@ Un cane di **10 kg** può avere sintomi con soli **200 mg di caffeina**
 ## 5. Sintomi
 Inizio:** **30 minuti – 2 ore**
 
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 24px 0;
+">
+
+<div style="flex: 1 1 400px; min-width: 280px;">
+
 ### Sintomi neurologici
 - Iperattività
 - Tremori
@@ -229,6 +296,23 @@ Inizio:** **30 minuti – 2 ore**
 - Minzione frequente
 - Sete intensa
 
+</div>
+<div style="
+  flex: 1 1 300px;
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+">
+  <div style="
+    border-radius: 16px;
+    overflow: hidden;margin-top:50px;
+  ">
+    <img src="/blog/images/cafe.png"
+      alt="chocolates"
+      style="width: 100%; height: auto; display: block;" />
+  </div>
+</div>
+</div>
 ---
 
 ## 6. Cosa fare in caso di ingestione
@@ -251,8 +335,7 @@ Inizio:** **30 minuti – 2 ore**
 - Dolci con caffè (tiramisù)
 
 
-### 🩺 **Consiglio di Silvia Vet**
-
+>### 🩺 **Consiglio di Silvia Vet**
 > Se il tuo cane o gatto potrebbe aver ingerito questo alimento, **non aspettare i sintomi**: contatta subito il veterinario.  
 > E per prevenire rischi e dubbi quotidiani, una **dieta personalizzata** può fare la differenza.  
 > Richiedi la tua **consulenza nutrizionale** qui:  

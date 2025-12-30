@@ -3,14 +3,14 @@
   display: flex;
   justify-content: center;
   background: linear-gradient(to bottom, #fffaf9, #f9fff8);
-overflow-x: visible;
+  overflow-x: visible;
   &__content {
     max-width: 100%;
     line-height: 1.7;
     color: #333;
     font-size: 1.05rem;
-     padding-left: 0.5rem;
-  padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 
     h1,
     h2,
@@ -314,6 +314,6 @@ overflow-x: visible;
   }
 
   .blog-detail__content {
-    max-width: 1600px;
+    max-width: 1900px;
   }
 }
