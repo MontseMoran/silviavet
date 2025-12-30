@@ -78,7 +78,7 @@ I sintomi possono comparire dopo **6–24 ore**, ma spesso i segni dell’anemia
     overflow: hidden;margin-top:50px;
   ">
     <img src="/blog/images/ajo.png"
-      alt="chocolates"
+      alt="aglio e cipolla"
       style="width: 100%; height: auto; display: block;" />
   </div>
 </div>
@@ -176,7 +176,7 @@ Insorgenza rapida: **30–60 minuti**
     overflow: hidden;margin-top:50px;
   ">
     <img src="/blog/images/alcohol.png"
-      alt="chocolates"
+      alt="bottiglie di alcol"
       style="width: 100%; height: auto; display: block;" />
   </div>
 </div>
@@ -308,7 +308,7 @@ Inizio:** **30 minuti – 2 ore**
     overflow: hidden;margin-top:50px;
   ">
     <img src="/blog/images/cafe.png"
-      alt="chocolates"
+      alt="caffè, tè ed energy drink"
       style="width: 100%; height: auto; display: block;" />
   </div>
 </div>

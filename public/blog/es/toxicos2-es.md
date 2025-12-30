@@ -78,7 +78,7 @@ Los síntomas pueden aparecer a las **6–24 horas**, pero los signos de anemia 
     overflow: hidden;margin-top:50px;
   ">
     <img src="/blog/images/ajo.png"
-      alt="chocolates"
+      alt="ajos y cebollas"
       style="width: 100%; height: auto; display: block;" />
   </div>
 </div>
@@ -173,7 +173,7 @@ Incluso **pequeñas cantidades** pueden ser muy peligrosas, sobre todo en **gato
     overflow: hidden;margin-top:50px;
   ">
     <img src="/blog/images/alcohol.png"
-      alt="chocolates"
+      alt="botellas de alcohol"
       style="width: 100%; height: auto; display: block;" />
   </div>
 </div>
@@ -304,7 +304,7 @@ Un perro de **10 kg** puede presentar síntomas con solo **200 mg de cafeína**
     overflow: hidden;margin-top:50px;
   ">
     <img src="/blog/images/cafe.png"
-      alt="chocolates"
+      alt="cafe, tes y bebidas energeticas"
       style="width: 100%; height: auto; display: block;" />
   </div>
 </div>
