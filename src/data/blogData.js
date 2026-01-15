@@ -179,6 +179,26 @@ image: {
 },
 date: "2025-12-27",
 
+},
+{
+  id: "toxicos3",
+  title: {
+    es: "Alimentos tóxicos para perros y gatos. Parte 3",
+    it: "Alimenti tossici per cani e gatti. Parte 3",
+  },
+  summary: {
+    es: "El xilitol, el aguacate y las masas crudas con levadura son alimentos de uso común que pueden provocar intoxicaciones graves en perros y gatos. Te explicamos por qué son peligrosos, qué síntomas pueden causar y cómo actuar ante una posible ingestión.",
+    it: "Xilitolo, avocado e impasti crudi con lievito sono alimenti di uso comune che possono causare gravi intossicazioni in cani e gatti. Spieghiamo perché sono pericolosi, quali sintomi possono provocare e come intervenire in caso di ingestione.",
+  },
+  mdPath: {
+    es: "/blog/es/toxicos3-es.md",
+    it: "/blog/it/toxicos3-it.md",
+  },
+  image: {
+    es: "/blog/images/toxicos3.png",
+    it: "/blog/images/toxicos3.png",
+  },
+  date: "2026-01-15",
 }
 
 
