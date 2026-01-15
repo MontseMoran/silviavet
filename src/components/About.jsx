@@ -44,6 +44,9 @@ function About() {
               <p key={i}>{p}</p>
             ))}
           </div>
+          <span className="about__signature-name">
+      {t("about.signatureName")}
+    </span>
         </div>
       </article>
     </section>
