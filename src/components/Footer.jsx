@@ -54,9 +54,21 @@ function Footer() {
                 aria-label="Instagram de Silvia Vet"
               >
                 <img
-                  src="/icons/instagram.jpg"
-                  alt="Instagram"
+                  src="/icons/instagram.png"
+                  alt="instagram"
                   className="footer__icon__instagram"
+                />
+              </a>
+              <a
+                href="https://www.tiktok.com/@silviavet"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="tiktok de Silvia Vet"
+              >
+                <img
+                  src="/icons/tik-tok.png"
+                  alt="tiktok"
+                  className="footer__icon__tiktok"
                 />
               </a>
             </div>
