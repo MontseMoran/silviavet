@@ -83,7 +83,7 @@
       "name": "Consulenza nutrizionale",
       "category": "Presenziale",
       "diet": "Dieta casalinga",
-      "description": "La consulenza in presenza permette una valutazione completa dell’animale dal vivo. Oltre a rivedere la dieta e le abitudini, viene valutata la condizione muscolare (MCS), insieme al peso e ad altri parametri utili per elaborare un piano nutrizionale preciso e personalizzato. È l’opzione più indicata quando è necessario un esame diretto o un monitoraggio più approfondito. La consulenza si svolge in una delle cliniche partner nel Baix Llobregat e ha una durata di circa 45 minuti.",
+      "description": "La consulenza in presenza permette una valutazione completa dell’animale dal vivo. Oltre a rivedere la dieta e le abitudini, viene valutata la condizione muscolare (MCS), insieme al peso e ad altri parametri utili per elaborare un piano nutrizionale preciso e personalizzato. È l’opzione più adatta quando è necessaria un’osservazione diretta o un monitoraggio più approfondito.La consulenza si svolge presso una delle cliniche convenzionate nel Baix Llobregat oppure a domicilio nel Baix Llobregat, Barcellona, Vallès Occidental e Anoia Sud (Piera, Masquefa e dintorni) e ha una durata approssimativa di 45 minuti.",
       "includes": [
         "Esame fisico dell’animale.",
         "Valutazione della dieta attuale.",
@@ -99,7 +99,7 @@
         "Elaborazione del piano nutrizionale personalizzato (entro 7 giorni).",
         "Videoconferenza extra per spiegare il piano e rispondere alle domande."
       ],
-      "price": "99 €"
+      "price": "Prezzo su richiesta"
     },
 
     "mixta": {
