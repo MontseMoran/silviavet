@@ -123,7 +123,7 @@ Pueden aparecer de inmediato o hasta **72 h después**:
 
 ### 6. ¿Los huesos crudos son seguros?
 - Huesos cocidos → **SIEMPRE peligrosos**  
-- Huesos crudos → **menos riesgosos, pero NO seguros**
+- Huesos crudos → **menos riesgos, pero NO seguros**
 
 Pueden causar:
 - fracturas dentales  
