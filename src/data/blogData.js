@@ -199,6 +199,27 @@ date: "2025-12-27",
     it: "/blog/images/toxicos3.png",
   },
   date: "2026-01-15",
+},
+{
+  id: "toxicos4",
+  title: {
+    es: "Alimentos tóxicos para perros y gatos. Parte 4",
+    it: "Alimenti tossici per cani e gatti. Parte 4",
+  },
+summary: {
+  es: "Los huesos cocidos, las nueces de macadamia y los lácteos son alimentos peligrosos para perros y gatos. Pueden provocar intoxicaciones, obstrucciones y trastornos digestivos. Te explicamos los riesgos, los síntomas más frecuentes y qué hacer si tu mascota los ingiere.",
+  it: "Ossa cotte, noci di macadamia e latticini sono alimenti pericolosi per cani e gatti. Possono causare intossicazioni, ostruzioni e disturbi digestivi. Spieghiamo i rischi, i sintomi più comuni e cosa fare se il tuo animale li ingerisce."
+},
+
+  mdPath: {
+    es: "/blog/es/toxicos4-es.md",
+    it: "/blog/it/toxicos4-it.md",
+  },
+  image: {
+    es: "/blog/images/toxicos4.png",
+    it: "/blog/images/toxicos4.png",
+  },
+  date: "2026-01-31",
 }
 
 
