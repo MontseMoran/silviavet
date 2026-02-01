@@ -102,7 +102,7 @@
       "Elaboración del plan nutricional personalizado (máximo 7 días).",
       "Videollamada adicional para explicar el plan y resolver dudas."
     ],
-    "price": "A consultar"
+    "price": "Precio a consultar"
   },
 
   "mixta": {
@@ -150,7 +150,7 @@
       "revisionsTitle": "Revisiones posteriores",
     "description": "Seguimiento y revisiones periódicas. En pacientes sanos se aconseja un control a los 3-6 meses y luego anual. En pacientes con patologías la frecuencia depende de la situación específica. En cachorros depende de la edad y talla.",
     "priceOnline": "45 €",
-    "pricePresencial": "55 €",
+    "pricePresencial": "Precio a consultar",
     "priceUltraprocesada": "41€"
   },
 
