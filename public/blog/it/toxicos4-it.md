@@ -117,11 +117,19 @@ Possono comparire immediatamente o entro **72 ore**:
 - Ossa cotte → **SEMPRE pericolose**  
 - Ossa crude → **meno rischiose, ma NON sicure**
 
-Possono comunque causare:
-- fratture dentali  
-- ostruzioni  
-- perforazioni  
-- stipsi  
+Le ossa crude, conservando collagene e acqua, presentano una struttura **più elastica,** che riduce significativamente i rischi rispetto a quelle cotte ma non significa però che siano prive di pericoli.
+
+Le ossa crude **non sono adatte a tutti i cani.** Fattori come il carattere, il livello di eccitabilità, l’ansia durante l’assunzione del cibo e la scarsa capacità di autocontrollo incidono sulla sicurezza **più dell’osso in sé.** Cani iperattivi, molto voraci o con una cattiva gestione della masticazione non sono buoni candidati.
+
+Il loro utilizzo richiede una selezione individuale e un’introduzione progressiva. Il cane deve imparare a masticare con calma; per questo è fondamentale scegliere il tipo di osso, la specie animale e la parte anatomica, oltre a una dimensione adeguata e a una supervisione costante.
+
+Non tutte le ossa sono uguali:
+
+• I volatili presentano un rischio maggiore; nel caso del tacchino, ad esempio, può essere considerato solo il collo.
+
+• Le costole singole possono conficcarsi nella bocca; se utilizzate, devono essere offerte in gruppo, non singolarmente.
+
+• Le ossa molto dure aumentano il rischio di fratture dentali.
 
 La decisione va presa con un veterinario esperto in nutrizione.
 

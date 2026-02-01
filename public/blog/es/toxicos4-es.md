@@ -123,13 +123,22 @@ Pueden aparecer de inmediato o hasta **72 h después**:
 
 ### 6. ¿Los huesos crudos son seguros?
 - Huesos cocidos → **SIEMPRE peligrosos**  
-- Huesos crudos → **menos riesgos, pero NO seguros**
+- Huesos crudos → **sí, pero con criterio, porque NO son adecuados para todos los perros**
 
-Pueden causar:
-- fracturas dentales  
-- obstrucciones  
-- perforaciones  
-- estreñimiento  
+Los huesos crudos, al conservar colágeno y agua, presentan una **estructura más elástica**, lo que reduce significativamente los riesgos pero **no están exentos de peligros.**
+
+Los huesos crudos **no son adecuados para todos los perros.** Factores como el carácter, el nivel de excitabilidad, la ansiedad durante la ingesta y la escasa capacidad de autocontrol influyen en la seguridad más que el **propio hueso.** Los perros hiperactivos, muy voraces o con una mala gestión de la masticación no son buenos candidatos.
+
+Su utilización requiere **una selección individual y una introducción progresiva.** El perro debe aprender a masticar con calma; por ello es fundamental elegir el tipo de hueso, la especie animal y la parte anatómica, además de un tamaño adecuado y supervisión constante.
+
+No todos los huesos son iguales:
+
+• Las aves presentan un mayor riesgo; en el caso del pavo, por ejemplo, solo puede considerarse el cuello.
+
+• Las costillas sueltas pueden clavarse en la boca; si se utilizan, deben ofrecerse en grupo, no de forma individual.
+
+• Los huesos muy duros aumentan el riesgo de fracturas dentales.
+
 
 La decisión debe tomarse con un veterinario experto en nutrición.
 
