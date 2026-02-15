@@ -220,7 +220,31 @@ summary: {
     it: "/blog/images/toxicos4.png",
   },
   date: "2026-01-31",
+},
+{
+  id: "toxicos5",
+  title: {
+    es: "Alimentos tóxicos para perros y gatos. Parte 5",
+    it: "Alimenti tossici per cani e gatti. Parte 5",
+  },
+  summary: {
+    es: "El exceso de sal, la carne cruda no controlada y el pescado crudo pueden representar un riesgo para perros y gatos. Pueden provocar intoxicaciones neurológicas, infecciones, pancreatitis y desequilibrios nutricionales. Te explicamos los riesgos, los síntomas más frecuentes y qué hacer ante la ingestión.",
+    it: "L’eccesso di sale, la carne cruda non controllata e il pesce crudo possono rappresentare un rischio per cani e gatti. Possono causare intossicazioni neurologiche, infezioni, pancreatite e squilibri nutrizionali. Spieghiamo i rischi, i sintomi più comuni e cosa fare in caso di ingestione."
+  },
+
+  mdPath: {
+    es: "/blog/es/toxicos5-es.md",
+    it: "/blog/it/toxicos5-it.md",
+  },
+
+  image: {
+    es: "/blog/images/toxicos5.png",
+    it: "/blog/images/toxicos5.png",
+  },
+
+  date: "2026-02-15",
 }
+
 
 
 ];
