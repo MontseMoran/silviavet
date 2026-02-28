@@ -61,6 +61,21 @@ El TMF se ha evaluado en varias condiciones clínicas:
 
 ---
 
+### ¿Qué son el CIBDAI y el CCECAI?
+
+El **CIBDAI** (Canine Inflammatory Bowel Disease Activity Index) y el **CCECAI** (Canine Chronic Enteropathy Clinical Activity Index) son índices clínicos utilizados en medicina veterinaria para evaluar la gravedad y evolución de las enteropatías crónicas en perros, incluida la enfermedad inflamatoria intestinal (EII), y para comparar la eficacia de distintos tratamientos como dietas de eliminación, probióticos, inmunosupresores o trasplante de microbiota fecal (TMF).
+
+**CIBDAI (Canine Inflammatory Bowel Disease Activity Index)**  
+Es un índice rápido y práctico que valora 6 parámetros clínicos: letargo, apetito, vómitos, frecuencia de las deposiciones, consistencia fecal y pérdida de peso. Se utiliza principalmente para monitorizar la evolución clínica y la respuesta al tratamiento.
+
+**CCECAI (Canine Chronic Enteropathy Clinical Activity Index)**  
+Es un índice más completo y sensible, diseñado para evaluar enteropatías crónicas. Además de los signos clínicos (letargo, apetito, vómitos, diarrea, pérdida de peso), incluye parámetros bioquímicos como albúmina y proteínas séricas, presencia de edema o ascitis, respuesta a terapias previas y factores de gravedad clínica. Permite detectar cambios sutiles y realizar un seguimiento más preciso en casos crónicos.
+
+En síntesis, el CIBDAI es más sencillo y ágil, mientras que el CCECAI ofrece una evaluación más exhaustiva y detallada.
+
+---
+
+
 ## Selección de Donantes
 
 La **seguridad y eficacia** dependen del cribado exhaustivo del donante:
