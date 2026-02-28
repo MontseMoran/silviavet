@@ -243,6 +243,30 @@ summary: {
   },
 
   date: "2026-02-15",
+},
+{
+  id: "tmf",
+  title: {
+    es: "Trasplante de Microbiota Fecal en Caninos: Evidencia, Protocolos y Aplicaciones Clínicas",
+    it: "Trapianto di Microbiota Fecale nel Cane: Evidenze, Protocolli e Applicazioni Cliniche",
+  },
+
+  summary: {
+    es: "El trasplante de microbiota fecal (TMF) es una herramienta terapéutica emergente en medicina veterinaria para el tratamiento de la disbiosis y diversas enteropatías en perros. Revisamos la evidencia científica actual, los protocolos de selección de donantes, las vías de administración y sus aplicaciones clínicas.",
+    it: "Il trapianto di microbiota fecale (TMF) è uno strumento terapeutico emergente in medicina veterinaria per il trattamento della disbiosi e di diverse enteropatie nel cane. Analizziamo le evidenze scientifiche attuali, i protocolli di selezione dei donatori, le vie di somministrazione e le applicazioni cliniche."
+  },
+
+  mdPath: {
+    es: "/blog/es/tmf-es.md",
+    it: "/blog/it/tmf-it.md",
+  },
+
+  image: {
+    es: "/blog/images/tmf.png",
+    it: "/blog/images/tmf.png",
+  },
+
+  date: "2026-02-28",
 }
 
 
