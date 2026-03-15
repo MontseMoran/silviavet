@@ -267,6 +267,26 @@ summary: {
   },
 
   date: "2026-02-28",
+},
+{
+  "id": "omega3",
+  "title": {
+    "es": "Omega-3 y pacientes con problemas de bilis: ¿se pueden o no se pueden dar?",
+    "it": "Omega-3 e pazienti con problemi biliari: si possono somministrare oppure no?"
+  },
+  "summary": {
+    "es": "Los ácidos grasos omega-3 tienen múltiples aplicaciones clínicas en medicina veterinaria, pero su absorción depende del correcto funcionamiento del sistema biliar y pancreático. Analizamos cómo se digieren los lípidos en perros y gatos, cómo influyen las diferentes formas químicas de omega-3 y qué ocurre cuando existe colestasis, obstrucción biliar o colecistectomía.",
+    "it": "Gli acidi grassi omega-3 hanno numerose applicazioni cliniche in medicina veterinaria, ma il loro assorbimento dipende dal corretto funzionamento del sistema biliare e pancreatico. Analizziamo come vengono digeriti i lipidi nel cane e nel gatto, come influiscono le diverse forme chimiche degli omega-3 e cosa accade in presenza di colestasi, ostruzione biliare o colecistectomia."
+  },
+  "mdPath": {
+    "es": "/blog/es/omega3-es.md",
+    "it": "/blog/it/omega3-it.md"
+  },
+  "image": {
+    "es": "/blog/images/omega3.png",
+    "it": "/blog/images/omega3.png"
+  },
+  "date": "2026-03-15"
 }
 
 
