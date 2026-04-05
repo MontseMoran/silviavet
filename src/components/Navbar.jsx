@@ -1,20 +1,65 @@
+import { useEffect, useState } from "react";
+import { Link, useLocation } from "react-router-dom";
 import { useTranslation } from "react-i18next";
+import { HashLink } from "react-router-hash-link";
 import "../styles/Navbar.scss";
 import LanguageSelector from "./LanguageSelector";
-import logo from "/logo.png";
-import { useState } from "react";
-import { HashLink } from "react-router-hash-link";
 import Modal from "./Modal";
-import { Link } from "react-router-dom";
+import logo from "/logo.png";
 
 function Navbar() {
   const { t } = useTranslation();
+  const location = useLocation();
   const [isOpen, setIsOpen] = useState(false);
   const [showModal, setShowModal] = useState(false);
-const handleMenuClick = (action) => {
-  setIsOpen(false); // cierra el menú
-  if (action) action(); // ejecuta una acción extra si la hay (por ejemplo, abrir el modal)
-};
+  const [activeSection, setActiveSection] = useState("");
+
+  useEffect(() => {
+    if (location.pathname === "/blog") {
+      setActiveSection("blog");
+      return;
+    }
+
+    if (location.pathname !== "/") {
+      setActiveSection("");
+      return;
+    }
+
+    const sectionIds = ["benefits", "about", "services"];
+    const sections = sectionIds
+      .map((id) => document.getElementById(id))
+      .filter(Boolean);
+
+    if (!sections.length) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const visibleEntries = entries
+          .filter((entry) => entry.isIntersecting)
+          .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
+
+        if (visibleEntries.length > 0) {
+          setActiveSection(visibleEntries[0].target.id);
+        }
+      },
+      {
+        rootMargin: "-35% 0px -45% 0px",
+        threshold: [0.2, 0.4, 0.6],
+      }
+    );
+
+    sections.forEach((section) => observer.observe(section));
+
+    return () => observer.disconnect();
+  }, [location.pathname]);
+
+  const handleMenuClick = (action) => {
+    setIsOpen(false);
+    if (action) action();
+  };
+
+  const getLinkClassName = (section) =>
+    `navbar__link${activeSection === section ? " navbar__link--active" : ""}`;
 
   return (
     <>
@@ -36,39 +81,47 @@ const handleMenuClick = (action) => {
             <img src={logo} alt="Silvia Vet logo" />
           </div>
         </div>
+
         <ul
           className={`navbar__menu ${isOpen ? "open" : ""}`}
           onClick={(e) => e.stopPropagation()}
         >
           <li>
-            <HashLink 
-            smooth to="/#benefits" 
-            className="navbar__link"
-             onClick={() => handleMenuClick()}
+            <HashLink
+              smooth
+              to="/#benefits"
+              className={getLinkClassName("benefits")}
+              onClick={() => handleMenuClick()}
             >
               {t("nav.benefits")}
             </HashLink>
           </li>
+
           <li>
-            <HashLink 
-            className="navbar__link" 
-            smooth to="/#about" 
-            onClick={() => handleMenuClick()}>
+            <HashLink
+              smooth
+              to="/#about"
+              className={getLinkClassName("about")}
+              onClick={() => handleMenuClick()}
+            >
               {t("nav.about")}
             </HashLink>
           </li>
+
           <li>
-            <HashLink 
-            className="navbar__link" 
-            smooth to="/#services"
-            onClick={() => handleMenuClick()}>
+            <HashLink
+              smooth
+              to="/#services"
+              className={getLinkClassName("services")}
+              onClick={() => handleMenuClick()}
+            >
               {t("nav.services")}
             </HashLink>
           </li>
 
           <li>
             <Link
-              className="navbar__link"
+              className={getLinkClassName("blog")}
               to="/blog"
               onClick={() => handleMenuClick(() => window.scrollTo(0, 0))}
             >
@@ -82,7 +135,7 @@ const handleMenuClick = (action) => {
               className="navbar__link"
               onClick={(e) => {
                 e.preventDefault();
-                handleMenuClick(()=>setShowModal(true));
+                handleMenuClick(() => setShowModal(true));
               }}
             >
               {t("nav.contact")}
@@ -100,6 +153,7 @@ const handleMenuClick = (action) => {
             </a>
           </li>
         </ul>
+
         {showModal && (
           <Modal
             isOpen={showModal}
@@ -122,7 +176,9 @@ const handleMenuClick = (action) => {
 
         <LanguageSelector />
       </nav>
+
       <div className="nav-spacer" />
+
       {isOpen && (
         <div className="nav-overlay" onClick={() => setIsOpen(false)}></div>
       )}

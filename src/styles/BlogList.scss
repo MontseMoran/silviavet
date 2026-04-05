@@ -37,6 +37,7 @@
   align-items: flex-start;
   gap: 0.35rem;
   width: 100%;
+  min-height: 7.25rem;
   padding: 0.9rem 1.1rem;
   border: 1px solid #d7e2d5;
   border-radius: 20px;
@@ -301,6 +302,7 @@
   }
 
   .blog-list__tab {
+    min-height: 6.75rem;
     padding: 0.95rem 1.15rem;
   }
 
@@ -352,6 +354,7 @@
   }
 
   .blog-list__tab {
+    min-height: 7rem;
     padding: 1rem 1.2rem;
   }
 
