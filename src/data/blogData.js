@@ -227,7 +227,7 @@ const blogArticles = [
       it: "Revisione critica sul ruolo dei legumi nell'alimentazione del cane: digeribilità reale, fattori antinutrizionali, impatto sulla taurina e possibile relazione con la cardiomiopatia dilatativa.",
     },
     mdPath: { es: "/blog/es/legumbres-es.md", it: "/blog/it/legumbres-it.md" },
-    image: { es: "/blog/images/patologies.png", it: "/blog/images/patologies.png" },
+    image: { es: "/blog/images/legumbres.png", it: "/blog/images/legumbres.png" },
     date: "2026-04-01",
   },
 ];
