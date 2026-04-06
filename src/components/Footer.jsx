@@ -8,7 +8,7 @@ function Footer() {
   return (
     <footer id="contact" className="footer footer--diagonals">
       <div className="footer__inner">
-        <div  className="footer__cards">
+        <div className="footer__cards">
           <div className="footer__card footer__card--left">
             <p>{t("footer.whatsApp")}:</p>
             <a
@@ -27,7 +27,7 @@ function Footer() {
           <div className="footer__card footer__card--center">
             <p>{t("footer.email")}:</p>
             <a href="mailto:info@silviavet.com" className="footer__link">
-              📧 info@silviavet.com
+              info@silviavet.com
             </a>
           </div>
 
@@ -55,7 +55,7 @@ function Footer() {
               >
                 <img
                   src="/icons/instagram.png"
-                  alt="instagram"
+                  alt="Instagram"
                   className="footer__icon__instagram"
                 />
               </a>
@@ -63,11 +63,11 @@ function Footer() {
                 href="https://www.tiktok.com/@silviavet"
                 target="_blank"
                 rel="noreferrer"
-                aria-label="tiktok de Silvia Vet"
+                aria-label="TikTok de Silvia Vet"
               >
                 <img
                   src="/icons/tik-tok.png"
-                  alt="tiktok"
+                  alt="TikTok"
                   className="footer__icon__tiktok"
                 />
               </a>
@@ -76,10 +76,21 @@ function Footer() {
         </div>
 
         <div className="footer__legal">{t("footer.legal", { year })}</div>
-        <a href="/cookies">Política de Cookies</a>
-
+        <a href="/cookies" className="footer__cookies-link">
+          Política de Cookies
+        </a>
+        <p className="footer__business-link">
+          {t("footer.businessPrompt")}{" "}
+          <a
+            href="mailto:app.animavet@gmail.com"
+            className="footer__link footer__link--inline"
+          >
+            {t("footer.businessCta")}
+          </a>
+        </p>
       </div>
     </footer>
   );
 }
+
 export default Footer;

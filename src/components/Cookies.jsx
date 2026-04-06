@@ -1,18 +1,21 @@
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { useTranslation } from "react-i18next";
 import "../styles/cookies.scss";
 import rehypeRaw from "rehype-raw";
 
 
 function Cookies() {
+  const { i18n } = useTranslation();
   const [content, setContent] = useState("");
+  const lang = (i18n.resolvedLanguage || i18n.language || "es").slice(0, 2);
 
   useEffect(() => {
-    fetch("/cookies.md")
+    fetch(lang === "it" ? "/cookies-it.md" : "/cookies-es.md")
       .then((res) => res.text())
       .then((text) => setContent(text));
-  }, []);
+  }, [lang]);
 
   return (
     <main className="cookies-page">

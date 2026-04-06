@@ -149,6 +149,27 @@
   color: #1c4534;
 }
 
+.footer__business-link {
+  margin: 0.25rem 0 0;
+  font-size: 0.95rem;
+  color: #1c4534;
+}
+
+.footer__cookies-link {
+  color: #2f7d32;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.footer__cookies-link:hover {
+  color: #215c25;
+  text-decoration: underline;
+}
+
+.footer__link--inline {
+  display: inline;
+}
+
 .footer__cards {
   position: relative;
   display: flex;

@@ -48,10 +48,11 @@ function BlogList() {
       audienceHint: "Elige el tipo de contenido que quieres ver",
       clientEmoji: "🐾",
       clientTitle: "Tengo un perro o gato",
-      clientDescription: "Consejos claros y útiles para cuidar su salud",
+      clientDescription: "Contenido claro y útil para cuidar su salud",
       professionalEmoji: "🩺",
       professionalTitle: "Soy veterinario",
-      professionalDescription: "Contenido clínico y técnico para profundizar",
+      professionalDescription:
+        "Contenido clínico y técnico para profundizar",
       paginationPrev: "Anterior",
       paginationNext: "Siguiente",
       paginationAria: "Paginación del blog",
@@ -62,7 +63,7 @@ function BlogList() {
       clientEmoji: "🐾",
       clientTitle: "Ho un cane o un gatto",
       clientDescription:
-        "Consigli chiari e utili per prenderti cura della sua salute",
+        "Contenuto chiaro e utile per prenderti cura della sua salute",
       professionalEmoji: "🩺",
       professionalTitle: "Sono un veterinario",
       professionalDescription:

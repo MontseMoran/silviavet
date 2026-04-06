@@ -16,7 +16,9 @@
     "follow": "Seguimi su",
     "legal": "© {{year}} Silvia Vet. Tutti i diritti riservati.",
     "email": "Scrivimi a",
-    "whatsApp": "Scrivimi su WhatsApp"
+    "whatsApp": "Scrivimi su WhatsApp",
+    "businessPrompt": "Hai bisogno di un sito web per la tua attività?",
+    "businessCta": "Parliamone."
   },
   "about": {
     "title": "Chi sono",
