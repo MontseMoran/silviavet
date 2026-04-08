@@ -230,9 +230,43 @@ const blogArticles = [
     image: { es: "/blog/images/legumbres.png", it: "/blog/images/legumbres.png" },
     date: "2026-04-01",
   },
+  {
+    id: "legumbres-tutores",
+    audience: "client",
+    title: {
+      es: "Legumbresâ€¦ Â¿son una buena opciÃ³n para la alimentaciÃ³n de los perros?",
+      it: "Legumiâ€¦ sono una buona scelta per l'alimentazione dei cani?",
+    },
+    summary: {
+      es: "Las legumbres estÃ¡n cada vez mÃ¡s presentes en muchos piensos, sobre todo en los grain-free. Te explicamos de forma clara quÃ© aportan, quÃ© dudas generan y por quÃ© no siempre son la mejor base para alimentar a un perro.",
+      it: "I legumi sono sempre piÃ¹ presenti in molti alimenti per cani, soprattutto nei grain-free. Ti spieghiamo in modo chiaro cosa apportano, quali dubbi generano e perchÃ© non sempre rappresentano la base migliore per alimentare un cane.",
+    },
+    mdPath: {
+      es: "/blog/es/legumbres-tutores-es.md",
+      it: "/blog/it/legumbres-tutores-it.md",
+    },
+    image: { es: "/blog/images/legumbres.png", it: "/blog/images/legumbres.png" },
+    date: "2026-04-08",
+  },
 ];
 
-export default blogArticles;
+const normalizedBlogArticles = blogArticles.map((article) =>
+  article.id === "legumbres-tutores"
+    ? {
+        ...article,
+        title: {
+          es: "Legumbres… ¿son una buena opción para la alimentación de los perros?",
+          it: "Legumi… sono una buona scelta per l'alimentazione dei cani?",
+        },
+        summary: {
+          es: "Las legumbres están cada vez más presentes en muchos piensos, sobre todo en los grain-free. Te explicamos de forma clara qué aportan, qué dudas generan y por qué no siempre son la mejor base para alimentar a un perro.",
+          it: "I legumi sono sempre più presenti in molti alimenti per cani, soprattutto nei grain-free. Ti spieghiamo in modo chiaro cosa apportano, quali dubbi generano e perché non sempre rappresentano la base migliore per alimentare un cane.",
+        },
+      }
+    : article
+);
+
+export default normalizedBlogArticles;
 
 export function pickLang(field, lang = "es") {
   if (typeof field === "string") return field;
