@@ -216,6 +216,24 @@ const blogArticles = [
     date: "2026-03-15",
   },
   {
+    id: "omega3-tutores",
+    audience: "client",
+    title: {
+      es: "Omega-3 y problemas de bilis en perros y gatos: si o no?",
+      it: "Omega-3 e problemi biliari in cani e gatti: si o no?",
+    },
+    summary: {
+      es: "Si tu perro o gato tiene problemas de bilis, el omega-3 puede seguir siendo util, pero no de cualquier manera. Te explicamos cuando puede ayudar, cuando conviene tener mas cuidado y como introducirlo sin empeorar la digestion.",
+      it: "Se il tuo cane o gatto ha problemi biliari, gli omega-3 possono ancora essere utili, ma non in modo indiscriminato. Ti spieghiamo quando possono aiutare, quando serve piu cautela e come introdurli senza peggiorare la digestione.",
+    },
+    mdPath: {
+      es: "/blog/es/omega3-tutores-es.md",
+      it: "/blog/it/omega3-tutores-it.md",
+    },
+    image: { es: "/blog/images/omega3.png", it: "/blog/images/omega3.png" },
+    date: "2026-05-02",
+  },
+  {
     id: "legumbres",
     audience: "professional",
     title: {
