@@ -6,7 +6,7 @@ Gli omega-3 sono tra gli integratori più utilizzati in medicina veterinaria, so
 
 La risposta non è semplicemente “sì” o “no”. Nella maggior parte dei casi si possono usare, ma tutto dipende da come funziona il sistema digestivo dell’animale e dal tipo di omega-3 che si sceglie.
 
-## Per capire il motivo
+## Perché la bile è così importante
 
 Per capire il motivo, bisogna sapere che gli omega-3 sono grassi, e come tutti i grassi hanno bisogno della bile per essere assorbiti correttamente. La bile, prodotta dal fegato, serve a “spezzare” i grassi in particelle più piccole, permettendo all’intestino di assorbirli. Quando questo meccanismo funziona bene, gli omega-3 vengono assimilati senza problemi. Se invece la bile è ridotta o non scorre correttamente, l’assorbimento diminuisce e possono comparire disturbi come feci molli o grasse.
 
