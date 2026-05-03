@@ -2,7 +2,7 @@
 
 ## Riassunto
 
-Gli omega-3 sono tra gli integratori più utilizzati in medicina veterinaria, soprattutto per il loro effetto antinfiammatorio e di supporto in molte malattie croniche. Quando però un cane o un gatto ha problemi alla bile o al fegato, è normale chiedersi se siano davvero adatti oppure no.
+Gli omega-3 sono tra gli integratori più utilizzati in medicina veterinaria, soprattutto per il loro effetto antinfiammatorio e di supporto in molte malattie croniche. Quando però un cane o un gatto hanno problemi alla bile o al fegato, è normale chiedersi se siano davvero adatti oppure no.
 
 La risposta non è semplicemente “sì” o “no”. Nella maggior parte dei casi si possono usare, ma tutto dipende da come funziona il sistema digestivo dell’animale e dal tipo di omega-3 che si sceglie.
 
@@ -36,7 +36,7 @@ Nonostante queste attenzioni, gli omega-3 restano un supporto molto prezioso. Ai
 
 In conclusione, gli omega-3 non sono controindicati nei pazienti con problemi alla bile, ma devono essere utilizzati in modo personalizzato. La scelta del tipo di integratore, della dose e della modalità di somministrazione fa davvero la differenza tra un’integrazione efficace e una poco utile o mal tollerata.
 
-Se vuoi capire meglio come funziona tutto questo a un livello più tecnico, puoi approfondire nell’articolo completo nella sezione veterinaria del blog. E se invece hai bisogno di sapere cosa è davvero più adatto per il tuo cane o gatto nel suo caso specifico, ricorda che ogni animale è diverso… ed è proprio qui che una strategia personalizzata fa la differenza.
+Se vuoi capire meglio come funziona tutto questo a un livello più tecnico — come vengono assorbiti gli omega-3, quale ruolo svolge la bile o perché alcune forme funzionano meglio di altre — puoi approfondire nell’articolo completo nella sezione veterinaria del blog. E se invece hai bisogno di sapere cosa è davvero più adatto per il tuo cane o gatto nel suo caso specifico, ricorda che ogni animale è diverso… ed è proprio qui che una strategia personalizzata fa la differenza.
 
 ---
 
