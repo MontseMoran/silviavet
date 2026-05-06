@@ -111,6 +111,21 @@ const blogArticles = [
     date: "2025-11-20",
   },
   {
+    id: "iris-vet",
+    audience: "professional",
+    title: {
+      es: "Manejo nutricional de la enfermedad renal crónica felina (IRIS 1-4)",
+      it: "Gestione nutrizionale della malattia renale cronica felina (IRIS 1-4)",
+    },
+    summary: {
+      es: "Revisión fisiopatológica y clínica del manejo nutricional en gatos con ERC según estadios IRIS: fósforo, proteína, hidratación, uremia, microbiota e integración dirigida por fase.",
+      it: "Revisione fisiopatologica e clinica della gestione nutrizionale del gatto con CKD secondo gli stadi IRIS: fosforo, proteina, idratazione, uremia, microbiota e integrazione mirata per fase.",
+    },
+    mdPath: { es: "/blog/es/iris-vet-es.md", it: "/blog/it/iris-vet-it.md" },
+    image: { es: "/blog/images/gato-renal.png", it: "/blog/images/gato-renal.png" },
+    date: "2026-05-06",
+  },
+  {
     id: "toxicos1",
     audience: "client",
     title: {

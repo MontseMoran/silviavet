@@ -62,7 +62,7 @@ function BlogDetail() {
                 {...props}
                 loading="lazy"
                 alt={props.alt || ""}
-                style={{ maxWidth: "100%", height: "auto" }}
+                style={{ maxWidth: "100%", ...props.style, height: "auto" }}
               />
             ),
             table: (props) => <table className="md-table" {...props} />,
