@@ -77,9 +77,14 @@ function Navbar() {
         </button>
 
         <div className="navbar__brand">
-          <div className="navbar__logo">
+          <Link
+            to="/"
+            className="navbar__logo"
+            onClick={() => handleMenuClick(() => window.scrollTo(0, 0))}
+            aria-label="Ir al inicio"
+          >
             <img src={logo} alt="Silvia Vet logo" />
-          </div>
+          </Link>
         </div>
 
         <ul
