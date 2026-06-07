@@ -81,6 +81,24 @@ const blogArticles = [
     date: "2025-10-29",
   },
   {
+    id: "multipatologico-tutores",
+    audience: "client",
+    title: {
+      es: "Cuando una sola dieta no es suficiente: cada mascota necesita su propio plan",
+      it: "Quando una sola dieta non basta: ogni animale ha bisogno del suo piano",
+    },
+    summary: {
+      es: "Cuando un perro o un gato tiene varias enfermedades a la vez, elegir su comida ya no es tan simple. Te explicamos por qué una dieta personalizada puede marcar la diferencia en su bienestar.",
+      it: "Quando un cane o un gatto ha più patologie contemporaneamente, scegliere il cibo non è più così semplice. Ti spieghiamo perché una dieta personalizzata può fare davvero la differenza nel suo benessere.",
+    },
+    mdPath: {
+      es: "/blog/es/multipatologico-tutores-es.md",
+      it: "/blog/it/multipatologico-tutores-it.md",
+    },
+    image: { es: "/blog/images/patologies.png", it: "/blog/images/patologies.png" },
+    date: "2026-06-07",
+  },
+  {
     id: "dieta-gato",
     audience: "client",
     title: {
