@@ -5,14 +5,13 @@ import { useTranslation } from "react-i18next";
 import "../styles/cookies.scss";
 import rehypeRaw from "rehype-raw";
 
-
-function Cookies() {
+function Privacy() {
   const { i18n } = useTranslation();
   const [content, setContent] = useState("");
   const lang = (i18n.resolvedLanguage || i18n.language || "es").slice(0, 2);
 
   useEffect(() => {
-    fetch(lang === "it" ? "/cookies-it.md" : "/cookies-es.md")
+    fetch(lang === "it" ? "/privacy-it.md" : "/privacy-es.md")
       .then((res) => res.text())
       .then((text) => setContent(text));
   }, [lang]);
@@ -21,7 +20,7 @@ function Cookies() {
     <main className="cookies-page">
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeRaw]} 
+        rehypePlugins={[rehypeRaw]}
         components={{
           a: (props) => (
             <a {...props} target="_blank" rel="noopener noreferrer" />
@@ -33,4 +32,5 @@ function Cookies() {
     </main>
   );
 }
-export default Cookies;
+
+export default Privacy;

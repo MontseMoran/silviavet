@@ -18,7 +18,10 @@
     "email": "Scrivimi a",
     "whatsApp": "Scrivimi su WhatsApp",
     "businessPrompt": "Hai bisogno di un sito web per la tua attività?",
-    "businessCta": "Parliamone."
+    "businessCta": "Parliamone.",
+    "legalNotice": "Note Legali",
+    "cookies": "Cookie Policy",
+    "privacy": "Privacy Policy"
   },
   "about": {
     "title": "Chi sono",
@@ -32,6 +35,7 @@
       "Credo che ogni animale meriti di vivere al meglio e sono convinta che il benessere inizi sempre dall’amore, dalla cura e da una corretta alimentazione."
     ],
     "signatureName": "Silvia Gasperini",
+    "signatureLicense": "col. B4885",
     "readMore": "Leggi di più",
     "readLess": "Leggi di meno"
   },
@@ -158,5 +162,19 @@
     "reserveButton": "Prenota consulenza",
     "includesTitle": "Include",
     "stepsTitle": "Come funziona"
+  },
+  "jotform": {
+    "title": "Modulo esterno di Jotform",
+    "description": "Stai per lasciare Silvia Vet e aprire un modulo ospitato da Jotform per richiedere una consulenza nutrizionale.",
+    "notice": "Jotform potrebbe installare propri cookie o trattare dati personali quando apri il modulo e invii le informazioni.",
+    "privacy": "Consulta la privacy policy",
+    "continue": "Continua su Jotform",
+    "cancel": "Annulla"
+  },
+  "cookiesBanner": {
+    "eyebrow": "Privacy",
+    "title": "Avviso privacy",
+    "description": "Questo sito utilizza solo archiviazione tecnica per ricordare la lingua di navigazione. Non usa cookie analitici o pubblicitari. Il modulo Jotform si apre solo se decidi volontariamente di accedere a quel link esterno.",
+    "dismiss": "Ho capito"
   }
 }

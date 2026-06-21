@@ -67,6 +67,32 @@
       transform: scale(0.97);
     }
   }
+
+  &__btn--secondary {
+    background: #edf2ed;
+    color: #243427;
+
+    &:hover {
+      background: #dce6dc;
+    }
+  }
+
+  &__text {
+    margin: 0.5rem 0;
+    line-height: 1.5;
+  }
+
+  &__text--small {
+    font-size: 0.92rem;
+    color: #4b5a4d;
+  }
+
+  &__link {
+    display: inline-block;
+    margin: 0.5rem 0 0.75rem;
+    color: #2f7d32;
+    font-weight: 600;
+  }
 }
 
 /* Animaciones suaves */

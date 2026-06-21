@@ -5,6 +5,7 @@ import { HashLink } from "react-router-hash-link";
 import "../styles/Navbar.scss";
 import LanguageSelector from "./LanguageSelector";
 import Modal from "./Modal";
+import JotformLink from "./JotformLink";
 import logo from "/logo.png";
 
 function Navbar() {
@@ -148,14 +149,12 @@ function Navbar() {
           </li>
 
           <li>
-            <a
+            <JotformLink
               href="https://form.jotform.com/252726382736363"
-              target="_blank"
-              rel="noopener noreferrer"
               className="navbar__link navbar__link--button"
             >
               {t("nav.start")}
-            </a>
+            </JotformLink>
           </li>
         </ul>
 

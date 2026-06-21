@@ -1,32 +1,55 @@
 ## Informativa sui Cookie
 
-**Ultimo aggiornamento:** aprile 2026
+**Ultimo aggiornamento:** giugno 2026
 
-In **silviavet.com** utilizziamo cookie e tecnologie simili per migliorare la tua esperienza di navigazione, offrire contenuti personalizzati e ricordare le tue preferenze, come la lingua.
-
----
-
-### 1. Cosa sono i cookie?
-I cookie sono piccoli file di testo che i siti web salvano sul tuo dispositivo (computer, tablet o smartphone) quando li visiti.
-Servono per riconoscere la tua visita, ricordare le preferenze o raccogliere informazioni anonime sull'uso del sito.
+Su **silviavet.com** utilizziamo solo strumenti necessari al funzionamento di base del sito e alla memorizzazione della lingua di navigazione.
 
 ---
 
-### 2. Tipi di cookie utilizzati
-In **silviavet.com** utilizziamo solo cookie **tecnici e funzionali**, necessari per il corretto funzionamento del sito:
-
-| Tipo di cookie | Scopo | Durata | Proprietario |
-|-----------------|--------|----------|---------------|
-| `i18nextLng` | Ricorda la lingua selezionata dall'utente (spagnolo o italiano). | 1 anno | Proprio |
-| `Jotform` | Permette il funzionamento del modulo di contatto ospitato su Jotform. Può includere cookie di sessione e di sicurezza. | Variabile | Terze parti (Jotform Inc.) |
-
-Non utilizziamo cookie pubblicitari né di analisi statistica.
+### 1. Cosa sono i cookie e le tecnologie simili
+I cookie sono piccoli file di testo che un sito web può salvare sul tuo dispositivo. Possono essere usate anche tecnologie simili, come l'archiviazione locale del browser.
 
 ---
 
-### 3. Come disattivare i cookie
-Puoi configurare il tuo browser per rifiutare o eliminare i cookie installati da questo o altri siti web.
-Tieni presente che, in tal caso, alcune funzioni potrebbero non essere più disponibili.
+### 2. Cosa usa realmente questo sito
+Attualmente **silviavet.com** non carica servizi di analisi, pubblicità comportamentale o profilazione pubblicitaria prima dell'interazione dell'utente.
+
+Il sito utilizza:
+
+| Tecnologia | Finalità | Durata | Titolare | Tipo |
+|------------|----------|--------|----------|------|
+| `localStorage` (`lang`) | Ricordare la lingua selezionata dall'utente. | Persistente finché non viene eliminato manualmente o cambiata la lingua. | Propria | Tecnica / funzionale |
+
+Non è stato rilevato il caricamento automatico di:
+
+- Google Analytics
+- Google Tag Manager
+- Meta Pixel / Facebook Pixel
+- Hotjar
+- Microsoft Clarity
+- YouTube, Vimeo o Calendly incorporati
+- iframe o script esterni di Jotform
+
+---
+
+### 3. Uso di Jotform
+Il pulsante **"Inizia ora"** e alcuni link del blog reindirizzano a un modulo esterno ospitato su **Jotform**.
+
+Questo modulo **non viene caricato dentro silviavet.com** tramite `iframe` o `script`. Si apre solo se l'utente clicca il link e conferma di voler lasciare il sito.
+
+Una volta aperta la pagina di Jotform, tale terza parte può installare propri cookie, misure di sicurezza o trattamenti di dati in base alle proprie policy. Questi cookie non vengono installati da **silviavet.com** prima di tale azione.
+
+---
+
+### 4. Gestione del consenso
+Il sito mostra un avviso informativo su privacy e cookie per indicare che utilizza solo archiviazione tecnica necessaria a ricordare la lingua.
+
+Attualmente non esiste alcuna categoria opzionale reale di cookie o tracciatori che l'utente debba attivare o disattivare su **silviavet.com**.
+
+---
+
+### 5. Come disattivare cookie e archiviazione
+Puoi configurare il browser per rifiutare o eliminare cookie e altri dati memorizzati dai siti web.
 
 Consulta le guide ufficiali:
 
@@ -37,5 +60,5 @@ Consulta le guide ufficiali:
 
 ---
 
-### 4. Accettazione della politica
-Continuando a navigare su **silviavet.com**, accetti l'uso dei cookie secondo quanto descritto nella presente informativa.
+### 6. Maggiori informazioni
+Per informazioni sul trattamento dei dati personali collegato al modulo esterno, consulta la [Privacy Policy](/privacy).

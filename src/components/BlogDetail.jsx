@@ -6,6 +6,7 @@ import remarkGfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
 import "../styles/BlogDetail.scss";
 import blogArticles, { pickLang } from "../data/blogData.js";
+import JotformLink from "./JotformLink";
 
 function BlogDetail() {
   const { id } = useParams();
@@ -66,9 +67,14 @@ function BlogDetail() {
               />
             ),
             table: (props) => <table className="md-table" {...props} />,
-            a: (props) => (
-              <a {...props} target="_blank" rel="noopener noreferrer" />
-            ),
+            a: ({ href = "", children, ...props }) =>
+              href.includes("form.jotform.com") ? (
+                <JotformLink href={href} {...props}>
+                  {children}
+                </JotformLink>
+              ) : (
+                <a href={href} {...props} target="_blank" rel="noopener noreferrer" />
+              ),
           }}
         >
           {md}

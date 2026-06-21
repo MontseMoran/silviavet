@@ -76,9 +76,17 @@ function Footer() {
         </div>
 
         <div className="footer__legal">{t("footer.legal", { year })}</div>
-        <a href="/cookies" className="footer__cookies-link">
-          Política de Cookies
-        </a>
+        <div className="footer__legal-links">
+          <a href="/legal" className="footer__cookies-link">
+            {t("footer.legalNotice")}
+          </a>
+          <a href="/cookies" className="footer__cookies-link">
+            {t("footer.cookies")}
+          </a>
+          <a href="/privacy" className="footer__cookies-link">
+            {t("footer.privacy")}
+          </a>
+        </div>
         <p className="footer__business-link">
           {t("footer.businessPrompt")}{" "}
           <a
