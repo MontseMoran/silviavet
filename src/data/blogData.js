@@ -1,5 +1,23 @@
 const blogArticles = [
   {
+    id: "ingesta-agua-tutores",
+    audience: "client",
+    title: {
+      es: "Cómo aumentar la ingesta de agua en perros y gatos",
+      it: "Come aumentare l’assunzione di acqua nel cane e nel gatto",
+    },
+    summary: {
+      es: "Estrategias sencillas para mejorar la hidratación en perros y gatos con densidad urinaria alta: agua en las comidas, alimento húmedo, fuentes, caldos e infusiones seguras.",
+      it: "Strategie semplici per migliorare l’idratazione di cani e gatti con densità urinaria elevata: acqua nei pasti, alimento umido, fontanelle, brodi e infusioni sicure.",
+    },
+    mdPath: {
+      es: "/blog/es/ingesta-agua-tutores-es.md",
+      it: "/blog/it/ingesta-agua-tutores-it.md",
+    },
+    image: { es: "/blog/images/agua.png", it: "/blog/images/agua.png" },
+    date: "2026-06-21",
+  },
+  {
     id: "bcs-mcs",
     audience: "client",
     title: {
