@@ -82,7 +82,18 @@
         "Elaborazione del piano nutrizionale personalizzato (entro 7 giorni).",
         "Videoconferenza extra per spiegare il piano e rispondere alle domande."
       ],
-      "price": "89 €"
+      "price": "89 €",
+      "prices": [
+        {
+          "label": "Cane o gatto sano o obeso",
+          "price": "89 €"
+        },
+        {
+          "label": "Cane o gatto con patologie",
+          "price": "109 €",
+          "description": "Include: malattie epatiche, renali, cardiache, dermatologiche, endocrine (diabete, sindrome di Cushing), digestive, oncologiche e altre condizioni che richiedono un approccio nutrizionale specifico."
+        }
+      ]
     },
 
     "presencial": {
@@ -125,7 +136,18 @@
         "Elaborazione del piano nutrizionale personalizzato (entro 7 giorni).",
         "Videoconferenza extra per spiegare il piano e rispondere alle domande."
       ],
-      "price": "89 €"
+      "price": "89 €",
+      "prices": [
+        {
+          "label": "Cane o gatto sano o obeso",
+          "price": "89 €"
+        },
+        {
+          "label": "Cane o gatto con patologie",
+          "price": "109 €",
+          "description": "Include: malattie epatiche, renali, cardiache, dermatologiche, endocrine (diabete, sindrome di Cushing), digestive, oncologiche e altre condizioni che richiedono un approccio nutrizionale specifico."
+        }
+      ]
     },
 
     "ultraprocesada": {

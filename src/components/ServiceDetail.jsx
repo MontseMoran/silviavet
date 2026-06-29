@@ -13,6 +13,8 @@ function ServiceDetail() {
   const { t } = useTranslation();
   const [showModal, setShowModal] = useState(false);
   const service = services.find((s) => s.id === id);
+  const prices = t(`services.${id}.prices`, { returnObjects: true });
+  const hasMultiplePrices = Array.isArray(prices) && prices.length > 0;
 
   if (!service) {
     return <p>Servicio no encontrado</p>;
@@ -107,12 +109,27 @@ function ServiceDetail() {
   </div>
 
   <motion.p
-    className="service-detail__price service-detail__price--inline"
+    className={`service-detail__price ${hasMultiplePrices ? "service-detail__price--group" : "service-detail__price--inline"}`}
     initial={{ opacity: 0, scale: 0.9 }}
     animate={{ opacity: 1, scale: 1 }}
     transition={{ duration: 0.6, delay: 0.5 }}
   >
-    {t(`services.${service.id}.price`)}
+    {hasMultiplePrices ? (
+      prices.map((option, index) => (
+        <span
+          key={`${option.label}-${index}`}
+          className={`service-detail__price-option${option.description ? " service-detail__price-option--detailed" : ""}`}
+        >
+          <span className="service-detail__price-label">{option.label}</span>
+          <span className="service-detail__price-value">{option.price}</span>
+          {option.description ? (
+            <span className="service-detail__price-description">{option.description}</span>
+          ) : null}
+        </span>
+      ))
+    ) : (
+      t(`services.${service.id}.price`)
+    )}
   </motion.p>
 </div>
 

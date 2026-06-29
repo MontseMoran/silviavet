@@ -84,7 +84,18 @@
       "Elaboración del plan nutricional personalizado (máximo 7 días)",
       "Videollamada adicional para explicar el plan y resolver dudas"
     ],
-    "price": "89 €"
+    "price": "89 €",
+    "prices": [
+      {
+        "label": "Perro o gato sano u obeso",
+        "price": "89 €"
+      },
+      {
+        "label": "Perro o gato con patologías",
+        "price": "109 €",
+        "description": "Incluye: enfermedades hepáticas, renales, cardíacas, dermatológicas, endocrinas (diabetes, síndrome de Cushing), digestivas, oncológicas y otras patologías que requieran un abordaje nutricional específico."
+      }
+    ]
   },
 
   "presencial": {
@@ -128,7 +139,18 @@
       "Elaboración del plan nutricional personalizado (máximo 7 días)",
       "Videollamada adicional para explicar el plan y resolver dudas"
     ],
-    "price": "89 €"
+    "price": "89 €",
+    "prices": [
+      {
+        "label": "Perro o gato sano u obeso",
+        "price": "89 €"
+      },
+      {
+        "label": "Perro o gato con patologías",
+        "price": "109 €",
+        "description": "Incluye: enfermedades hepáticas, renales, cardíacas, dermatológicas, endocrinas (diabetes, síndrome de Cushing), digestivas, oncológicas y otras patologías que requieran un abordaje nutricional específico."
+      }
+    ]
   },
 
   "ultraprocesada": {
