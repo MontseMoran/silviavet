@@ -48,6 +48,24 @@ const blogArticles = [
     date: "2025-10-10",
   },
   {
+    id: "hidratacion-urolitiasis",
+    audience: "professional",
+    title: {
+      es: "Hidratación y prevención de la urolitiasis canina: del volumen urinario a la RSS",
+      it: "Idratazione e prevenzione dell'urolitiasi canina: dal volume urinario alla RSS",
+    },
+    summary: {
+      es: "Revisión fisiopatológica del papel de la hidratación en la prevención de la urolitiasis: sobresaturación urinaria relativa, densidad urinaria, volumen urinario y estrategias clínicas para aumentar la ingesta hídrica.",
+      it: "Revisione fisiopatologica del ruolo dell'idratazione nella prevenzione dell'urolitiasi: sovrasaturazione urinaria relativa, densità urinaria, volume urinario e strategie cliniche per aumentare l'assunzione idrica.",
+    },
+    mdPath: {
+      es: "/blog/es/hidratacion-urolitiasis-es.md",
+      it: "/blog/it/hidratacion-urolitiasis-it.md",
+    },
+    image: { es: "/blog/images/agua.png", it: "/blog/images/agua.png" },
+    date: "2026-07-16",
+  },
+  {
     id: "aburrimiento-obesidad",
     audience: "client",
     title: {
