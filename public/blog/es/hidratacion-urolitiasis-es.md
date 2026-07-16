@@ -148,4 +148,4 @@ Por este motivo, el aumento de la ingesta de agua continúa siendo, probablement
 - Palm CA et al. Trends in canine urolith composition and risk factors. Journal of Veterinary Internal Medicine. 2021.
 - Del Angel-Caraza J et al. Canine silica urolithiasis: epidemiological observations and risk factors. Animals. 2020.
 - Paßlack N et al. Dietary moisture and urinary dilution in dogs and cats. Animals. 2020.
-- Minnesota Urolith Center
+- Minnesota Urolith Center.
